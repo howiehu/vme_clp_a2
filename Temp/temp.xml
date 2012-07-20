@@ -1,0 +1,2058 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project name="a">
+  <Package name="b">
+    <Key ID="str_action_salute">
+      <Original>Salute</Original>
+      <English>敬礼</English>
+    </Key>
+    <Key ID="str_action_sitdown">
+      <Original>Sit down</Original>
+      <English>坐下</English>
+    </Key>
+    <Key ID="str_action_surrender">
+      <Original>Surrender</Original>
+      <English>投降</English>
+    </Key>
+    <Key ID="str_action_takemagazine">
+      <Original>Take %1%2</Original>
+      <English>拿取%1%2</English>
+    </Key>
+    <Key ID="str_action_takeweapon">
+      <Original>Take %1%2</Original>
+      <English>拿取%1%2</English>
+    </Key>
+    <Key ID="str_action_team_switch">
+      <Original>Team switch</Original>
+      <English>切换小队</English>
+    </Key>
+    <Key ID="str_ailevel_normal">
+      <Original>Normal</Original>
+      <English>普通</English>
+    </Key>
+    <Key ID="str_ailevel_novice">
+      <Original>Novice</Original>
+      <English>新兵</English>
+    </Key>
+    <Key ID="str_all_voices">
+      <Original>All</Original>
+      <English>全体注意</English>
+    </Key>
+    <Key ID="str_ambient_life">
+      <Original>Ambient life</Original>
+      <English>自然生物</English>
+    </Key>
+    <Key ID="str_april">
+      <Original>Apr</Original>
+      <English>四月</English>
+    </Key>
+    <Key ID="str_arcmark_title1">
+      <Original>Insert marker</Original>
+      <English>插入标记</English>
+    </Key>
+    <Key ID="str_arcmark_type1">
+      <Original>Icon:</Original>
+      <English>图标：</English>
+    </Key>
+    <Key ID="str_arcmark_type2">
+      <Original>Fill:</Original>
+      <English>填充：</English>
+    </Key>
+    <Key ID="str_arcsens_title1">
+      <Original>Insert trigger</Original>
+      <English>插入触发器</English>
+    </Key>
+    <Key ID="str_arcunit_title2">
+      <Original>Insert unit</Original>
+      <English>插入单位</English>
+    </Key>
+    <Key ID="str_arcwp_title1">
+      <Original>Insert waypoint</Original>
+      <English>插入路径点</English>
+    </Key>
+    <Key ID="str_attack">
+      <Original>Engage</Original>
+      <English>交战</English>
+    </Key>
+    <Key ID="str_august">
+      <Original>Aug</Original>
+      <English>八月</English>
+    </Key>
+    <Key ID="str_diff_camera_shake">
+      <Original>Camera shake</Original>
+      <English>摄像机晃动</English>
+    </Key>
+    <Key ID="str_diff_clock_indicator">
+      <Original>Clock indicator</Original>
+      <English>时钟指示器</English>
+    </Key>
+    <Key ID="str_diff_death_messages">
+      <Original>YOU WERE KILLED</Original>
+      <English>阵亡后视角</English>
+    </Key>
+    <Key ID="str_diff_enemy_tag">
+      <Original>Enemy TAG</Original>
+      <English>敌方标识</English>
+    </Key>
+    <Key ID="str_diff_friendly_tag">
+      <Original>Friendly TAG</Original>
+      <English>友方标识</English>
+    </Key>
+    <Key ID="str_diff_hud">
+      <Original>Extended HUD info</Original>
+      <English>额外的用户界面信息</English>
+    </Key>
+    <Key ID="str_diff_hud_group_info">
+      <Original>HUD show group</Original>
+      <English>用户界面显示组队信息</English>
+    </Key>
+    <Key ID="str_diff_hud_perm">
+      <Original>Permanent extended HUD info</Original>
+      <English>永不消失的额外用户界面信息</English>
+    </Key>
+    <Key ID="str_diff_hud_wp">
+      <Original>HUD waypoints info</Original>
+      <English>用户界面显示路径点信息</English>
+    </Key>
+    <Key ID="str_diff_hud_wp_perm">
+      <Original>HUD waypoints info permanently</Original>
+      <English>永不消失的用户界面路径点信息</English>
+    </Key>
+    <Key ID="str_diff_map">
+      <Original>Extended map info</Original>
+      <English>额外的地图信息</English>
+    </Key>
+    <Key ID="str_diff_network_stats">
+      <Original>Multiplayer score</Original>
+      <English>多人模式得分</English>
+    </Key>
+    <Key ID="str_diff_unlimited_saves">
+      <Original>Unlimited saves</Original>
+      <English>无限保存游戏</English>
+    </Key>
+    <Key ID="str_diff_von_id">
+      <Original>VON ID</Original>
+      <English>语音通讯ID</English>
+    </Key>
+    <Key ID="str_diff_weapon_cursor">
+      <Original>Weapon crosshair</Original>
+      <English>武器准心</English>
+    </Key>
+    <Key ID="str_dik_numpad0">
+      <Original>0 [NUM]</Original>
+      <English>0 [小键盘]</English>
+    </Key>
+    <Key ID="str_dik_numpad1">
+      <Original>1 [NUM]</Original>
+      <English>1 [小键盘]</English>
+    </Key>
+    <Key ID="str_dik_numpad2">
+      <Original>2 [NUM]</Original>
+      <English>2 [小键盘]</English>
+    </Key>
+    <Key ID="str_dik_numpad3">
+      <Original>3 [NUM]</Original>
+      <English>3 [小键盘]</English>
+    </Key>
+    <Key ID="str_dik_numpad4">
+      <Original>4 [NUM]</Original>
+      <English>4 [小键盘]</English>
+    </Key>
+    <Key ID="str_dik_numpad5">
+      <Original>5 [NUM]</Original>
+      <English>5 [小键盘]</English>
+    </Key>
+    <Key ID="str_dik_numpad6">
+      <Original>6 [NUM]</Original>
+      <English>6 [小键盘]</English>
+    </Key>
+    <Key ID="str_dik_numpad7">
+      <Original>7 [NUM]</Original>
+      <English>7 [小键盘]</English>
+    </Key>
+    <Key ID="str_dik_numpad8">
+      <Original>8 [NUM]</Original>
+      <English>8 [小键盘]</English>
+    </Key>
+    <Key ID="str_dik_numpad9">
+      <Original>9 [NUM]</Original>
+      <English>9 [小键盘]</English>
+    </Key>
+    <Key ID="str_dik_numpadcomma">
+      <Original>. [NUM]</Original>
+      <English>. [小键盘]</English>
+    </Key>
+    <Key ID="str_dik_numpadenter">
+      <Original>Enter [NUM]</Original>
+      <English>回车 [小键盘]</English>
+    </Key>
+    <Key ID="str_dik_numpadequals">
+      <Original>= [NUM]</Original>
+      <English>= [小键盘]</English>
+    </Key>
+    <Key ID="str_dik_prior">
+      <Original>Page Up</Original>
+      <English>上翻页</English>
+    </Key>
+    <Key ID="str_disp_int_again">
+      <Original>Again</Original>
+      <English>重播</English>
+    </Key>
+    <Key ID="str_disp_int_respawn">
+      <Original>Respawn</Original>
+      <English>重生</English>
+    </Key>
+    <Key ID="str_disp_int_resume">
+      <Original>Resume</Original>
+      <English>继续游戏</English>
+    </Key>
+    <Key ID="str_disp_int_skip">
+      <Original>Skip</Original>
+      <English>跳过</English>
+    </Key>
+    <Key ID="str_disp_int_title">
+      <Original>Paused</Original>
+      <English>已暂停</English>
+    </Key>
+    <Key ID="str_disp_mpsetup_roles_civilian">
+      <Original>Roles for Civilians:</Original>
+      <English>平民方角色：</English>
+    </Key>
+    <Key ID="str_disp_mpsetup_roles_east">
+      <Original>Roles for OPFOR:</Original>
+      <English>红方角色：</English>
+    </Key>
+    <Key ID="str_disp_mpsetup_roles_guerrila">
+      <Original>Roles for Independent:</Original>
+      <English>中立方角色：</English>
+    </Key>
+    <Key ID="str_disp_mpsetup_roles_west">
+      <Original>Roles for BLUFOR:</Original>
+      <English>蓝方角色：</English>
+    </Key>
+    <Key ID="str_disp_revert_question">
+      <Original>You are attempting to revert to an earlier point in your campaign. Information about your progress and any saves after this point will be lost.</Original>
+      <English>您正在试图将您的战役重置到较早的一个记录点，在此记录点之后的全部战役进程和游戏存档将会丢失，您确定要这样做吗？</English>
+    </Key>
+    <Key ID="str_disp_show">
+      <Original>Show</Original>
+      <English>显示</English>
+    </Key>
+    <Key ID="str_disp_single_title">
+      <Original>Single Missions</Original>
+      <English>单人任务</English>
+    </Key>
+    <Key ID="str_disp_xbox_hint_campaign_restart">
+      <Original>Revert</Original>
+      <English>重置</English>
+    </Key>
+    <Key ID="str_disp_xbox_hint_mission_restart">
+      <Original>Restart</Original>
+      <English>重新开始</English>
+    </Key>
+    <Key ID="str_disp_xbox_message_saving_dont_turn_off">
+      <Original>Saving game. Please wait.</Original>
+      <English>保存游戏中，请稍候。</English>
+    </Key>
+    <Key ID="str_disp_xbox_message_saving_user_dont_turn_off">
+      <Original>Saving game. Please wait.</Original>
+      <English>保存游戏中，请稍候。</English>
+    </Key>
+    <Key ID="str_east">
+      <Original>OPFOR</Original>
+      <English>红方</English>
+    </Key>
+    <Key ID="str_east_seized">
+      <Original>Seized by OPFOR</Original>
+      <English>被红方占领</English>
+    </Key>
+    <Key ID="str_echl">
+      <Original>Echelon L.</Original>
+      <English>左梯形队</English>
+    </Key>
+    <Key ID="str_echr">
+      <Original>Echelon R.</Original>
+      <English>右梯形队</English>
+    </Key>
+    <Key ID="str_empty">
+      <Original>Empty</Original>
+      <English>空的</English>
+    </Key>
+    <Key ID="str_empty_slot">
+      <Original>Empty</Original>
+      <English>空的</English>
+    </Key>
+    <Key ID="str_enabled">
+      <Original>Enabled</Original>
+      <English>已开启</English>
+    </Key>
+    <Key ID="str_engage">
+      <Original>Open fire, Engage at will</Original>
+      <English>主动开火，自由交战</English>
+    </Key>
+    <Key ID="str_expect">
+      <Original>Wait for me</Original>
+      <English>等待我的命令</English>
+    </Key>
+    <Key ID="str_february">
+      <Original>Feb</Original>
+      <English>二月</English>
+    </Key>
+    <Key ID="str_file">
+      <Original>Column (compact)</Original>
+      <English>纵队（紧凑）</English>
+    </Key>
+    <Key ID="str_filter_battleye_text">
+      <Original>BattlEye required:</Original>
+      <English>BattlEye 反作弊：</English>
+    </Key>
+    <Key ID="str_filter_full_text">
+      <Original>Full servers:</Original>
+      <English>已满员的服务器：</English>
+    </Key>
+    <Key ID="str_filter_passworded_text">
+      <Original>Passworded:</Original>
+      <English>已加密的服务器：</English>
+    </Key>
+    <Key ID="str_fire">
+      <Original>Fire</Original>
+      <English>开火</English>
+    </Key>
+    <Key ID="str_follow_me">
+      <Original>Return to Formation</Original>
+      <English>返回编队</English>
+    </Key>
+    <Key ID="str_formation">
+      <Original>Formation</Original>
+      <English>编队</English>
+    </Key>
+    <Key ID="str_friday">
+      <Original>Fri</Original>
+      <English>星期五</English>
+    </Key>
+    <Key ID="str_gear_drop">
+      <Original>Drop</Original>
+      <English>放下</English>
+    </Key>
+    <Key ID="str_gear_rank">
+      <Original>Rank:</Original>
+      <English>军衔：</English>
+    </Key>
+    <Key ID="str_gear_rearm">
+      <Original>Rearm</Original>
+      <English>补充弹药</English>
+    </Key>
+    <Key ID="str_gear_take">
+      <Original>Take</Original>
+      <English>拿取</English>
+    </Key>
+    <Key ID="str_gear_vehicle">
+      <Original>Vehicle:</Original>
+      <English>载具：</English>
+    </Key>
+    <Key ID="str_getin">
+      <Original>Mount</Original>
+      <English>装载</English>
+    </Key>
+    <Key ID="str_getin_pos">
+      <Original>Where</Original>
+      <English>位置</English>
+    </Key>
+    <Key ID="str_getin_pos_any">
+      <Original>Anywhere</Original>
+      <English>任何位置</English>
+    </Key>
+    <Key ID="str_getin_pos_cargo">
+      <Original>Ride in back</Original>
+      <English>座舱</English>
+    </Key>
+    <Key ID="str_getin_pos_comm">
+      <Original>Commander</Original>
+      <English>指挥官</English>
+    </Key>
+    <Key ID="str_getin_pos_driver">
+      <Original>Driver</Original>
+      <English>驾驶员</English>
+    </Key>
+    <Key ID="str_getin_pos_gunn">
+      <Original>Gunner</Original>
+      <English>炮手</English>
+    </Key>
+    <Key ID="str_getin_pos_pilot">
+      <Original>Pilot</Original>
+      <English>飞行员</English>
+    </Key>
+    <Key ID="str_getout">
+      <Original>Disembark</Original>
+      <English>卸载</English>
+    </Key>
+    <Key ID="str_getout_im">
+      <Original>Disembark</Original>
+      <English>卸载</English>
+    </Key>
+    <Key ID="str_guerrila">
+      <Original>Independent</Original>
+      <English>中立方</English>
+    </Key>
+    <Key ID="str_guerrila_seized">
+      <Original>Seized by Independent</Original>
+      <English>被中立方占领</English>
+    </Key>
+    <Key ID="str_hide">
+      <Original>Find cover</Original>
+      <English>寻找掩体</English>
+    </Key>
+    <Key ID="str_host_session">
+      <Original>Host new session</Original>
+      <English>建立新服务器</English>
+    </Key>
+    <Key ID="str_ignore">
+      <Original>Never fire</Original>
+      <English>永不开火</English>
+    </Key>
+    <Key ID="str_input_device_mouse_0">
+      <Original>Prim. Mouse Btn.</Original>
+      <English>鼠标主键</English>
+    </Key>
+    <Key ID="str_input_device_mouse_1">
+      <Original>Sec. Mouse Btn.</Original>
+      <English>鼠标副键</English>
+    </Key>
+    <Key ID="str_input_device_mouse_2">
+      <Original>Middle Mouse Btn.</Original>
+      <English>鼠标中键</English>
+    </Key>
+    <Key ID="str_input_device_mouse_3">
+      <Original>Mouse Btn. #4</Original>
+      <English>鼠标按键#4</English>
+    </Key>
+    <Key ID="str_input_device_mouse_4">
+      <Original>Mouse Btn. #5</Original>
+      <English>鼠标按键#5</English>
+    </Key>
+    <Key ID="str_input_device_mouse_5">
+      <Original>Mouse Btn. #6</Original>
+      <English>鼠标按键#6</English>
+    </Key>
+    <Key ID="str_input_device_mouse_6">
+      <Original>Mouse Btn. #7</Original>
+      <English>鼠标按键#7</English>
+    </Key>
+    <Key ID="str_input_device_mouse_7">
+      <Original>Mouse Btn. #8</Original>
+      <English>鼠标按键#8</English>
+    </Key>
+    <Key ID="str_input_device_mouse_axis_x">
+      <Original>Mouse X-Axis</Original>
+      <English>鼠标X轴</English>
+    </Key>
+    <Key ID="str_input_device_mouse_axis_y">
+      <Original>Mouse Y-Axis</Original>
+      <English>鼠标Y轴</English>
+    </Key>
+    <Key ID="str_input_device_mouse_axis_z">
+      <Original>Mouse Wheel</Original>
+      <English>鼠标滚轮</English>
+    </Key>
+    <Key ID="str_input_device_mouse_down">
+      <Original>Mouse down</Original>
+      <English>鼠标下移</English>
+    </Key>
+    <Key ID="str_input_device_mouse_left">
+      <Original>Mouse left</Original>
+      <English>鼠标左移</English>
+    </Key>
+    <Key ID="str_input_device_mouse_right">
+      <Original>Mouse right</Original>
+      <English>鼠标右移</English>
+    </Key>
+    <Key ID="str_input_device_mouse_up">
+      <Original>Mouse up</Original>
+      <English>鼠标上移</English>
+    </Key>
+    <Key ID="str_input_device_mouse_wheel_down">
+      <Original>Mouse wheel down</Original>
+      <English>鼠标滚轮向下</English>
+    </Key>
+    <Key ID="str_input_device_mouse_wheel_up">
+      <Original>Mouse wheel up</Original>
+      <English>鼠标滚轮向上</English>
+    </Key>
+    <Key ID="str_input_device_pov_e">
+      <Original>Pov 90 deg</Original>
+      <English>苦力帽90度</English>
+    </Key>
+    <Key ID="str_input_device_pov_n">
+      <Original>Pov 0 deg</Original>
+      <English>苦力帽0度</English>
+    </Key>
+    <Key ID="str_input_device_pov_ne">
+      <Original>Pov 45 deg</Original>
+      <English>苦力帽45度</English>
+    </Key>
+    <Key ID="str_input_device_pov_nw">
+      <Original>Pov 315 deg</Original>
+      <English>苦力帽315度</English>
+    </Key>
+    <Key ID="str_input_device_pov_s">
+      <Original>Pov 180 deg</Original>
+      <English>苦力帽180度</English>
+    </Key>
+    <Key ID="str_input_device_pov_se">
+      <Original>Pov 125 deg</Original>
+      <English>苦力帽125度</English>
+    </Key>
+    <Key ID="str_input_device_pov_sw">
+      <Original>Pov 225 deg</Original>
+      <English>苦力帽225度</English>
+    </Key>
+    <Key ID="str_input_device_pov_w">
+      <Original>Pov 270 deg</Original>
+      <English>苦力帽270度</English>
+    </Key>
+    <Key ID="str_input_device_stick_0">
+      <Original>Stick Btn. #1</Original>
+      <English>游戏杆按钮#1</English>
+    </Key>
+    <Key ID="str_input_device_stick_1">
+      <Original>Stick Btn. #2</Original>
+      <English>游戏杆按钮#2</English>
+    </Key>
+    <Key ID="str_input_device_stick_10">
+      <Original>Stick Btn. #11</Original>
+      <English>游戏杆按钮#11</English>
+    </Key>
+    <Key ID="str_input_device_stick_11">
+      <Original>Stick Btn. #12</Original>
+      <English>游戏杆按钮#12</English>
+    </Key>
+    <Key ID="str_input_device_stick_12">
+      <Original>Stick Btn. #13</Original>
+      <English>游戏杆按钮#13</English>
+    </Key>
+    <Key ID="str_input_device_stick_13">
+      <Original>Stick Btn. #14</Original>
+      <English>游戏杆按钮#14</English>
+    </Key>
+    <Key ID="str_input_device_stick_14">
+      <Original>Stick Btn. #15</Original>
+      <English>游戏杆按钮#15</English>
+    </Key>
+    <Key ID="str_input_device_stick_15">
+      <Original>Stick Btn. #16</Original>
+      <English>游戏杆按钮#16</English>
+    </Key>
+    <Key ID="str_input_device_stick_16">
+      <Original>Stick Btn. #17</Original>
+      <English>游戏杆按钮#17</English>
+    </Key>
+    <Key ID="str_input_device_stick_17">
+      <Original>Stick Btn. #18</Original>
+      <English>游戏杆按钮#18</English>
+    </Key>
+    <Key ID="str_input_device_stick_18">
+      <Original>Stick Btn. #19</Original>
+      <English>游戏杆按钮#19</English>
+    </Key>
+    <Key ID="str_input_device_stick_19">
+      <Original>Stick Btn. #20</Original>
+      <English>游戏杆按钮#20</English>
+    </Key>
+    <Key ID="str_input_device_stick_2">
+      <Original>Stick Btn. #3</Original>
+      <English>游戏杆按钮#3</English>
+    </Key>
+    <Key ID="str_input_device_stick_20">
+      <Original>Stick Btn. #21</Original>
+      <English>游戏杆按钮#21</English>
+    </Key>
+    <Key ID="str_input_device_stick_21">
+      <Original>Stick Btn. #22</Original>
+      <English>游戏杆按钮#22</English>
+    </Key>
+    <Key ID="str_input_device_stick_22">
+      <Original>Stick Btn. #23</Original>
+      <English>游戏杆按钮#23</English>
+    </Key>
+    <Key ID="str_input_device_stick_23">
+      <Original>Stick Btn. #24</Original>
+      <English>游戏杆按钮#24</English>
+    </Key>
+    <Key ID="str_input_device_stick_24">
+      <Original>Stick Btn. #25</Original>
+      <English>游戏杆按钮#25</English>
+    </Key>
+    <Key ID="str_input_device_stick_25">
+      <Original>Stick Btn. #26</Original>
+      <English>游戏杆按钮#26</English>
+    </Key>
+    <Key ID="str_input_device_stick_26">
+      <Original>Stick Btn. #27</Original>
+      <English>游戏杆按钮#27</English>
+    </Key>
+    <Key ID="str_input_device_stick_27">
+      <Original>Stick Btn. #28</Original>
+      <English>游戏杆按钮#28</English>
+    </Key>
+    <Key ID="str_input_device_stick_28">
+      <Original>Stick Btn. #29</Original>
+      <English>游戏杆按钮#29</English>
+    </Key>
+    <Key ID="str_input_device_stick_29">
+      <Original>Stick Btn. #30</Original>
+      <English>游戏杆按钮#30</English>
+    </Key>
+    <Key ID="str_input_device_stick_3">
+      <Original>Stick Btn. #4</Original>
+      <English>游戏杆按钮#4</English>
+    </Key>
+    <Key ID="str_input_device_stick_30">
+      <Original>Stick Btn. #31</Original>
+      <English>游戏杆按钮#31</English>
+    </Key>
+    <Key ID="str_input_device_stick_31">
+      <Original>Stick Btn. #32</Original>
+      <English>游戏杆按钮#32</English>
+    </Key>
+    <Key ID="str_input_device_stick_4">
+      <Original>Stick Btn. #5</Original>
+      <English>游戏杆按钮#5</English>
+    </Key>
+    <Key ID="str_input_device_stick_5">
+      <Original>Stick Btn. #6</Original>
+      <English>游戏杆按钮#6</English>
+    </Key>
+    <Key ID="str_input_device_stick_6">
+      <Original>Stick Btn. #7</Original>
+      <English>游戏杆按钮#7</English>
+    </Key>
+    <Key ID="str_input_device_stick_7">
+      <Original>Stick Btn. #8</Original>
+      <English>游戏杆按钮#8</English>
+    </Key>
+    <Key ID="str_input_device_stick_8">
+      <Original>Stick Btn. #9</Original>
+      <English>游戏杆按钮#9</English>
+    </Key>
+    <Key ID="str_input_device_stick_9">
+      <Original>Stick Btn. #10</Original>
+      <English>游戏杆按钮#10</English>
+    </Key>
+    <Key ID="str_input_device_stick_axis_x_neg">
+      <Original>Stick X- Axis</Original>
+      <English>游戏杆X轴负向移动</English>
+    </Key>
+    <Key ID="str_input_device_stick_axis_x_pos">
+      <Original>Stick X+ Axis</Original>
+      <English>游戏杆X轴正向移动</English>
+    </Key>
+    <Key ID="str_input_device_stick_axis_y_neg">
+      <Original>Stick Y- Axis</Original>
+      <English>游戏杆Y轴负向移动</English>
+    </Key>
+    <Key ID="str_input_device_stick_axis_y_pos">
+      <Original>Stick Y+ Axis</Original>
+      <English>游戏杆Y轴正向移动</English>
+    </Key>
+    <Key ID="str_input_device_stick_axis_z_neg">
+      <Original>Stick Z- Axis</Original>
+      <English>游戏杆Z轴负向移动</English>
+    </Key>
+    <Key ID="str_input_device_stick_axis_z_pos">
+      <Original>Stick Z+ Axis</Original>
+      <English>游戏杆Z轴正向移动</English>
+    </Key>
+    <Key ID="str_input_device_stick_rot_x_neg">
+      <Original>Stick X- Rotate</Original>
+      <English>游戏杆X轴负向旋转</English>
+    </Key>
+    <Key ID="str_input_device_stick_rot_x_pos">
+      <Original>Stick X+ Rotate</Original>
+      <English>游戏杆X轴正向旋转</English>
+    </Key>
+    <Key ID="str_input_device_stick_rot_y_neg">
+      <Original>Stick Y- Rotate</Original>
+      <English>游戏杆Y轴负向旋转</English>
+    </Key>
+    <Key ID="str_input_device_stick_rot_y_pos">
+      <Original>Stick Y+ Rotate</Original>
+      <English>游戏杆Y轴正向旋转</English>
+    </Key>
+    <Key ID="str_input_device_stick_rot_z_neg">
+      <Original>Stick Z- Rotate</Original>
+      <English>游戏杆Z轴负向旋转</English>
+    </Key>
+    <Key ID="str_input_device_stick_rot_z_pos">
+      <Original>Stick Z+ Rotate</Original>
+      <English>游戏杆Z轴正向旋转</English>
+    </Key>
+    <Key ID="str_input_device_stick_slider_1_neg">
+      <Original>Stick Slider 1-</Original>
+      <English>游戏杆滑块1负向滑动</English>
+    </Key>
+    <Key ID="str_input_device_stick_slider_1_pos">
+      <Original>Stick Slider 1+</Original>
+      <English>游戏杆滑块1正向滑动</English>
+    </Key>
+    <Key ID="str_input_device_stick_slider_2_neg">
+      <Original>Stick Slider 2-</Original>
+      <English>游戏杆滑块2负向滑动</English>
+    </Key>
+    <Key ID="str_input_device_stick_slider_2_pos">
+      <Original>Stick Slider 2+</Original>
+      <English>&gt;游戏杆滑块2正向滑动</English>
+    </Key>
+    <Key ID="str_input_with_ctrl">
+      <Original>Right Ctrl+%s</Original>
+      <English>右Ctrl+%s</English>
+    </Key>
+    <Key ID="str_january">
+      <Original>Jan</Original>
+      <English>一月</English>
+    </Key>
+    <Key ID="str_july">
+      <Original>Jul</Original>
+      <English>七月</English>
+    </Key>
+    <Key ID="str_june">
+      <Original>Jun</Original>
+      <English>六月</English>
+    </Key>
+    <Key ID="str_keyboard_format_double_tap">
+      <Original>2x%s</Original>
+      <English>双击%s</English>
+    </Key>
+    <Key ID="str_lib_info_ammo_count">
+      <Original>Ammunition count:</Original>
+      <English>装弹量：</English>
+    </Key>
+    <Key ID="str_lib_info_amphibious">
+      <Original>Amphibious:</Original>
+      <English>两栖能力：</English>
+    </Key>
+    <Key ID="str_lib_info_fuel_cap">
+      <Original>Fuel capacity:</Original>
+      <English>燃料储备量：</English>
+    </Key>
+    <Key ID="str_lib_info_magazine">
+      <Original>Magazine(s):</Original>
+      <English>可用弹匣：</English>
+    </Key>
+    <Key ID="str_lib_info_max_speed">
+      <Original>Maximum speed:</Original>
+      <English>最大时速：</English>
+    </Key>
+    <Key ID="str_lib_info_muzzle_vel">
+      <Original>Muzzle velocity:</Original>
+      <English>枪口初速：</English>
+    </Key>
+    <Key ID="str_lib_info_na">
+      <Original>N/A</Original>
+      <English>无</English>
+    </Key>
+    <Key ID="str_lib_info_no">
+      <Original>No</Original>
+      <English>否</English>
+    </Key>
+    <Key ID="str_lib_info_retract_gear">
+      <Original>Retractable gear:</Original>
+      <English>可收回起落架：</English>
+    </Key>
+    <Key ID="str_lib_info_trans_sold">
+      <Original>Cargo spaces:</Original>
+      <English>载员数量：</English>
+    </Key>
+    <Key ID="str_lib_info_unit_kilometers_per_hour">
+      <Original>kmph</Original>
+      <English>千米/时</English>
+    </Key>
+    <Key ID="str_lib_info_unit_liter">
+      <Original>l</Original>
+      <English>升</English>
+    </Key>
+    <Key ID="str_lib_info_yes">
+      <Original>Yes</Original>
+      <English>是</English>
+    </Key>
+    <Key ID="str_network_send">
+      <Original>Sending data...</Original>
+      <English> 正在发送数据...</English>
+    </Key>
+    <Key ID="str_network_sending">
+      <Original>Sending...</Original>
+      <English>发送中...</English>
+    </Key>
+    <Key ID="str_no_change">
+      <Original>No change</Original>
+      <English>无变化</English>
+    </Key>
+    <Key ID="str_nobody">
+      <Original>Nobody</Original>
+      <English>无</English>
+    </Key>
+    <Key ID="str_nocommand">
+      <Original>None</Original>
+      <English>无</English>
+    </Key>
+    <Key ID="str_nonplayable">
+      <Original>Non Playable</Original>
+      <English>玩家不可扮演</English>
+    </Key>
+    <Key ID="str_november">
+      <Original>Nov</Original>
+      <English>十一月</English>
+    </Key>
+    <Key ID="str_october">
+      <Original>Oct</Original>
+      <English>十月</English>
+    </Key>
+    <Key ID="str_opt_radio_disabled">
+      <Original>Disabled</Original>
+      <English>已关闭</English>
+    </Key>
+    <Key ID="str_opt_radio_enabled">
+      <Original>Enabled</Original>
+      <English>已开启</English>
+    </Key>
+    <Key ID="str_opt_subtitles_disabled">
+      <Original>Disabled</Original>
+      <English>已关闭</English>
+    </Key>
+    <Key ID="str_opt_subtitles_enabled">
+      <Original>Enabled</Original>
+      <English>已开启</English>
+    </Key>
+    <Key ID="str_playable">
+      <Original>Playable</Original>
+      <English>玩家可扮演</English>
+    </Key>
+    <Key ID="str_playable_c">
+      <Original>Playable as commander</Original>
+      <English>玩家可扮演指挥官</English>
+    </Key>
+    <Key ID="str_playable_cd">
+      <Original>Playable as commander, driver</Original>
+      <English>玩家可扮演指挥官、驾驶员</English>
+    </Key>
+    <Key ID="str_playable_cdg">
+      <Original>Playable as commander, driver, gunner</Original>
+      <English>玩家可扮演指挥官、驾驶员、炮手</English>
+    </Key>
+    <Key ID="str_playable_cg">
+      <Original>Playable as commander, gunner</Original>
+      <English>玩家可扮演指挥官、炮手</English>
+    </Key>
+    <Key ID="str_playable_cp">
+      <Original>Playable as commander, pilot</Original>
+      <English>玩家可扮演指挥官、飞行员</English>
+    </Key>
+    <Key ID="str_playable_cpg">
+      <Original>Playable as commander, pilot, gunner</Original>
+      <English>玩家可扮演指挥官、飞行员、炮手</English>
+    </Key>
+    <Key ID="str_playable_d">
+      <Original>Playable as driver</Original>
+      <English>玩家可扮演驾驶员</English>
+    </Key>
+    <Key ID="str_playable_dg">
+      <Original>Playable as driver, gunner</Original>
+      <English>玩家可扮演驾驶员、炮手</English>
+    </Key>
+    <Key ID="str_playable_g">
+      <Original>Playable as gunner</Original>
+      <English>玩家可扮演炮手</English>
+    </Key>
+    <Key ID="str_playable_p">
+      <Original>Playable as pilot</Original>
+      <English>玩家可扮演飞行员</English>
+    </Key>
+    <Key ID="str_playable_pg">
+      <Original>Playable as pilot, gunner</Original>
+      <English>玩家可扮演飞行员、炮手</English>
+    </Key>
+    <Key ID="str_player">
+      <Original>Player</Original>
+      <English>玩家</English>
+    </Key>
+    <Key ID="str_player_commander">
+      <Original>Player as commander</Original>
+      <English>玩家扮演指挥官</English>
+    </Key>
+    <Key ID="str_player_driver">
+      <Original>Player as driver</Original>
+      <English>玩家扮演驾驶员</English>
+    </Key>
+    <Key ID="str_player_gunner">
+      <Original>Player as gunner</Original>
+      <English>玩家扮演炮手</English>
+    </Key>
+    <Key ID="str_player_id">
+      <Original>Player ID: %s</Original>
+      <English>玩家身份编号：%s</English>
+    </Key>
+    <Key ID="str_player_none">
+      <Original>Nobody</Original>
+      <English>无</English>
+    </Key>
+    <Key ID="str_player_pilot">
+      <Original>Player as pilot</Original>
+      <English>玩家扮演飞行员</English>
+    </Key>
+    <Key ID="str_player_voice_disabled">
+      <Original>Disabled</Original>
+      <English>已关闭</English>
+    </Key>
+    <Key ID="str_player_voice_enabled">
+      <Original>Enabled</Original>
+      <English>已开启</English>
+    </Key>
+    <Key ID="str_position_commander">
+      <Original>commander</Original>
+      <English>指挥官</English>
+    </Key>
+    <Key ID="str_position_driver">
+      <Original>driver</Original>
+      <English>驾驶员</English>
+    </Key>
+    <Key ID="str_position_gunner">
+      <Original>gunner</Original>
+      <English>炮手</English>
+    </Key>
+    <Key ID="str_position_leader">
+      <Original>, group leader</Original>
+      <English>，组长</English>
+    </Key>
+    <Key ID="str_position_pilot">
+      <Original>pilot</Original>
+      <English>飞行员</English>
+    </Key>
+    <Key ID="str_private">
+      <Original>Private</Original>
+      <English>列兵</English>
+    </Key>
+    <Key ID="str_relative_dir_behind">
+      <Original>behind</Original>
+      <English>后方</English>
+    </Key>
+    <Key ID="str_relative_dir_front">
+      <Original>front</Original>
+      <English>前方</English>
+    </Key>
+    <Key ID="str_relative_dir_in_front_of">
+      <Original>in front of</Original>
+      <English>前方</English>
+    </Key>
+    <Key ID="str_relative_dir_left">
+      <Original>left</Original>
+      <English>左侧</English>
+    </Key>
+    <Key ID="str_relative_dir_left_flank">
+      <Original>left flank</Original>
+      <English>左翼</English>
+    </Key>
+    <Key ID="str_relative_dir_leftof">
+      <Original>left of</Original>
+      <English>左侧</English>
+    </Key>
+    <Key ID="str_relative_dir_rear">
+      <Original>rear</Original>
+      <English>后方</English>
+    </Key>
+    <Key ID="str_relative_dir_right">
+      <Original>right</Original>
+      <English>右侧</English>
+    </Key>
+    <Key ID="str_relative_dir_right_flank">
+      <Original>right flank</Original>
+      <English>右翼</English>
+    </Key>
+    <Key ID="str_relative_dir_rightof">
+      <Original>right of</Original>
+      <English>右侧</English>
+    </Key>
+    <Key ID="str_sensoractiv_anybody">
+      <Original>Anybody</Original>
+      <English>任何人</English>
+    </Key>
+    <Key ID="str_sensoractiv_bravo">
+      <Original>Radio Bravo</Original>
+      <English>无线电呼叫B</English>
+    </Key>
+    <Key ID="str_sensoractiv_charlie">
+      <Original>Radio Charlie</Original>
+      <English>无线电呼叫C</English>
+    </Key>
+    <Key ID="str_sensoractiv_delta">
+      <Original>Radio Delta</Original>
+      <English>无线电呼叫D</English>
+    </Key>
+    <Key ID="str_sensoractiv_echo">
+      <Original>Radio Echo</Original>
+      <English>无线电呼叫E</English>
+    </Key>
+    <Key ID="str_sensoractiv_foxtrot">
+      <Original>Radio Foxtrot</Original>
+      <English>无线电呼叫F</English>
+    </Key>
+    <Key ID="str_sensoractiv_golf">
+      <Original>Radio Golf</Original>
+      <English>无线电呼叫G</English>
+    </Key>
+    <Key ID="str_sensoractiv_hotel">
+      <Original>Radio Hotel</Original>
+      <English>无线电呼叫H</English>
+    </Key>
+    <Key ID="str_sensoractiv_india">
+      <Original>Radio India</Original>
+      <English>无线电呼叫I</English>
+    </Key>
+    <Key ID="str_sensoractiv_juliet">
+      <Original>Radio Juliet</Original>
+      <English>无线电呼叫J</English>
+    </Key>
+    <Key ID="str_sensoractiv_none">
+      <Original>None</Original>
+      <English>无</English>
+    </Key>
+    <Key ID="str_sensortype_none">
+      <Original>None</Original>
+      <English>无</English>
+    </Key>
+    <Key ID="str_sent_cmd_getin_cargo_1">
+      <Original>%1.1, board that %2.</Original>
+      <English>%1.1，搭乘%2。</English>
+    </Key>
+    <Key ID="str_sent_cmd_heal_1">
+      <Original>%1.1, heal that %2.</Original>
+      <English>
+                %1.1，治疗%2。</English>
+    </Key>
+    <Key ID="str_september">
+      <Original>Sep</Original>
+      <English>九月</English>
+    </Key>
+    <Key ID="str_sergeant">
+      <Original>Sergeant</Original>
+      <English>中士</English>
+    </Key>
+    <Key ID="str_session_briefing">
+      <Original>Briefing</Original>
+      <English>简报</English>
+    </Key>
+    <Key ID="str_session_create">
+      <Original>Creating</Original>
+      <English>建立中</English>
+    </Key>
+    <Key ID="str_session_debriefing">
+      <Original>Debriefing</Original>
+      <English>任务报告</English>
+    </Key>
+    <Key ID="str_session_edit">
+      <Original>Editing</Original>
+      <English>编辑中</English>
+    </Key>
+    <Key ID="str_session_play">
+      <Original>Playing</Original>
+      <English>游戏中</English>
+    </Key>
+    <Key ID="str_session_setup">
+      <Original>Setting up</Original>
+      <English>设置中</English>
+    </Key>
+    <Key ID="str_session_version">
+      <Original>Version: %.2f</Original>
+      <English>版本：%.2f</English>
+    </Key>
+    <Key ID="str_session_wait">
+      <Original>Waiting</Original>
+      <English>等待中</English>
+    </Key>
+    <Key ID="str_sessions_internet">
+      <Original>Internet</Original>
+      <English>国际互联网</English>
+    </Key>
+    <Key ID="str_sessions_source">
+      <Original>Address: %s</Original>
+      <English>地址：%s</English>
+    </Key>
+    <Key ID="str_settings_format">
+      <Original>Identity: %s</Original>
+      <English>Identity: %s</English>
+    </Key>
+    <Key ID="str_short_captain">
+      <Original>Capt</Original>
+      <English>上尉</English>
+    </Key>
+    <Key ID="str_short_colonel">
+      <Original>Col</Original>
+      <English>上校</English>
+    </Key>
+    <Key ID="str_short_corporal">
+      <Original>Cpl</Original>
+      <English>下士</English>
+    </Key>
+    <Key ID="str_short_lieutenant">
+      <Original>Ltn</Original>
+      <English>中尉</English>
+    </Key>
+    <Key ID="str_short_major">
+      <Original>Maj</Original>
+      <English>少校</English>
+    </Key>
+    <Key ID="str_short_private">
+      <Original>Pvt</Original>
+      <English>列兵</English>
+    </Key>
+    <Key ID="str_short_sergeant">
+      <Original>Sgt</Original>
+      <English>中士</English>
+    </Key>
+    <Key ID="str_shutdown">
+      <Original>Shutdown...</Original>
+      <English>正在关闭...</English>
+    </Key>
+    <Key ID="str_sound_none">
+      <Original>No sound</Original>
+      <English>无声音</English>
+    </Key>
+    <Key ID="str_special_cargo">
+      <Original>In Cargo</Original>
+      <English>在载具内</English>
+    </Key>
+    <Key ID="str_special_flying">
+      <Original>Flying</Original>
+      <English>在飞行中</English>
+    </Key>
+    <Key ID="str_special_form">
+      <Original>In Formation</Original>
+      <English>在编队内</English>
+    </Key>
+    <Key ID="str_special_none">
+      <Original>None</Original>
+      <English>无</English>
+    </Key>
+    <Key ID="str_speed_full">
+      <Original>Full</Original>
+      <English>全速</English>
+    </Key>
+    <Key ID="str_speed_limited">
+      <Original>Limited</Original>
+      <English>慢速</English>
+    </Key>
+    <Key ID="str_speed_normal">
+      <Original>Normal</Original>
+      <English>普通</English>
+    </Key>
+    <Key ID="str_speed_unchanged">
+      <Original>No change</Original>
+      <English>无变化</English>
+    </Key>
+    <Key ID="str_staggered">
+      <Original>Staggered Col.</Original>
+      <English>交错纵队</English>
+    </Key>
+    <Key ID="str_state_attack">
+      <Original>Engage</Original>
+      <English>交战</English>
+    </Key>
+    <Key ID="str_state_expect">
+      <Original>Wait</Original>
+      <English>等待</English>
+    </Key>
+    <Key ID="str_state_fire">
+      <Original>Fire</Original>
+      <English>开火</English>
+    </Key>
+    <Key ID="str_state_getin">
+      <Original>Mount</Original>
+      <English>装载</English>
+    </Key>
+    <Key ID="str_state_getout">
+      <Original>Disembark</Original>
+      <English>卸载</English>
+    </Key>
+    <Key ID="str_state_hide">
+      <Original>Hide</Original>
+      <English>隐藏</English>
+    </Key>
+    <Key ID="str_state_move">
+      <Original>Move</Original>
+      <English>移动</English>
+    </Key>
+    <Key ID="str_state_nocommand">
+      <Original>None</Original>
+      <English>无</English>
+    </Key>
+    <Key ID="str_state_rearm">
+      <Original>Rearm</Original>
+      <English>补充弹药</English>
+    </Key>
+    <Key ID="str_state_stop">
+      <Original>Stop</Original>
+      <English>停止</English>
+    </Key>
+    <Key ID="str_state_support">
+      <Original>Support</Original>
+      <English>支援</English>
+    </Key>
+    <Key ID="str_status">
+      <Original>Status</Original>
+      <English>状态</English>
+    </Key>
+    <Key ID="str_stop">
+      <Original>Stop</Original>
+      <English>停止</English>
+    </Key>
+    <Key ID="str_sunday">
+      <Original>Sun</Original>
+      <English>星期日</English>
+    </Key>
+    <Key ID="str_support">
+      <Original>Support</Original>
+      <English>支援</English>
+    </Key>
+    <Key ID="str_sure">
+      <Original>Are you sure?</Original>
+      <English>你确定吗？</English>
+    </Key>
+    <Key ID="str_sync_waiting">
+      <Original>WAIT</Original>
+      <English>等待</English>
+    </Key>
+    <Key ID="str_team_blue">
+      <Original>Blue</Original>
+      <English>蓝队</English>
+    </Key>
+    <Key ID="str_team_green">
+      <Original>Green</Original>
+      <English>绿队</English>
+    </Key>
+    <Key ID="str_team_main">
+      <Original>White</Original>
+      <English>白队</English>
+    </Key>
+    <Key ID="str_team_red">
+      <Original>Red</Original>
+      <English>红队</English>
+    </Key>
+    <Key ID="str_team_yellow">
+      <Original>Yellow</Original>
+      <English>黄队</English>
+    </Key>
+    <Key ID="str_terrain_12_5">
+      <Original>Normal</Original>
+      <English>普通</English>
+    </Key>
+    <Key ID="str_terrain_25">
+      <Original>Low</Original>
+      <English>低</English>
+    </Key>
+    <Key ID="str_terrain_3_125">
+      <Original>Very high</Original>
+      <English>非常高</English>
+    </Key>
+    <Key ID="str_terrain_6_25">
+      <Original>High</Original>
+      <English>高</English>
+    </Key>
+    <Key ID="str_thursday">
+      <Original>Thu</Original>
+      <English>星期四</English>
+    </Key>
+    <Key ID="str_tittype_none">
+      <Original>NONE</Original>
+      <English>无</English>
+    </Key>
+    <Key ID="str_tittype_object">
+      <Original>OBJECT</Original>
+      <English>物体</English>
+    </Key>
+    <Key ID="str_tittype_resource">
+      <Original>RESOURCE</Original>
+      <English>资源</English>
+    </Key>
+    <Key ID="str_tittype_text">
+      <Original>TEXT</Original>
+      <English>文本</English>
+    </Key>
+    <Key ID="str_usract_aim_left">
+      <Original>Aim Left</Original>
+      <English>准心左移</English>
+    </Key>
+    <Key ID="str_usract_aim_right">
+      <Original>Aim Right</Original>
+      <English>准心右移</English>
+    </Key>
+    <Key ID="str_usract_aim_up">
+      <Original>Aim Up</Original>
+      <English>准心上移</English>
+    </Key>
+    <Key ID="str_usract_binocular">
+      <Original>Binoculars</Original>
+      <English>望远镜</English>
+    </Key>
+    <Key ID="str_usract_buld_back">
+      <Original>Buldozer back</Original>
+      <English>预览查看器back</English>
+    </Key>
+    <Key ID="str_usract_buld_down">
+      <Original>Buldozer down</Original>
+      <English>预览查看器down</English>
+    </Key>
+    <Key ID="str_usract_buld_forward">
+      <Original>Buldozer forward</Original>
+      <English>预览查看器forward</English>
+    </Key>
+    <Key ID="str_usract_buld_free_look">
+      <Original>Buldozer free look</Original>
+      <English>预览查看器free look</English>
+    </Key>
+    <Key ID="str_usract_buld_left">
+      <Original>Buldozer left</Original>
+      <English>预览查看器left</English>
+    </Key>
+    <Key ID="str_usract_buld_look_down">
+      <Original>Buldozer look down</Original>
+      <English>预览查看器look down</English>
+    </Key>
+    <Key ID="str_usract_buld_look_left">
+      <Original>Buldozer look left</Original>
+      <English>预览查看器look left</English>
+    </Key>
+    <Key ID="str_usract_buld_look_right">
+      <Original>Buldozer look right</Original>
+      <English>预览查看器look right</English>
+    </Key>
+    <Key ID="str_usract_buld_look_up">
+      <Original>Buldozer look up</Original>
+      <English>预览查看器look up</English>
+    </Key>
+    <Key ID="str_usract_buld_magnetize_planes">
+      <Original>Buldozer magnetize planes</Original>
+      <English>预览查看器magnetize planes</English>
+    </Key>
+    <Key ID="str_usract_buld_magnetize_points">
+      <Original>Buldozer magnetize points</Original>
+      <English>预览查看器magnetize points</English>
+    </Key>
+    <Key ID="str_usract_buld_magnetize_yfixed">
+      <Original>Buldozer magnetize fixed Y</Original>
+      <English>预览查看器magnetize fixed Y</English>
+    </Key>
+    <Key ID="str_usract_buld_move_back">
+      <Original>Buldozer move back</Original>
+      <English>预览查看器move back</English>
+    </Key>
+    <Key ID="str_usract_buld_move_forward">
+      <Original>Buldozer move forward</Original>
+      <English>预览查看器move forward</English>
+    </Key>
+    <Key ID="str_usract_buld_move_left">
+      <Original>Buldozer move left</Original>
+      <English>预览查看器move left</English>
+    </Key>
+    <Key ID="str_usract_buld_move_right">
+      <Original>Buldozer move right</Original>
+      <English>预览查看器move right</English>
+    </Key>
+    <Key ID="str_usract_buld_reset_camera">
+      <Original>Buldozer reset camera</Original>
+      <English>预览查看器reset camera</English>
+    </Key>
+    <Key ID="str_usract_buld_right">
+      <Original>Buldozer right</Original>
+      <English>预览查看器right</English>
+    </Key>
+    <Key ID="str_usract_buld_select">
+      <Original>Buldozer select</Original>
+      <English>预览查看器select</English>
+    </Key>
+    <Key ID="str_usract_buld_selection_type">
+      <Original>Buldozer selection type</Original>
+      <English>预览查看器selection type</English>
+    </Key>
+    <Key ID="str_usract_buld_switch_camera">
+      <Original>Buldozer switch camera</Original>
+      <English>预览查看器切换摄像机</English>
+    </Key>
+    <Key ID="str_usract_buld_terrain_lower_1m">
+      <Original>Buldozer lower terrain 1 m</Original>
+      <English>预览查看器地形下降1米</English>
+    </Key>
+    <Key ID="str_usract_buld_terrain_lower_5m">
+      <Original>Buldozer lower terrain 5 m</Original>
+      <English>预览查看器地形下降5米</English>
+    </Key>
+    <Key ID="str_usract_buld_terrain_raise_1m">
+      <Original>Buldozer raise terrain 1 m</Original>
+      <English>预览查看器地形抬升1米</English>
+    </Key>
+    <Key ID="str_usract_buld_terrain_raise_5m">
+      <Original>Buldozer raise terrain 5 m</Original>
+      <English>预览查看器地形抬升5米</English>
+    </Key>
+    <Key ID="str_usract_buld_terrain_show_node">
+      <Original>Buldozer show terrain node</Original>
+      <English>预览查看器显示地形节点</English>
+    </Key>
+    <Key ID="str_usract_buld_texture_info">
+      <Original>Buldozer show texture info</Original>
+      <English>预览查看器显示贴图信息</English>
+    </Key>
+    <Key ID="str_usract_buld_turbo">
+      <Original>Buldozer turbo</Original>
+      <English>预览查看器turbo</English>
+    </Key>
+    <Key ID="str_usract_buld_up">
+      <Original>Buldozer up</Original>
+      <English>预览查看器上升</English>
+    </Key>
+    <Key ID="str_usract_buld_zoom_in">
+      <Original>Buldozer zoom in</Original>
+      <English>预览查看器视角放大</English>
+    </Key>
+    <Key ID="str_usract_buld_zoom_out">
+      <Original>Buldozer zoom out</Original>
+      <English>预览查看器视角缩小</English>
+    </Key>
+    <Key ID="str_usract_cancel_action">
+      <Original>Cancel action</Original>
+      <English>取消动作</English>
+    </Key>
+    <Key ID="str_usract_car_back">
+      <Original>Car back</Original>
+      <English>车辆向后移动</English>
+    </Key>
+    <Key ID="str_usract_car_fast_forward">
+      <Original>Car fast forward</Original>
+      <English>车辆快速向前移动</English>
+    </Key>
+    <Key ID="str_usract_car_forward">
+      <Original>Car forward</Original>
+      <English>车辆向前移动</English>
+    </Key>
+    <Key ID="str_usract_car_left">
+      <Original>Car left</Original>
+      <English>车辆左转</English>
+    </Key>
+    <Key ID="str_usract_car_right">
+      <Original>Car right</Original>
+      <English>车辆右转</English>
+    </Key>
+    <Key ID="str_usract_car_slow_forward">
+      <Original>Car slow forward</Original>
+      <English>车辆慢速向前移动</English>
+    </Key>
+    <Key ID="str_usract_chat">
+      <Original>Chat</Original>
+      <English>聊天</English>
+    </Key>
+    <Key ID="str_usract_command_back">
+      <Original>Command back</Original>
+      <English>命令向后移动</English>
+    </Key>
+    <Key ID="str_usract_command_fast">
+      <Original>Command fast</Original>
+      <English>命令快速移动</English>
+    </Key>
+    <Key ID="str_usract_command_forward">
+      <Original>Command forward</Original>
+      <English>命令向前移动</English>
+    </Key>
+    <Key ID="str_usract_command_left">
+      <Original>Command left</Original>
+      <English>命令左转</English>
+    </Key>
+    <Key ID="str_usract_command_right">
+      <Original>Command right</Original>
+      <English>命令右转</English>
+    </Key>
+    <Key ID="str_usract_command_slow">
+      <Original>Command slow</Original>
+      <English>命令慢速移动</English>
+    </Key>
+    <Key ID="str_usract_command_watch">
+      <Original>Command watch</Original>
+      <English>命令观察</English>
+    </Key>
+    <Key ID="str_usract_compass">
+      <Original>Compass</Original>
+      <English>罗盘</English>
+    </Key>
+    <Key ID="str_usract_compass_toggle">
+      <Original>Compass (Toggle)</Original>
+      <English>罗盘（保持）</English>
+    </Key>
+    <Key ID="str_usract_crouch">
+      <Original>Crouch</Original>
+      <English>跪姿</English>
+    </Key>
+    <Key ID="str_usract_default_action">
+      <Original>Fire</Original>
+      <English>开火</English>
+    </Key>
+    <Key ID="str_usract_diary">
+      <Original>Diary</Original>
+      <English>日志</English>
+    </Key>
+    <Key ID="str_usract_evasive_forward">
+      <Original>Evasive forward</Original>
+      <English>向前规避</English>
+    </Key>
+    <Key ID="str_usract_evasive_left">
+      <Original>Evasive left</Original>
+      <English>向左规避</English>
+    </Key>
+    <Key ID="str_usract_evasive_right">
+      <Original>Evasive right</Original>
+      <English>向右规避</English>
+    </Key>
+    <Key ID="str_usract_fast_forward">
+      <Original>Fast forward</Original>
+      <English>快速向前移动</English>
+    </Key>
+    <Key ID="str_usract_fire">
+      <Original>Command Fire</Original>
+      <English>指挥开火</English>
+    </Key>
+    <Key ID="str_usract_force_commanding_mode">
+      <Original>Commanding mode</Original>
+      <English>指挥模式</English>
+    </Key>
+    <Key ID="str_usract_gear">
+      <Original>Gear</Original>
+      <English>装备</English>
+    </Key>
+    <Key ID="str_usract_gps_toggle">
+      <Original>GPS (Toggle)</Original>
+      <English>GPS (保持)</English>
+    </Key>
+    <Key ID="str_usract_group_all">
+      <Original>All controls</Original>
+      <English>全部控制项目</English>
+    </Key>
+    <Key ID="str_usract_group_buldozer">
+      <Original>Bulldozer controls</Original>
+      <English>预览查看器控制项目</English>
+    </Key>
+    <Key ID="str_usract_group_flying">
+      <Original>Aircraft controls</Original>
+      <English>飞机控制项目</English>
+    </Key>
+    <Key ID="str_usract_group_infantry">
+      <Original>Infantry controls</Original>
+      <English>步兵控制项目</English>
+    </Key>
+    <Key ID="str_usract_group_vehicle">
+      <Original>Vehicle controls</Original>
+      <English>载具控制项目</English>
+    </Key>
+    <Key ID="str_usract_handgun">
+      <Original>Switch gun / handgun</Original>
+      <English>切换步枪/手枪</English>
+    </Key>
+    <Key ID="str_usract_headlights">
+      <Original>Headlights on/off</Original>
+      <English>前照灯开启/关闭</English>
+    </Key>
+    <Key ID="str_usract_heli_back">
+      <Original>Nose up</Original>
+      <English>机头向上</English>
+    </Key>
+    <Key ID="str_usract_heli_cyclic_left">
+      <Original>Bank left</Original>
+      <English>向左倾斜转弯</English>
+    </Key>
+    <Key ID="str_usract_heli_cyclic_right">
+      <Original>Bank right</Original>
+      <English>向右倾斜转弯</English>
+    </Key>
+    <Key ID="str_usract_heli_down">
+      <Original>Decrease thrust</Original>
+      <English>减少推力</English>
+    </Key>
+    <Key ID="str_usract_heli_fast_forward">
+      <Original>Fast forward</Original>
+      <English>快速向前移动</English>
+    </Key>
+    <Key ID="str_usract_heli_forward">
+      <Original>Nose down</Original>
+      <English>机头向下</English>
+    </Key>
+    <Key ID="str_usract_heli_left">
+      <Original>Left turn</Original>
+      <English>左转弯</English>
+    </Key>
+    <Key ID="str_usract_heli_manual_fire">
+      <Original>Toggle manual fire</Original>
+      <English>切换手动射击</English>
+    </Key>
+    <Key ID="str_usract_heli_right">
+      <Original>Right turn</Original>
+      <English>右转弯</English>
+    </Key>
+    <Key ID="str_usract_heli_rudder_left">
+      <Original>Left pedal</Original>
+      <English>左方向舵</English>
+    </Key>
+    <Key ID="str_usract_heli_rudder_right">
+      <Original>Right pedal</Original>
+      <English>右方向舵</English>
+    </Key>
+    <Key ID="str_usract_heli_up">
+      <Original>Increase thrust</Original>
+      <English>增加推力</English>
+    </Key>
+    <Key ID="str_usract_help">
+      <Original>Last help</Original>
+      <English>最近的帮助</English>
+    </Key>
+    <Key ID="str_usract_hide_map">
+      <Original>Hide Map</Original>
+      <English>隐藏地图</English>
+    </Key>
+    <Key ID="str_usract_hold_breath">
+      <Original>Hold Breath</Original>
+      <English>屏住呼吸</English>
+    </Key>
+    <Key ID="str_usract_ingame_pause">
+      <Original>Pause</Original>
+      <English>暂停</English>
+    </Key>
+    <Key ID="str_usract_lean_left">
+      <Original>Lean left</Original>
+      <English>左倾</English>
+    </Key>
+    <Key ID="str_usract_lean_left_toggle">
+      <Original>Lean left toggle</Original>
+      <English>保持左倾</English>
+    </Key>
+    <Key ID="str_usract_lean_right">
+      <Original>Lean right</Original>
+      <English>右倾</English>
+    </Key>
+    <Key ID="str_usract_lean_right_toggle">
+      <Original>Lean right toggle</Original>
+      <English>保持右倾</English>
+    </Key>
+    <Key ID="str_usract_lock_or_zoom">
+      <Original>Lock or Zoom</Original>
+      <English>锁定或聚焦</English>
+    </Key>
+    <Key ID="str_usract_lock_targets">
+      <Original>Next target</Original>
+      <English>下一个目标</English>
+    </Key>
+    <Key ID="str_usract_look_arround">
+      <Original>Look</Original>
+      <English>看</English>
+    </Key>
+    <Key ID="str_usract_look_arround_toggle">
+      <Original>Freelook</Original>
+      <English>自由观看</English>
+    </Key>
+    <Key ID="str_usract_look_center">
+      <Original>Center look</Original>
+      <English>视角居中</English>
+    </Key>
+    <Key ID="str_usract_look_down">
+      <Original>Look down</Original>
+      <English>向下看</English>
+    </Key>
+    <Key ID="str_usract_look_down_cont">
+      <Original>Look down (Analog)</Original>
+      <English>向下看（模拟）</English>
+    </Key>
+    <Key ID="str_usract_look_left">
+      <Original>Look left</Original>
+      <English>向左看</English>
+    </Key>
+    <Key ID="str_usract_look_left_cont">
+      <Original>Look left (Analog)</Original>
+      <English>向左看（模拟）</English>
+    </Key>
+    <Key ID="str_usract_look_left_down">
+      <Original>Look left down</Original>
+      <English>向左下看</English>
+    </Key>
+    <Key ID="str_usract_look_left_up">
+      <Original>Look left up</Original>
+      <English>向左上看</English>
+    </Key>
+    <Key ID="str_usract_look_right">
+      <Original>Look right</Original>
+      <English>向右看</English>
+    </Key>
+    <Key ID="str_usract_look_right_cont">
+      <Original>Look right (Analog)</Original>
+      <English>向右看（模拟）</English>
+    </Key>
+    <Key ID="str_usract_look_right_down">
+      <Original>Look right down</Original>
+      <English>向右下看</English>
+    </Key>
+    <Key ID="str_usract_look_right_up">
+      <Original>Look right up</Original>
+      <English>向右上看</English>
+    </Key>
+    <Key ID="str_usract_look_up">
+      <Original>Look up</Original>
+      <English>向上看</English>
+    </Key>
+    <Key ID="str_usract_look_up_cont">
+      <Original>Look up (Analog)</Original>
+      <English>向上看（模拟）</English>
+    </Key>
+    <Key ID="str_usract_menu_back">
+      <Original>Back</Original>
+      <English>后退</English>
+    </Key>
+    <Key ID="str_usract_menu_down">
+      <Original>Previous</Original>
+      <English>上一个</English>
+    </Key>
+    <Key ID="str_usract_menu_select">
+      <Original>Select</Original>
+      <English>选择</English>
+    </Key>
+    <Key ID="str_usract_menu_up">
+      <Original>Next</Original>
+      <English>下一个</English>
+    </Key>
+    <Key ID="str_usract_move_back">
+      <Original>Move back</Original>
+      <English>向后移动</English>
+    </Key>
+    <Key ID="str_usract_move_down">
+      <Original>Go prone</Original>
+      <English>卧倒</English>
+    </Key>
+    <Key ID="str_usract_move_forward">
+      <Original>Move forward</Original>
+      <English>向前移动</English>
+    </Key>
+    <Key ID="str_usract_move_left">
+      <Original>Turn left</Original>
+      <English>向左转</English>
+    </Key>
+    <Key ID="str_usract_move_right">
+      <Original>Turn right</Original>
+      <English>向右转</English>
+    </Key>
+    <Key ID="str_usract_move_up">
+      <Original>Up</Original>
+      <English>向上移动</English>
+    </Key>
+    <Key ID="str_usract_network_stats">
+      <Original>Multiplayer statistics</Original>
+      <English>多人模式统计信息</English>
+    </Key>
+    <Key ID="str_usract_next_action">
+      <Original>Next</Original>
+      <English>下一个</English>
+    </Key>
+    <Key ID="str_usract_next_channel">
+      <Original>Next channel</Original>
+      <English>下一个频道</English>
+    </Key>
+    <Key ID="str_usract_night_vision">
+      <Original>Night vision</Original>
+      <English>夜视仪</English>
+    </Key>
+    <Key ID="str_usract_optics">
+      <Original>Optics</Original>
+      <English>瞄准具</English>
+    </Key>
+    <Key ID="str_usract_person_view">
+      <Original>Toggle view</Original>
+      <English>切换视角</English>
+    </Key>
+    <Key ID="str_usract_prev_action">
+      <Original>Previous</Original>
+      <English>上一个</English>
+    </Key>
+    <Key ID="str_usract_prev_channel">
+      <Original>Previous channel</Original>
+      <English>上一个频道</English>
+    </Key>
+    <Key ID="str_usract_prone">
+      <Original>Prone</Original>
+      <English>卧姿</English>
+    </Key>
+    <Key ID="str_usract_push_to_talk">
+      <Original>Push to Talk</Original>
+      <English>按键发言</English>
+    </Key>
+    <Key ID="str_usract_push_to_talk_all">
+      <Original>Talk on Global channel</Original>
+      <English>在全局频道发言</English>
+    </Key>
+    <Key ID="str_usract_push_to_talk_direct">
+      <Original>Talk on Direct channel</Original>
+      <English>在直接通讯频道发言</English>
+    </Key>
+    <Key ID="str_usract_push_to_talk_group">
+      <Original>Talk on Group channel</Original>
+      <English>在小队频道发言</English>
+    </Key>
+    <Key ID="str_usract_push_to_talk_side">
+      <Original>Talk on Side channel</Original>
+      <English>在阵营频道发言</English>
+    </Key>
+    <Key ID="str_usract_push_to_talk_vehicle">
+      <Original>Talk on Vehicle channel</Original>
+      <English>在载具频道发言</English>
+    </Key>
+    <Key ID="str_usract_reload_magazine">
+      <Original>Reload</Original>
+      <English>装填弹药</English>
+    </Key>
+    <Key ID="str_usract_reveal_target">
+      <Original>Reveal target</Original>
+      <English>报告目标</English>
+    </Key>
+    <Key ID="str_usract_seagull_back">
+      <Original>Seagull back</Original>
+      <English>海鸥向后移动</English>
+    </Key>
+    <Key ID="str_usract_seagull_down">
+      <Original>Seagull down</Original>
+      <English>海鸥下降</English>
+    </Key>
+    <Key ID="str_usract_seagull_fast_forward">
+      <Original>Seagull fast forward</Original>
+      <English>海鸥快速向前移动</English>
+    </Key>
+    <Key ID="str_usract_seagull_forward">
+      <Original>Seagull forward</Original>
+      <English>海鸥向前移动</English>
+    </Key>
+    <Key ID="str_usract_seagull_up">
+      <Original>Seagull up</Original>
+      <English>海鸥上升</English>
+    </Key>
+    <Key ID="str_usract_select_all">
+      <Original>Select all units</Original>
+      <English>选择全部单位</English>
+    </Key>
+    <Key ID="str_usract_show_map">
+      <Original>Map</Original>
+      <English>地图</English>
+    </Key>
+    <Key ID="str_usract_slow_forward">
+      <Original>Slow forward</Original>
+      <English>慢速向前移动</English>
+    </Key>
+    <Key ID="str_usract_stand">
+      <Original>Stand up</Original>
+      <English>立姿</English>
+    </Key>
+    <Key ID="str_usract_swap_gunner">
+      <Original>Swap gunner</Original>
+      <English>切换到炮手</English>
+    </Key>
+    <Key ID="str_usract_switch_weapon">
+      <Original>Switch weapon</Original>
+      <English>变更武器</English>
+    </Key>
+    <Key ID="str_usract_tactical_view">
+      <Original>Tactical view</Original>
+      <English>战术视角</English>
+    </Key>
+    <Key ID="str_usract_team_switch">
+      <Original>Team switch</Original>
+      <English>切换小队</English>
+    </Key>
+    <Key ID="str_usract_team_switch_next">
+      <Original>Team switch to next</Original>
+      <English>切换到下一个小队</English>
+    </Key>
+    <Key ID="str_usract_team_switch_prev">
+      <Original>Team switch to previous</Original>
+      <English>切换到上一个小队</English>
+    </Key>
+    <Key ID="str_usract_temp_raise_weapon">
+      <Original>Raise weapon</Original>
+      <English>举枪</English>
+    </Key>
+    <Key ID="str_usract_time_dec">
+      <Original>Time deceleration</Original>
+      <English>时间减速</English>
+    </Key>
+    <Key ID="str_usract_time_inc">
+      <Original>Time acceleration</Original>
+      <English>时间加速</English>
+    </Key>
+    <Key ID="str_usract_toggle_raise_weapon">
+      <Original>Toggle raise weapon</Original>
+      <English>切换持枪姿势</English>
+    </Key>
+    <Key ID="str_usract_toggle_weapons">
+      <Original>Toggle weapons</Original>
+      <English>切换武器</English>
+    </Key>
+    <Key ID="str_usract_turbo">
+      <Original>Turbo</Original>
+      <English>涡轮增压</English>
+    </Key>
+    <Key ID="str_usract_turn_in">
+      <Original>Turn in</Original>
+      <English>关闭舱盖</English>
+    </Key>
+    <Key ID="str_usract_turn_left">
+      <Original>Strafe left</Original>
+      <English>向左平移</English>
+    </Key>
+    <Key ID="str_usract_turn_out">
+      <Original>Turn out</Original>
+      <English>打开舱盖</English>
+    </Key>
+    <Key ID="str_usract_turn_right">
+      <Original>Strafe right</Original>
+      <English>向右平移</English>
+    </Key>
+    <Key ID="str_usract_veh_lock_targets">
+      <Original>Next target</Original>
+      <English>下一个目标</English>
+    </Key>
+    <Key ID="str_usract_vehicle_turbo">
+      <Original>Vehicle Turbo</Original>
+      <English>载具涡轮增压</English>
+    </Key>
+    <Key ID="str_usract_voice_over_net">
+      <Original>Voice Over Net</Original>
+      <English>保持语音通讯</English>
+    </Key>
+    <Key ID="str_usract_walk_run_temp">
+      <Original>Walk or run temporary</Original>
+      <English>临时步行或奔跑</English>
+    </Key>
+    <Key ID="str_usract_walk_run_toggle">
+      <Original>Walk or run toggle</Original>
+      <English>步行或奔跑切换</English>
+    </Key>
+    <Key ID="str_usract_watch">
+      <Original>Watch</Original>
+      <English>手表</English>
+    </Key>
+    <Key ID="str_usract_watch_toggle">
+      <Original>Watch (Toggle)</Original>
+      <English>手表（保持）</English>
+    </Key>
+    <Key ID="str_usract_zoom_in">
+      <Original>Zoom in</Original>
+      <English>视角放大</English>
+    </Key>
+    <Key ID="str_usract_zoom_in_toggle">
+      <Original>Zoom in (Toggle)</Original>
+      <English>视角放大（保持）</English>
+    </Key>
+    <Key ID="str_usract_zoom_out">
+      <Original>Zoom out</Original>
+      <English>视角缩小</English>
+    </Key>
+    <Key ID="str_usract_zoom_out_toggle">
+      <Original>Zoom out (Toggle)</Original>
+      <English>视角缩小（保持）</English>
+    </Key>
+    <Key ID="str_west">
+      <Original>BLUFOR</Original>
+      <English>蓝方</English>
+    </Key>
+    <Key ID="str_west_seized">
+      <Original>Seized by BLUFOR</Original>
+      <English>被蓝方占领</English>
+    </Key>
+    <Key ID="str_white">
+      <Original>Hold fire, Engage at will</Original>
+      <English>被动开火，自由交战</English>
+    </Key>
+    <Key ID="str_windowed">
+      <Original>Windowed</Original>
+      <English>窗口模式</English>
+    </Key>
+    <Key ID="str_word_all">
+      <Original>all</Original>
+      <English>全体注意</English>
+    </Key>
+    <Key ID="str_word_allgroup">
+      <Original>group</Original>
+      <English>全队注意</English>
+    </Key>
+    <Key ID="str_word_at1">
+      <Original>1 O'CLOCK</Original>
+      <English>1点钟方向</English>
+    </Key>
+    <Key ID="str_word_at10">
+      <Original>10 O'CLOCK</Original>
+      <English>10点钟方向</English>
+    </Key>
+    <Key ID="str_word_at11">
+      <Original>11 O'CLOCK</Original>
+      <English>11点钟方向</English>
+    </Key>
+    <Key ID="str_word_at12">
+      <Original>12 O'CLOCK</Original>
+      <English>12点钟方向</English>
+    </Key>
+    <Key ID="str_word_at2">
+      <Original>2 O'CLOCK</Original>
+      <English>2点钟方向</English>
+    </Key>
+    <Key ID="str_word_at3">
+      <Original>3 O'CLOCK</Original>
+      <English>3点钟方向</English>
+    </Key>
+    <Key ID="str_word_at4">
+      <Original>4 O'CLOCK</Original>
+      <English>4点钟方向</English>
+    </Key>
+    <Key ID="str_word_at5">
+      <Original>5 O'CLOCK</Original>
+      <English>5点钟方向</English>
+    </Key>
+    <Key ID="str_word_at6">
+      <Original>6 O'CLOCK</Original>
+      <English>6点钟方向</English>
+    </Key>
+    <Key ID="str_word_at7">
+      <Original>7 O'CLOCK</Original>
+      <English>7点钟方向</English>
+    </Key>
+    <Key ID="str_word_at8">
+      <Original>8 O'CLOCK</Original>
+      <English>8点钟方向</English>
+    </Key>
+    <Key ID="str_word_at9">
+      <Original>9 O'CLOCK</Original>
+      <English>9点钟方向</English>
+    </Key>
+    <Key ID="str_word_dist100">
+      <Original>100 meters</Original>
+      <English>100米</English>
+    </Key>
+    <Key ID="str_word_dist1000">
+      <Original>1000 meters</Original>
+      <English>1000米</English>
+    </Key>
+    <Key ID="str_word_dist200">
+      <Original>200 meters</Original>
+      <English>200米</English>
+    </Key>
+    <Key ID="str_word_dist2000">
+      <Original>2000 meters</Original>
+      <English>2000米</English>
+    </Key>
+    <Key ID="str_word_dist50">
+      <Original>50 meters</Original>
+      <English>50米</English>
+    </Key>
+    <Key ID="str_word_dist500">
+      <Original>500 meters</Original>
+      <English>500米</English>
+    </Key>
+    <Key ID="str_word_distfar">
+      <Original>very far</Original>
+      <English>非常远</English>
+    </Key>
+  </Package>
+</Project>

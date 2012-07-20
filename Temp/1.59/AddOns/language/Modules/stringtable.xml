@@ -1,0 +1,526 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project name="Arma2">
+  <Package name="Modules">
+    <Container name="AIS_BC_FA">
+      <Key ID="bc_addactions.sqf13">
+        <English>Drag</English>
+      </Key>
+      <Key ID="bc_addactions.sqf35">
+        <English>Carry</English>
+      </Key>
+      <Key ID="carrier.sqf0">
+        <English>Stop carrying</English>
+      </Key>
+      <Key ID="dragger.sqf0">
+        <English>Stop dragging</English>
+      </Key>
+      <Key ID="healer.sqf0">
+        <English>Stop healing</English>
+      </Key>
+      <Key ID="str_agonyTakeOutAction">
+        <English>Take out injured</English>
+      </Key>
+      <Key ID="str_ais_name">
+        <English>First Aid: Simulation</English>
+      </Key>
+      <Key ID="str_bc_name">
+        <English>First Aid: Battlefield Clearance</English>
+      </Key>
+      <Key ID="str_fa_name">
+        <English>First Aid: Action</English>
+      </Key>
+    </Container>
+    <Container name="ALICE">
+      <Key ID="str_alice_name">
+        <English>Ambient Civilians</English>
+      </Key>
+    </Container>
+    <Container name="AmbientCombat">
+      <Key ID="str_acm_manager">
+        <English>Ambient Combat</English>
+      </Key>
+    </Container>
+    <Container name="Animals">
+      <Key ID="str_animals_module">
+        <English>Ambient Animals</English>
+      </Key>
+    </Container>
+    <Container name="ARTY">
+      <Key ID="str_arty_name">
+        <English>Artillery</English>
+      </Key>
+      <Key ID="str_arty_playerinterface_azimuth">
+        <English>Azimuth</English>
+      </Key>
+      <Key ID="str_arty_playerinterface_elevation">
+        <English>Elevation</English>
+      </Key>
+      <Key ID="str_arty_playerinterface_off">
+        <English>Close Targeting</English>
+      </Key>
+      <Key ID="str_arty_playerinterface_on">
+        <English>Target Artillery</English>
+      </Key>
+      <Key ID="str_arty_playerinterface_tof">
+        <English>TOF</English>
+      </Key>
+      <Key ID="str_artyvp_name">
+        <English>Artillery - Virtual Piece</English>
+      </Key>
+      <Key ID="str_cfgmagazines_arty_12rnd_227mmhe_m270_dn">
+        <English>XM31 HE</English>
+      </Key>
+      <Key ID="str_cfgmagazines_arty_8rnd_81mmillum_m252_dn">
+        <English>M853 Illum</English>
+      </Key>
+      <Key ID="str_cfgmagazines_arty_8rnd_81mmwp_m252_dn">
+        <English>M375A3 WP</English>
+      </Key>
+      <Key ID="str_cfgmagazines_arty_8rnd_82mmillum_2b14_dn">
+        <English>82mm Illum</English>
+      </Key>
+      <Key ID="str_cfgmagazines_arty_8rnd_82mmwp_2b14_dn">
+        <English>82mm WP</English>
+      </Key>
+    </Container>
+    <Container name="Clouds">
+      <Key ID="str_clouds_module">
+        <English>Weather</English>
+      </Key>
+    </Container>
+    <Container name="ConstructionInterface">
+      <Key ID="str_coin_action">
+        <English>Construction</English>
+      </Key>
+      <Key ID="str_coin_back">
+        <English>Back:</English>
+      </Key>
+      <Key ID="str_coin_build">
+        <English>Build:</English>
+      </Key>
+      <Key ID="str_coin_exit">
+        <English>Exit:</English>
+      </Key>
+      <Key ID="str_coin_name">
+        <English>Construction Interface</English>
+      </Key>
+      <Key ID="str_coin_repair">
+        <English>Repair:</English>
+      </Key>
+      <Key ID="str_coin_rotate">
+        <English>Rotate:</English>
+      </Key>
+      <Key ID="str_coin_sell">
+        <English>Sell:</English>
+      </Key>
+    </Container>
+    <Container name="DynO">
+      <Key ID="str_dyno_antiair">
+        <English>Anti-Air site</English>
+      </Key>
+      <Key ID="str_dyno_antiair2">
+        <English>Anti-Air site 2</English>
+      </Key>
+      <Key ID="str_dyno_bunkermedium">
+        <English>Medium bunker</English>
+      </Key>
+      <Key ID="str_dyno_bunkermedium2">
+        <English>Medium bunker 2</English>
+      </Key>
+      <Key ID="str_dyno_bunkermedium3">
+        <English>Medium bunker 3</English>
+      </Key>
+      <Key ID="str_dyno_bunkermedium4">
+        <English>Medium bunker 4</English>
+      </Key>
+      <Key ID="str_dyno_bunkersmall">
+        <English>Small bunker</English>
+      </Key>
+      <Key ID="str_dyno_camp">
+        <English>Camp</English>
+      </Key>
+      <Key ID="str_dyno_camp2">
+        <English>Camp 2</English>
+      </Key>
+      <Key ID="str_dyno_camp3">
+        <English>Camp 3</English>
+      </Key>
+      <Key ID="str_dyno_camp4">
+        <English>Camp 4</English>
+      </Key>
+      <Key ID="str_dyno_checkpoint">
+        <English>Checkpoint</English>
+      </Key>
+      <Key ID="str_dyno_citybase">
+        <English>City base</English>
+      </Key>
+      <Key ID="str_dyno_citybase2">
+        <English>City base 2</English>
+      </Key>
+      <Key ID="str_dyno_citybase3">
+        <English>City base 3</English>
+      </Key>
+      <Key ID="str_dyno_citybase4">
+        <English>City base 4</English>
+      </Key>
+      <Key ID="str_dyno_firebase">
+        <English>Firebase</English>
+      </Key>
+      <Key ID="str_dyno_firebase2">
+        <English>Firebase 2</English>
+      </Key>
+      <Key ID="str_dyno_firingrangelarge">
+        <English>Firing range large</English>
+      </Key>
+      <Key ID="str_dyno_firingrangelarge2">
+        <English>Firing range large 2</English>
+      </Key>
+      <Key ID="str_dyno_firingrangelarge3">
+        <English>Firing range large 3</English>
+      </Key>
+      <Key ID="str_dyno_firingrangelarge4">
+        <English>Firing range large 4</English>
+      </Key>
+      <Key ID="str_dyno_firingrangelarge5">
+        <English>Firing range large 5</English>
+      </Key>
+      <Key ID="str_dyno_firingrangelarge6">
+        <English>Firing range large 6</English>
+      </Key>
+      <Key ID="str_dyno_firingrangesmall">
+        <English>Firing range small</English>
+      </Key>
+      <Key ID="str_dyno_firingrangesmall2">
+        <English>Firing range small 2</English>
+      </Key>
+      <Key ID="str_dyno_firingrangesmall3">
+        <English>Firing range small 3</English>
+      </Key>
+      <Key ID="str_dyno_firingrangesmall4">
+        <English>Firing range small 4</English>
+      </Key>
+      <Key ID="str_dyno_firingrangesmall5">
+        <English>Firing range small 5</English>
+      </Key>
+      <Key ID="str_dyno_firingrangesmall6">
+        <English>Firing range small 6</English>
+      </Key>
+      <Key ID="str_dyno_firingrangewater">
+        <English>Firing range water</English>
+      </Key>
+      <Key ID="str_dyno_firingrangewater2">
+        <English>Firing range water 2</English>
+      </Key>
+      <Key ID="str_dyno_fueldepot">
+        <English>Fuel depot</English>
+      </Key>
+      <Key ID="str_dyno_fueldump">
+        <English>Fuel dump</English>
+      </Key>
+      <Key ID="str_dyno_fueldump2">
+        <English>Fuel dump 2</English>
+      </Key>
+      <Key ID="str_dyno_guardpost">
+        <English>Guard post</English>
+      </Key>
+      <Key ID="str_dyno_guardpost2">
+        <English>Guard post 2</English>
+      </Key>
+      <Key ID="str_dyno_guardpost3">
+        <English>Guard post 3</English>
+      </Key>
+      <Key ID="str_dyno_mediumtentcamp">
+        <English>Medium tent camp</English>
+      </Key>
+      <Key ID="str_dyno_mediumtentcamp2">
+        <English>Medium tent camp 2</English>
+      </Key>
+      <Key ID="str_dyno_mediumtentcamp3">
+        <English>Medium tent camp 3</English>
+      </Key>
+      <Key ID="str_dyno_mobilityobstacles">
+        <English>Mobility obstacles</English>
+      </Key>
+      <Key ID="str_dyno_mobilityobstacles2">
+        <English>Mobility obstacles 2</English>
+      </Key>
+      <Key ID="str_dyno_radarsite">
+        <English>Radar site</English>
+      </Key>
+      <Key ID="str_dyno_radarsite2">
+        <English>Radar site 2</English>
+      </Key>
+      <Key ID="str_dyno_smallbase">
+        <English>Small base</English>
+      </Key>
+      <Key ID="str_dyno_smallnest">
+        <English>Small MG nest</English>
+      </Key>
+      <Key ID="str_dyno_smalltentcamp">
+        <English>Small tent camp</English>
+      </Key>
+      <Key ID="str_dyno_smalltentcamp2">
+        <English>Small tent camp 2</English>
+      </Key>
+      <Key ID="str_dyno_support">
+        <English>Support</English>
+      </Key>
+      <Key ID="str_dyno_support2">
+        <English>Support 2</English>
+      </Key>
+      <Key ID="str_dyno_support3">
+        <English>Support 3</English>
+      </Key>
+      <Key ID="str_dyno_support4">
+        <English>Support 4</English>
+      </Key>
+      <Key ID="str_dyno_tankditchdouble">
+        <English>Double tank ditch</English>
+      </Key>
+      <Key ID="str_dyno_tankditchtriple">
+        <English>Triple tank ditch</English>
+      </Key>
+      <Key ID="str_dyno_targets">
+        <English>Targets</English>
+      </Key>
+      <Key ID="str_dyno_targets2">
+        <English>Targets 2</English>
+      </Key>
+      <Key ID="str_dyno_targets3">
+        <English>Targets 3</English>
+      </Key>
+      <Key ID="str_dyno_vehicleparking">
+        <English>Vehicle parking</English>
+      </Key>
+      <Key ID="str_dyno_vehicleparking2">
+        <English>Vehicle parking 2</English>
+      </Key>
+      <Key ID="str_dyno_vehicleshelter">
+        <English>Vehicle shelter</English>
+      </Key>
+      <Key ID="str_dyno_weaponsstore">
+        <English>Weapons store</English>
+      </Key>
+      <Key ID="str_dyno_weaponsstore2">
+        <English>Weapons store 2</English>
+      </Key>
+    </Container>
+    <Container name="FunctionManager">
+      <Key ID="str_functions_name">
+        <English>Functions</English>
+      </Key>
+    </Container>
+    <Container name="GarbageCollector">
+      <Key ID="str_gc_name">
+        <English>Garbage Collector</English>
+      </Key>
+    </Container>
+    <Container name="HighCommand">
+      <Key ID="str_hc_commander">
+        <English>High Command - Commander</English>
+      </Key>
+      <Key ID="str_hc_hc">
+        <English>High Command - Commander</English>
+      </Key>
+      <Key ID="str_hc_menu_cancelallwp">
+        <English>Cancel All Waypoints</English>
+      </Key>
+      <Key ID="str_hc_menu_cancellastwp">
+        <English>Cancel Last Waypoint</English>
+      </Key>
+      <Key ID="str_hc_menu_cancelwp">
+        <English>Cancel Waypoint</English>
+      </Key>
+      <Key ID="str_hc_menu_createtask">
+        <English>Create Task</English>
+      </Key>
+      <Key ID="str_hc_menu_empty5">
+        <English>Group, Move</English>
+      </Key>
+      <Key ID="str_hc_menu_empty6">
+        <English>Group, Fire Mode</English>
+      </Key>
+      <Key ID="str_hc_menu_empty7">
+        <English>Command Group</English>
+      </Key>
+      <Key ID="str_hc_menu_fireempty">
+        <English>Group, Fire Mode</English>
+      </Key>
+      <Key ID="str_hc_menu_mission">
+        <English>Mission</English>
+      </Key>
+      <Key ID="str_hc_menu_moveempty">
+        <English>Group, Move</English>
+      </Key>
+      <Key ID="str_hc_menu_nextwp">
+        <English>Next Waypoint</English>
+      </Key>
+      <Key ID="str_hc_menu_nowait">
+        <English>No Wait</English>
+      </Key>
+      <Key ID="str_hc_menu_sitrep">
+        <English>SITREP</English>
+      </Key>
+      <Key ID="str_hc_menu_speed">
+        <English>Speed</English>
+      </Key>
+      <Key ID="str_hc_menu_waituntil">
+        <English>Wait until</English>
+      </Key>
+      <Key ID="str_hc_menu_wpadd">
+        <English>Add Waypoint</English>
+      </Key>
+      <Key ID="str_hc_menu_wpset">
+        <English>Set Waypoint</English>
+      </Key>
+      <Key ID="str_hc_menu_wpwait1">
+        <English>1 min</English>
+      </Key>
+      <Key ID="str_hc_menu_wpwait10">
+        <English>10 min</English>
+      </Key>
+      <Key ID="str_hc_menu_wpwait15">
+        <English>15 min</English>
+      </Key>
+      <Key ID="str_hc_menu_wpwait20">
+        <English>20 min</English>
+      </Key>
+      <Key ID="str_hc_menu_wpwait25">
+        <English>25 min</English>
+      </Key>
+      <Key ID="str_hc_menu_wpwait30">
+        <English>30 min</English>
+      </Key>
+      <Key ID="str_hc_menu_wpwait45">
+        <English>45 min</English>
+      </Key>
+      <Key ID="str_hc_menu_wpwait5">
+        <English>5 min</English>
+      </Key>
+      <Key ID="str_hc_menu_wpwait60">
+        <English>60 min</English>
+      </Key>
+      <Key ID="str_hc_subordinate">
+        <English>High Command - Subordinate</English>
+      </Key>
+    </Container>
+    <Container name="MARTA">
+      <Key ID="str_marta_name">
+        <English>Military Symbols</English>
+      </Key>
+    </Container>
+    <Container name="Preload">
+      <Key ID="str_preload_name">
+        <English>Preload Manager</English>
+      </Key>
+    </Container>
+    <Container name="SILVIE">
+      <Key ID="str_silvie_name">
+        <English>Ambient Civilian Vehicles</English>
+      </Key>
+    </Container>
+    <Container name="SQLcommunication">
+      <Key ID="strsqlcdisband">
+        <English>disband</English>
+      </Key>
+      <Key ID="strsqlchelp">
+        <English>help</English>
+      </Key>
+      <Key ID="strsqlchelponmission">
+        <English>help with mission</English>
+      </Key>
+      <Key ID="strsqlcjoin">
+        <English>join</English>
+      </Key>
+      <Key ID="strsqlcmoney">
+        <English>money</English>
+      </Key>
+      <Key ID="strsqlcrequest">
+        <English>Request</English>
+      </Key>
+      <Key ID="strsqlcsend">
+        <English>Send</English>
+      </Key>
+      <Key ID="strsqlcunits">
+        <English>units</English>
+      </Key>
+    </Container>
+    <Container name="SRRS">
+      <Key ID="str_srrs_name">
+        <English>Surrendering</English>
+      </Key>
+    </Container>
+    <Container name="StratLayer">
+      <Key ID="str_srl_airport">
+        <English>Airport</English>
+      </Key>
+      <Key ID="str_srl_antiair">
+        <English>Anti-Air</English>
+      </Key>
+      <Key ID="str_srl_artillery">
+        <English>Artillery</English>
+      </Key>
+      <Key ID="str_srl_city">
+        <English>City</English>
+      </Key>
+      <Key ID="str_srl_depot">
+        <English>Depot</English>
+      </Key>
+      <Key ID="str_srl_heliport">
+        <English>Heliport</English>
+      </Key>
+      <Key ID="str_srl_name">
+        <English>Strategic Reference Layer</English>
+      </Key>
+      <Key ID="str_srl_storage">
+        <English>Storage</English>
+      </Key>
+      <Key ID="str_srl_strongpoint">
+        <English>Strongpoint</English>
+      </Key>
+    </Container>
+    <Container name="SupplyDrop">
+      <Key ID="STR_suppyDrop_Dropzone">
+        <English>Dropzone</English>
+      </Key>
+    </Container>
+    <Container name="TaskHints">
+      <Key ID="str_taskAccomplished">
+        <English>TASK ACCOMPLISHED:</English>
+      </Key>
+      <Key ID="str_taskCancelled">
+        <English>TASK CANCELLED:</English>
+      </Key>
+      <Key ID="str_taskFailed">
+        <English>TASK FAILED:</English>
+      </Key>
+      <Key ID="str_taskNew">
+        <English>NEW TASK ASSIGNED:</English>
+      </Key>
+      <Key ID="str_taskSetCurrent">
+        <English>CURRENT TASK:</English>
+      </Key>
+    </Container>
+    <Container name="TransportService">
+      <Key ID="STR_transportService_Busy">
+        <English>Supporting %1 is now on another mission.</English>
+      </Key>
+      <Key ID="STR_transportService_Destroyed">
+        <English>Supporting %1 was destroyed!</English>
+      </Key>
+    </Container>
+    <Container name="UAV">
+      <Key ID="str_uav_action">
+        <English>UAV</English>
+      </Key>
+      <Key ID="str_uav_name">
+        <English>UAV</English>
+      </Key>
+    </Container>
+    <Container name="ZORA">
+      <Key ID="str_zora_name">
+        <English>Zone Restriction</English>
+      </Key>
+    </Container>
+  </Package>
+</Project>

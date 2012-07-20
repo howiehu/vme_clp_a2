@@ -1,0 +1,29 @@
+BI's Tools End User License
+
+THIS SOFTWARE IS PROVIDED TO YOU BY BOHEMIA INTERACTIVE FREE OF CHARGE FOR YOUR PERSONAL USE AND TO CREATE NON-COMMERCIAL GAME CONTENT FOR BOHEMIA INTERACTIVE'S PRODUCTS. ANY COMMERCIAL USE IS PROHIBITED WITHOUT PERMISSION
+
+IMPORTANT, READ CAREFULLY: YOU SHOULD CAREFULLY READ THE FOLLOWING END-USER LICENSE AGREEMENT BEFORE INSTALLING THIS SOFTWARE PROGRAM.
+
+This computer software program, any printed materials, any on-line or electronic documentation, and any and all copies and derivative works of such software program and materials (the “Program”) are the copyrighted work. All use of the Program is governed by the copyright law and by the terms of the End-User License Agreement, which is provided below (“License”). By using the Program you agree to be legally bound by the terms of this license agreement. Any use, reproduction or redistribution of the Program not in accordance with the terms of the License is expressly prohibited. If you do not agree to the terms of this Agreement, do not install or use the Program.
+
+1. Ownership: All title, ownership rights and intellectual property rights in and to the Program and any and all copies thereof (including but not limited to any titles, computer code, themes, objects, methods of operation, any related documentation, and addons incorporated into the Program) are owned by Bohemia Interactive a.s. (the Licensor) or its licensors. The Program is protected by the Czech copyright laws, international copyright treaties and conventions and any other applicable laws. All rights are reserved.
+
+2. Limited Use of License: the Licensor hereby grants, and by installing the Program you thereby accept, a restricted, non-exclusive license and right to install and use one (1) copy of the Program for your personal use. You may not network the Program or otherwise install it or use it on more than one computer at a time, except if expressly authorized otherwise in the applicable documentation. The licensor also specifically prohibits the use of the Software for other purpose than designing, developing, testing, and producing non-commercial game content for computer games developed by the Licensor only.
+
+The Program is licensed and your license confers no title or ownership in the Program.
+
+3. End User's Obligations: A. As a Subject to the Grant of License herein above, you may not, in whole or in part, copy, duplicate, reproduce, translate, reverse-engineer,modify, disassemble, decompile, derive source code, create derivative works based on the Program, remove any proprietary notices or labels from the Program or otherwise modify the Program without the prior written consent of the Licensor. B. You are entitled to use the Program for your own use, but you are not entitled to: (i) Sell or transfer reproductions of the Program to other parties in any way, nor to rent, lease or license the Program to others (ii) Publish and/or distribute the computer Program or any of its parts (iii) Exploit the Program or any of its parts for any commercial purpose including, but not limited to, use at a cybercafé, computer gaming center, computer aided training center or any other location-based site where multiple users may access the Program; (iv) Commercially exploit or allow a 3rd party commercially exploit game content you created using the Software, including but not limited to use by military organizations for computer aided training or commercially released game content;
+
+4. No Support: You acknowledge and agree that BI is providing you the Software free of charge in order to allow you creation of non-commercial content for BI's gaming products only and you agree to not commercially exploit any game content you may create using the Software without BI’s prior written permission.
+
+5. License Transfer: You may permanently transfer all of your rights under this License to the recipient, provided that the recipient agrees to the terms of this License and you remove the Program from your computer.
+
+6.Termination: This License is effective until terminated.You may terminate the License at any time by destroying the Program and any New Material.The Licensor may, at its discretion, terminate this License in the event that you fail to comply with the terms and conditions contained herein. In such event, you must immediately destroy the Program and any New Material.
+
+7. Limited Warranty: THE LICENSOR EXPRESSLY DISCLAIMS ANY WARRANTY FOR THE PROGRAM.THE PROGRAM IS PROVIDED “AS IS”WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING,WITHOUT LIMITATION,THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT. The entire risk arising out of use or performance of the Program remains with you.
+
+8. Limitation of Liability: NEITHER THE LICENSOR, ITS PARENT, SUBSIDIARIES, AFFILIATES OR LICENSORS SHALL BE LIABLE IN ANY WAY FOR LOSS OR DAMAGE OF ANY KIND RESULTING FROM THE USE OF THE PROGRAM, INCLUDING BUT NOT LIMITED TO LOSS OF GOODWILL,WORK STOPPAGE, COMPUTER FAILURE OR MALFUNCTION, OR ANY AND ALL OTHER COMMERCIAL DAMAGE OR LOSSES.
+
+9.Miscellaneous: The License shall be deemed to have been made and executed in the Czech Republic, and any dispute arising hereunder shall be resolved in accordance with the Czech law.You hereby acknowledge that you have read and understand the foregoing License and agree that the action of installing the Program is an acknowledgment of your agreement to be bound by the terms and conditions of the License contained herein.You also acknowledge and agree that this License is the complete and exclusive statement of the agreement between the Licensor and you.
+
+Copyright © 2008 Bohemia Interactive. All rights reserved. 

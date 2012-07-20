@@ -1,0 +1,43 @@
+武装突袭2汉化工具说明
+
+
+TextManipulator
+用于提取英文文本和导入文本到英文文本。
+即游戏安装目录中的AddOns\language.pbo\stringtable.xml和AddOns\languagemissions.pbo\stringtable.xml。
+使用方法：
+导出：
+TextManipulator <Xml文件1> <Xml文件2> ...
+导入：
+TextManipulator <Agemo Txt文件1> <Agemo Txt文件2> ...
+也可通过将文件拖到TextManipulator.exe上来完成。
+
+
+FontManipulator
+用于生成游戏中的所用的字体的fxy文件和paa文件对应的png文件。
+即游戏安装目录中的AddOns\UIFonts.pbo\Data\Fonts\*.paa和*.fxy。
+使用方法：
+FontManipulator <GameFontName> <FontName> <FontStyle> <FontSize> <DrawOffsetX> <DrawOffsetY> <PicWidth> <PicHeight> <PicBlockWidth> <PicBlockHeight> <BlockWidthDelta> <BlockHeightDelta> <BlockOffsetX> <BlockOffsetY> [<CharFile>]
+GameFontName：游戏中的字体文件名称
+FontName：生成所用字体的名称
+FontStyle：生成所用字体的风格，粗体1 斜体2 下划线4 删除线8，可叠加
+FontSize：生成所用字体的大小，像素
+DrawOffsetX：绘制字符时的X偏移量
+DrawOffsetY：绘制字符时的Y偏移量
+PicWidth：图片宽度
+PicHeight：图片高度
+PicBlockWidth：图片中字符的宽度PicBlockHeight：图片中字符的高度
+BlockWidthDelta：字符的宽度与自动获取的宽度的差
+BlockHeightDelta：字符的宽度与自动获取的高度的差
+BlockOffsetX：字符在居中的基础上左边界与自动获取的左边界的差
+BlockOffsetY：字符在居中的基础上上边界与自动获取的上边界的差
+CharFile：字符文件，一个纯文本文件，包含所有的字符
+
+
+生成字体步骤
+安装TexView2，并修改FontGen.cmd中TexView2的安装路径。
+修改FontGen.cmd中对FontManipulator的调用。
+运行FontGen.cmd生成字体。
+将字体文件全部复制到
+游戏安装目录中AddOns\UIFonts.pbo用Tools for Armed Assault/ArmA 2解压的文件夹中的Data\Fonts下。
+重新生成AddOns\UIFonts.pbo。
+字体就导入完成。

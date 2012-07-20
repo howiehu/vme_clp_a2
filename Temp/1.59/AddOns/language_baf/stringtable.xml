@@ -1,0 +1,817 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project name="BAF">
+  <Package name="Misc">
+    <Container name="air_d_baf">
+      <Key ID="str_baf_cfgvehicles_aw159_lynx_baf_library0">
+        <Original>The Wildcat AH11 is a British multi-purpose military helicopter, designed to serve in battlefield utility, search and rescue and anti-submarine warfare roles. &lt;br /&gt;The AH11 is armed with the CRV7 rocket system and with the M621 20mm automatic cannon.</Original>
+        <English>The Wildcat AH11 is a British multi-purpose military helicopter, designed to serve in battlefield utility, search and rescue and anti-submarine warfare roles. &lt;br /&gt;The AH11 is armed with the CRV7 rocket system and with the M621 20mm automatic cannon.</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_aw159_lynx_baf0">
+        <Original>Wildcat AH11</Original>
+        <English>Wildcat AH11</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_apache_ah1_d_library0">
+        <Original>The Apache AH Mk1 is a licence-built version of the AH-64D Apache Longbow attack helicopter for the British Army. It is a four-blade, two-seat, twin-engine attack helicopter. &lt;br /&gt;The Apache is armed with a 30mm M230 Chain Gun and with AGM-114 Hellfire and Hydra 70 rocket pods.</Original>
+        <English>The Apache AH Mk1 is a licence-built version of the AH-64D Apache Longbow attack helicopter for the British Army. It is a four-blade, two-seat, twin-engine attack helicopter. &lt;br /&gt;The Apache is armed with a 30mm M230 Chain Gun and with AGM-114 Hellfire and Hydra 70 rocket pods.</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_apache_ah1_d0">
+        <Original>Apache AH1</Original>
+        <English>Apache AH1</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_merlin_hc3_d_library0">
+        <Original>The Merlin HC3 is a British designation for a AW101 medium-lift transport helicopter. &lt;br /&gt;The Merlin HC3 has a maximal speed of 309 km/h and the operational range of 1380 km. </Original>
+        <English>The Merlin HC3 is a British designation for a AW101 medium-lift transport helicopter. &lt;br /&gt;The Merlin HC3 has a maximal speed of 309 km/h and the operational range of 1380 km. </English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_merlin_hc3_d_useractions_closeldoor0">
+        <Original>Close door</Original>
+        <English>Close door</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_merlin_hc3_d_useractions_closerdoor0">
+        <Original>Close door</Original>
+        <English>Close door</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_merlin_hc3_d_useractions_closerear0">
+        <Original>Close ramp</Original>
+        <English>Close ramp</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_merlin_hc3_d_useractions_openldoor0">
+        <Original>Open door</Original>
+        <English>Open door</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_merlin_hc3_d_useractions_openrdoor0">
+        <Original>Open door</Original>
+        <English>Open door</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_merlin_hc3_d_useractions_openrear0">
+        <Original>Open ramp</Original>
+        <English>Open ramp</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_merlin_hc3_d0">
+        <Original>Merlin HC3</Original>
+        <English>Merlin HC3</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_ch_47f_baf_library0">
+        <Original>The Chinook HC4 is a British designation for a CH-47 Chinook. It is a versatile, twin-engine, tandem rotor heavy-lift helicopter. &lt;br/&gt;The main use of Chinook HC4 includes troop movement, artillery emplacement and battlefield resupply.</Original>
+        <English>The Chinook HC4 is a British designation for a CH-47 Chinook. It is a versatile, twin-engine, tandem rotor heavy-lift helicopter. &lt;br/&gt;The main use of Chinook HC4 includes troop movement, artillery emplacement and battlefield resupply.</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_ch_47f_baf0">
+        <Original>Chinook HC4</Original>
+        <English>Chinook HC4</English>
+      </Key>
+      <Key ID="str_baf_NewKey2">
+        <Original>PMC placeholder 2</Original>
+        <English>PMC placeholder 2</English>
+      </Key>
+    </Container>
+    <Container name="characters_d_baf">
+      <Key ID="str_baf_cfgvehicles_baf_asoldier_mtp0">
+        <Original>Rifleman (backpack)</Original>
+        <English>Rifleman (backpack)</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_crewman_mtp0">
+        <Original>Crewman</Original>
+        <English>Crewman</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_pilot_mtp0">
+        <Original>Pilot</Original>
+        <English>Pilot</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_soldier_aa_mtp0">
+        <Original>AA Specialist</Original>
+        <English>AA Specialist</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_soldier_aaa_mtp0">
+        <Original>Asst. AA Specialist</Original>
+        <English>Asst. AA Specialist</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_soldier_aar_mtp0">
+        <Original>Asst. Automatic Rifleman</Original>
+        <English>Asst. Automatic Rifleman</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_soldier_aat_mtp0">
+        <Original>Asst. AT Specialist</Original>
+        <English>Asst. AT Specialist</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_soldier_ahat_mtp0">
+        <Original>Asst. AT Specialist (Javelin)</Original>
+        <English>Asst. AT Specialist (Javelin)</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_soldier_amg_mtp0">
+        <Original>Asst. Machineguner</Original>
+        <English>Asst. Machineguner</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_soldier_ar_mtp0">
+        <Original>Automatic Rifleman</Original>
+        <English>Automatic Rifleman</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_soldier_at_mtp0">
+        <Original>AT Specialist</Original>
+        <English>AT Specialist</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_soldier_en_mtp0">
+        <Original>Engineer</Original>
+        <English>Engineer</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_soldier_fac_mtp0">
+        <Original>Joint Terminal Attack Controller</Original>
+        <English>Joint Terminal Attack Controller</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_soldier_gl_mtp0">
+        <Original>Grenadier</Original>
+        <English>Grenadier</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_soldier_hat_mtp0">
+        <Original>AT Specialist (Javelin)</Original>
+        <English>AT Specialist (Javelin)</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_soldier_l_mtp0">
+        <Original>Rifleman (light)</Original>
+        <English>Rifleman (light)</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_soldier_marksman_mtp0">
+        <Original>Marksman (LSW)</Original>
+        <English>Marksman (LSW)</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_soldier_medic_mtp0">
+        <Original>Medic</Original>
+        <English>Medic</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_soldier_mg_mtp0">
+        <Original>Machinegunner</Original>
+        <English>Machinegunner</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_soldier_mtp0">
+        <Original>Rifleman</Original>
+        <English>Rifleman</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_soldier_n_mtp0">
+        <Original>Rifleman (night)</Original>
+        <English>Rifleman (night)</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_soldier_officer_mtp0">
+        <Original>Officer</Original>
+        <English>Officer</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_soldier_scout_mtp0">
+        <Original>Marksman (LRR)</Original>
+        <English>Marksman (LRR)</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_soldier_sl_mtp0">
+        <Original>Section Leader</Original>
+        <English>Section Leader</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_soldier_sniper_mtp0">
+        <Original>Sniper (LRR)</Original>
+        <English>Sniper (LRR)</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_soldier_sniperh_mtp0">
+        <Original>Sniper (AS50)</Original>
+        <English>Sniper (AS50)</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_soldier_snipern_mtp0">
+        <Original>Sniper (AS50 TWS)</Original>
+        <English>Sniper (AS50 TWS)</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_soldier_spotter_mtp0">
+        <Original>Spotter</Original>
+        <English>Spotter</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_soldier_spottern_mtp0">
+        <Original>Spotter (night)</Original>
+        <English>Spotter (night)</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_soldier_tl_mtp0">
+        <Original>Team Leader</Original>
+        <English>Team Leader</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_pmc0">
+        <Original>Contractor 1</Original>
+        <English>Contractor 1</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_pmc1">
+        <Original>Contractor 2</Original>
+        <English>Contractor 2</English>
+      </Key>
+    </Container>
+    <Container name="data_baf">
+      <Key ID="str_baf_cfgfactionclasses_bis_baf0">
+        <Original>BAF</Original>
+        <English>BAF</English>
+      </Key>
+      <Key ID="str_baf_cfgfactionclasses_pmc_baf0">
+        <Original>PMC</Original>
+        <English>PMC</English>
+      </Key>
+      <Key ID="str_baf_cfgmarkers_flagbaf0">
+        <Original>Flag (Great Britain)</Original>
+        <English>Flag (Great Britain)</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicleclasses_armouredd0">
+        <Original>Armored (desert)</Original>
+        <English>Armored (desert)</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicleclasses_armouredw0">
+        <Original>Armored (woodland)</Original>
+        <English>Armored (woodland)</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicleclasses_card0">
+        <Original>Cars (desert)</Original>
+        <English>Cars (desert)</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicleclasses_carw0">
+        <Original>Cars (woodland)</Original>
+        <English>Cars (woodland)</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicleclasses_menddpm0">
+        <Original>Men (desert)</Original>
+        <English>Men (desert)</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicleclasses_menw0">
+        <Original>Men (woodland)</Original>
+        <English>Men (woodland)</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicleclasses_staticw0">
+        <Original>Static (woodland)</Original>
+        <English>Static (woodland)</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_flagcarrierbaf0">
+        <Original>Flag (Great Britain)</Original>
+        <English>Flag (Great Britain)</English>
+      </Key>
+      <Key ID="str_baf_Track01_Crimson_Lance">
+        <Original>B01: Crimson Lance</Original>
+        <English>B01: Crimson Lance</English>
+      </Key>
+      <Key ID="str_BAF_Track02_Drums">
+        <Original>B02: Drums</Original>
+        <English>B02: Drums</English>
+      </Key>
+      <Key ID="str_BAF_Track03_Jackals">
+        <Original>B03: Jackals</Original>
+        <English>B03: Jackals</English>
+      </Key>
+      <Key ID="str_BAF_Track04_Through_The_Valley">
+        <Original>B04: Through The Valley</Original>
+        <English>B04: Through The Valley</English>
+      </Key>
+      <Key ID="str_BAF_Track05_Utrinque_Paratus">
+        <Original>B05: Utrinque Paratus</Original>
+        <English>B05: Utrinque Paratus</English>
+      </Key>
+      <Key ID="str_BAF_Track06_War_Pipes">
+        <Original>B06: War Pipes</Original>
+        <English>B06: War Pipes</English>
+      </Key>
+    </Container>
+    <Container name="desert_b">
+      <Key ID="str_baf_CfgWorlds_desert_b0">
+        <Original>Shapur</Original>
+        <English>Shapur</English>
+      </Key>
+    </Container>
+    <Container name="mapa">
+      <Key ID="str_baf_oil_processing_facility">
+        <Original>Oil storage facility</Original>
+        <English>Oil storage facility</English>
+      </Key>
+      <Key ID="str_baf_shapur_1">
+        <Original>Shapur-1</Original>
+        <English>Shapur-1</English>
+      </Key>
+      <Key ID="str_baf_shapur_2">
+        <Original>Shapur-2</Original>
+        <English>Shapur-2</English>
+      </Key>
+      <Key ID="str_baf_shapur_3">
+        <Original>Shapur-3</Original>
+        <English>Shapur-3</English>
+      </Key>
+      <Key ID="str_baf_shapur_e_dalanper">
+        <Original>Shapur e-Dalanper</Original>
+        <English>Shapur e-Dalanper</English>
+      </Key>
+    </Container>
+    <Container name="tracked_d_baf">
+      <Key ID="str_baf_cfgvehicles_baf_fv510_d_library0">
+        <Original>The FV510 Warrior is an armoured tracked vehicle used by the British army. It's role is to carry troops under protection to the objective and give firepower support once they have disembarked. &lt;br /&gt;The Warrior is armed with a 40mm CTWS cannon and the L94A1 7.62mm chain gun.</Original>
+        <English>The FV510 Warrior is an armoured tracked vehicle used by the British army. It's role is to carry troops under protection to the objective and give firepower support once they have disembarked. &lt;br /&gt;The Warrior is armed with a 40mm CTWS cannon and the L94A1 7.62mm chain gun.</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_fv510_d0">
+        <Original>FV510 Warrior 2</Original>
+        <English>FV510 Warrior 2</English>
+      </Key>
+    </Container>
+    <Container name="weapons_baf">
+      <Key ID="str_baf_baf_basicammunitionbox0">
+        <Original>BAF Basic Ammo</Original>
+        <English>BAF Basic Ammo</English>
+      </Key>
+      <Key ID="str_baf_baf_basicweapons0">
+        <Original>BAF Basic Weapons</Original>
+        <English>BAF Basic Weapons</English>
+      </Key>
+      <Key ID="str_baf_baf_gmg_acog_minitripod_bag_assembleinfo0">
+        <Original>L134A1 GMG minitripod</Original>
+        <English>L134A1 GMG minitripod</English>
+      </Key>
+      <Key ID="str_baf_baf_gmg_acog_minitripod_bag0">
+        <Original>L134A1 GMG minitripod Bag</Original>
+        <English>L134A1 GMG minitripod Bag</English>
+      </Key>
+      <Key ID="str_baf_baf_gmg_tripod_d_library0">
+        <Original>The L134A1 is a British designation for a Heckler &amp; Koch GMG automatic grenade launcher. It fires 40mm grenades at a rate of about 350 rounds per minute and can be used for accurate, long range bombardment. &lt;br /&gt;This weapon features the ACOG (Advanced Combat Optical Gunsight).</Original>
+        <English>The L134A1 is a British designation for a Heckler &amp; Koch GMG automatic grenade launcher. It fires 40mm grenades at a rate of about 350 rounds per minute and can be used for accurate, long range bombardment. &lt;br /&gt;This weapon features the ACOG (Advanced Combat Optical Gunsight).</English>
+      </Key>
+      <Key ID="str_baf_baf_gmg_tripod_d0">
+        <Original>GMG Minitripod</Original>
+        <English>GMG Minitripod</English>
+      </Key>
+      <Key ID="str_baf_baf_gmg_tripod_d0_0">
+        <Original>Static grenade launcher</Original>
+        <English>Static grenade launcher</English>
+      </Key>
+      <Key ID="str_baf_baf_gpmg_minitripod_d_bag_assembleinfo0">
+        <Original>L7A2 GPMG Minitripod</Original>
+        <English>L7A2 GPMG Minitripod</English>
+      </Key>
+      <Key ID="str_baf_baf_gpmg_minitripod_d_bag0">
+        <Original>L7A2 GPMG Minitripod Bag</Original>
+        <English>L7A2 GPMG Minitripod Bag</English>
+      </Key>
+      <Key ID="str_baf_baf_gpmg_minitripod_d_library0">
+        <Original>The L7A2 is a British designation for a Belgian 7.62mm belt- fed general purpose machine gun FN MAG. It can be carried by foot soldiers and employed as a light machine gun. It is used mainly by para and marines these days. &lt;br /&gt;This weapon features the Elcan C79 opical sights.</Original>
+        <English>The L7A2 is a British designation for a Belgian 7.62mm belt- fed general purpose machine gun FN MAG. It can be carried by foot soldiers and employed as a light machine gun. It is used mainly by para and marines these days. &lt;br /&gt;This weapon features the Elcan C79 opical sights.</English>
+      </Key>
+      <Key ID="str_baf_baf_gpmg_minitripod_d0">
+        <Original>GPMG Minitripod</Original>
+        <English>GPMG Minitripod</English>
+      </Key>
+      <Key ID="str_baf_baf_gpmg_minitripod_d0_0">
+        <Original>Medium machie gun &lt;br/&gt;Caliber: 7.62x51mm NATO</Original>
+        <English>Medium machie gun &lt;br/&gt;Caliber: 7.62x51mm NATO</English>
+      </Key>
+      <Key ID="str_baf_baf_iedbox0">
+        <Original>Explosives Stash</Original>
+        <English>Explosives Stash</English>
+      </Key>
+      <Key ID="str_baf_baf_l2a1_acog_minitripod_bag_assembleinfo0">
+        <Original>L111A1 HMG Minitripod</Original>
+        <English>L111A1 HMG Minitripod</English>
+      </Key>
+      <Key ID="str_baf_baf_l2a1_acog_minitripod_bag0">
+        <Original>L111A1 HMG Minitripod Bag</Original>
+        <English>L111A1 HMG Minitripod Bag</English>
+      </Key>
+      <Key ID="str_baf_baf_l2a1_acog_tripod_bag_assembleinfo0">
+        <Original>L111A1 HMG Tripod</Original>
+        <English>L111A1 HMG Tripod</English>
+      </Key>
+      <Key ID="str_baf_baf_l2a1_acog_tripod_bag0">
+        <Original>L111A1 HMG Tripod Bag</Original>
+        <English>L111A1 HMG Tripod Bag</English>
+      </Key>
+      <Key ID="str_baf_baf_l2a1_minitripod_d_library0">
+        <Original>The L111A1 is a British designation for the M2 .50 caliber Machine Gun. It is a very versatile weapon which be used effectively against infantry, light armoured vehicles, slow flying aircraft and small boats. &lt;br /&gt;This weapon features the ACOG (Advanced Combat Optical Gunsight).</Original>
+        <English>The L111A1 is a British designation for the M2 .50 caliber Machine Gun. It is a very versatile weapon which be used effectively against infantry, light armoured vehicles, slow flying aircraft and small boats. &lt;br /&gt;This weapon features the ACOG (Advanced Combat Optical Gunsight).</English>
+      </Key>
+      <Key ID="str_baf_baf_l2a1_minitripod_d0">
+        <Original>L111A1 Minitripod</Original>
+        <English>L111A1 Minitripod</English>
+      </Key>
+      <Key ID="str_baf_baf_l2a1_minitripod_d0_0">
+        <Original>Heavy machine gun &lt;br/&gt;Caliber: .50 BMG</Original>
+        <English>Heavy machine gun &lt;br/&gt;Caliber: .50 BMG</English>
+      </Key>
+      <Key ID="str_baf_baf_l2a1_tripod_d_library0">
+        <Original>The L111A1 is a British designation for the M2 .50 caliber Machine Gun. It is a very versatile weapon which be used effectively against infantry, light armoured vehicles, slow flying aircraft and small boats. &lt;br /&gt;This weapon features the ACOG (Advanced Combat Optical Gunsight).</Original>
+        <English>The L111A1 is a British designation for the M2 .50 caliber Machine Gun. It is a very versatile weapon which be used effectively against infantry, light armoured vehicles, slow flying aircraft and small boats. &lt;br /&gt;This weapon features the ACOG (Advanced Combat Optical Gunsight).</English>
+      </Key>
+      <Key ID="str_baf_baf_l2a1_tripod_d0">
+        <Original>L111A1 Tripod</Original>
+        <English>L111A1 Tripod</English>
+      </Key>
+      <Key ID="str_baf_baf_l2a1_tripod_d0_0">
+        <Original>Heavy machine gun &lt;br/&gt;Caliber: .50 BMG</Original>
+        <English>Heavy machine gun &lt;br/&gt;Caliber: .50 BMG</English>
+      </Key>
+      <Key ID="str_baf_baf_l2a10">
+        <Original>L111A1</Original>
+        <English>L111A1</English>
+      </Key>
+      <Key ID="str_baf_baf_l7a20">
+        <Original>L7A2 GPMG</Original>
+        <English>L7A2 GPMG</English>
+      </Key>
+      <Key ID="str_baf_baf_l94a10">
+        <Original>L94A1 Chain Gun</Original>
+        <English>L94A1 Chain Gun</English>
+      </Key>
+      <Key ID="str_baf_baf_launchers0">
+        <Original>BAF Launchers</Original>
+        <English>BAF Launchers</English>
+      </Key>
+      <Key ID="str_baf_baf_ordnancebox0">
+        <Original>BAF Ordnance</Original>
+        <English>BAF Ordnance</English>
+      </Key>
+      <Key ID="str_baf_baf_static_gmg0">
+        <Original>GMG</Original>
+        <English>GMG</English>
+      </Key>
+      <Key ID="str_baf_baf_vehiclebox0">
+        <Original>BAF Vehicle Ammo</Original>
+        <English>BAF Vehicle Ammo</English>
+      </Key>
+      <Key ID="str_baf_bag_base_baf0">
+        <Original>British Assault Pack</Original>
+        <English>British Assault Pack</English>
+      </Key>
+      <Key ID="str_baf_cfgmagazines_100rnd_127x99_l2a10">
+        <Original>100Rnd. .50 BMG</Original>
+        <English>100Rnd. .50 BMG</English>
+      </Key>
+      <Key ID="str_baf_cfgmagazines_100rnd_127x99_l2a10_0">
+        <Original>Caliber: ,50 &lt;br/&gt;Rounds: 100 &lt;br/&gt;Used in: L111A1</Original>
+        <English>Caliber: ,50 &lt;br/&gt;Rounds: 100 &lt;br/&gt;Used in: L111A1</English>
+      </Key>
+      <Key ID="str_baf_cfgmagazines_12rnd_crv0_0">
+        <Original>PG</Original>
+        <English>PG</English>
+      </Key>
+      <Key ID="str_baf_cfgmagazines_12rnd_crv70">
+        <Original>CRV7-PG</Original>
+        <English>CRV7-PG</English>
+      </Key>
+      <Key ID="str_baf_cfgmagazines_2000rnd_762x51_l94a10">
+        <Original>Chain Gun</Original>
+        <English>Chain Gun</English>
+      </Key>
+      <Key ID="str_baf_cfgmagazines_200rnd_40mmhe_fv5100">
+        <Original>CTWS HE</Original>
+        <English>CTWS HE</English>
+      </Key>
+      <Key ID="str_baf_cfgmagazines_200rnd_40mmsabot_fv5100">
+        <Original>CTWS APDS</Original>
+        <English>CTWS APDS</English>
+      </Key>
+      <Key ID="str_baf_cfgmagazines_200rnd_556x45_l110a10">
+        <Original>200Rnd. STANAG</Original>
+        <English>200Rnd. STANAG</English>
+      </Key>
+      <Key ID="str_baf_cfgmagazines_200rnd_556x45_l110a10_0">
+        <Original>Caliber: 5.56x45 mm NATO &lt;br/&gt;Rounds: 200 &lt;br/&gt;Used in: L110A1</Original>
+        <English>Caliber: 5.56x45 mm NATO &lt;br/&gt;Rounds: 200 &lt;br/&gt;Used in: L110A1</English>
+      </Key>
+      <Key ID="str_baf_cfgmagazines_200rnd_762x54_gpmg0">
+        <Original>200Rnd. 7.62x51 mm NATO</Original>
+        <English>200Rnd. 7.62x51 mm NATO</English>
+      </Key>
+      <Key ID="str_baf_cfgmagazines_200rnd_762x54_gpmg0_0">
+        <Original>Caliber: 7.62x51 mm NATO &lt;br/&gt;Rounds: 2000 &lt;br/&gt;Used in: GPMG</Original>
+        <English>Caliber: 7.62x51 mm NATO &lt;br/&gt;Rounds: 2000 &lt;br/&gt;Used in: GPMG</English>
+      </Key>
+      <Key ID="str_baf_cfgmagazines_32rnd_40mm_gmg0">
+        <Original>32Rnd. 40mm Grenade</Original>
+        <English>32Rnd. 40mm Grenade</English>
+      </Key>
+      <Key ID="str_baf_cfgmagazines_32rnd_40mm_gmg0_0">
+        <Original>Caliber: 40 mm &lt;br/&gt;Rounds: 32 &lt;br/&gt;Used in: GMG</Original>
+        <English>Caliber: 40 mm &lt;br/&gt;Rounds: 32 &lt;br/&gt;Used in: GMG</English>
+      </Key>
+      <Key ID="str_baf_cfgmagazines_5rnd_127x99_as500">
+        <Original>5Rnd. 12.7x99 mm NATO</Original>
+        <English>5Rnd. 12.7x99 mm NATO</English>
+      </Key>
+      <Key ID="str_baf_cfgmagazines_5rnd_127x99_as500_0">
+        <Original>Caliber: 12.7x99 mm NATO &lt;br/&gt;Rounds: 5 &lt;br/&gt;Used in: AS50</Original>
+        <English>Caliber: 12.7x99 mm NATO &lt;br/&gt;Rounds: 5 &lt;br/&gt;Used in: AS50</English>
+      </Key>
+      <Key ID="str_baf_cfgmagazines_5rnd_86x70_l115a10">
+        <Original>5Rnd. .338 Lapua Magnum</Original>
+        <English>5Rnd. .338 Lapua Magnum</English>
+      </Key>
+      <Key ID="str_baf_cfgmagazines_5rnd_86x70_l115a10_0">
+        <Original>Caliber: .338 &lt;br/&gt;Rounds: 5 &lt;br/&gt;Used in: L115A1</Original>
+        <English>Caliber: .338 &lt;br/&gt;Rounds: 5 &lt;br/&gt;Used in: L115A1</English>
+      </Key>
+      <Key ID="str_baf_cfgmagazines_6rnd_crv_fat0_0">
+        <Original>FAT</Original>
+        <English>FAT</English>
+      </Key>
+      <Key ID="str_baf_cfgmagazines_6rnd_crv_hepd0_0">
+        <Original>HEPD</Original>
+        <English>HEPD</English>
+      </Key>
+      <Key ID="str_baf_cfgmagazines_6rnd_crv7_fat0">
+        <Original>CRV7-FAT</Original>
+        <English>CRV7-FAT</English>
+      </Key>
+      <Key ID="str_baf_cfgmagazines_6rnd_crv7_hepd0">
+        <Original>CRV7-HEPD</Original>
+        <English>CRV7-HEPD</English>
+      </Key>
+      <Key ID="str_baf_cfgmagazines_baf_ied_v10">
+        <Original>IED (garbage)</Original>
+        <English>IED (garbage)</English>
+      </Key>
+      <Key ID="str_baf_cfgmagazines_baf_ied_v10_0">
+        <Original>Improvised Explosive Device</Original>
+        <English>Improvised Explosive Device</English>
+      </Key>
+      <Key ID="str_baf_cfgmagazines_baf_ied_v20">
+        <Original>IED (garbage large)</Original>
+        <English>IED (garbage large)</English>
+      </Key>
+      <Key ID="str_baf_cfgmagazines_baf_ied_v30">
+        <Original>IED (ground)</Original>
+        <English>IED (ground)</English>
+      </Key>
+      <Key ID="str_baf_cfgmagazines_baf_ied_v40">
+        <Original>IED (ground large)</Original>
+        <English>IED (ground large)</English>
+      </Key>
+      <Key ID="str_baf_cfgmagazines_baf_l109a1_he0">
+        <Original>L109A2 Frag</Original>
+        <English>L109A2 Frag</English>
+      </Key>
+      <Key ID="str_baf_cfgmagazines_nlaw0">
+        <Original>NLAW Rocket</Original>
+        <English>NLAW Rocket</English>
+      </Key>
+      <Key ID="str_baf_cfgmagazines_nlaw0_0">
+        <Original>Range: 75-2500 m &lt;br/&gt;Type: AT &lt;br/&gt;Used in: NLAW</Original>
+        <English>Range: 75-2500 m &lt;br/&gt;Type: AT &lt;br/&gt;Used in: NLAW</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_as50_scoped_library0">
+        <Original>The AS50 is a .50 BMG sniper/anti-materiel rifle. It enables operators to engage targets at very long range (up to 1500 m) with high accuracy. &lt;br/&gt;This weapon is prized highly for being transportable, ergonomic and lightweight. It can be disassembled in less than three minutes and serviced without tools.</Original>
+        <English>The AS50 is a .50 BMG sniper/anti-materiel rifle. It enables operators to engage targets at very long range (up to 1500 m) with high accuracy. &lt;br/&gt;This weapon is prized highly for being transportable, ergonomic and lightweight. It can be disassembled in less than three minutes and serviced without tools.</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_as50_scoped0">
+        <Original>AS50</Original>
+        <English>AS50</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_as50_scoped0_0">
+        <Original>Anti-materiel sniper rifle &lt;br/&gt;Caliber: 12.7x99 mm NATO</Original>
+        <English>Anti-materiel sniper rifle &lt;br/&gt;Caliber: 12.7x99 mm NATO</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_as50_tws_library0">
+        <Original>The AS50 is a .50 BMG sniper/anti-materiel rifle. It enables operators to engage targets at very long (up to 1500 m) range with high accuracy. &lt;br/&gt;This rifle features an additional TWS (Thermal Weapons Sights).</Original>
+        <English>The AS50 is a .50 BMG sniper/anti-materiel rifle. It enables operators to engage targets at very long (up to 1500 m) range with high accuracy. &lt;br/&gt;This rifle features an additional TWS (Thermal Weapons Sights).</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_as50_tws0">
+        <Original>AS50 TWS</Original>
+        <English>AS50 TWS</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_ied_v1_library0">
+        <Original>Improvised Explosive Device</Original>
+        <English>Improvised Explosive Device</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_ied_v10">
+        <Original>IED (garbage)</Original>
+        <English>IED (garbage)</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_ied_v10_0">
+        <Original>IED&lt;br/&gt;
+Small charge</Original>
+        <English>IED&lt;br/&gt;
+Small charge</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_ied_v20">
+        <Original>IED (garbage large)</Original>
+        <English>IED (garbage large)</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_ied_v20_0">
+        <Original>IED&lt;br/&gt;
+Big charge</Original>
+        <English>IED&lt;br/&gt;
+Big charge</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_ied_v30">
+        <Original>IED (ground)</Original>
+        <English>IED (ground)</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_ied_v40">
+        <Original>IED (ground large)</Original>
+        <English>IED (ground large)</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_l110a1_aim_library0">
+        <Original>The L110A1 is a British designation for a Belgian 5.56mm light machine gun Minimi Para. It is an air-cooled weapon, capable only of fully automatic fire, and it is adjusted to be used as paratroopers weapon.&lt;br/&gt;This rifle features the red-dot Aimpoint gunsight and the AN/PEQ-2 laser sights.</Original>
+        <English>The L110A1 is a British designation for a Belgian 5.56mm light machine gun Minimi Para. It is an air-cooled weapon, capable only of fully automatic fire, and it is adjusted to be used as paratroopers weapon.&lt;br/&gt;This rifle features the red-dot Aimpoint gunsight and the AN/PEQ-2 laser sights.</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_l110a1_aim0">
+        <Original>L110A1</Original>
+        <English>L110A1</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_l110a1_aim0_0">
+        <Original>Light machine gun &lt;br/&gt;Caliber: 5.56x45 mm NATO</Original>
+        <English>Light machine gun &lt;br/&gt;Caliber: 5.56x45 mm NATO</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_l17_40mm0">
+        <Original>L123 40mm UGL</Original>
+        <English>L123 40mm UGL</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_l7a2_gpmg_library0">
+        <Original>The L7A2 is a British designation for a Belgian 7.62 mm belt- fed general purpose machine gun FN MAG. It can be carried by foot soldiers and employed as a light machine gun. It is used mainly by para and marines these days.</Original>
+        <English>The L7A2 is a British designation for a Belgian 7.62 mm belt- fed general purpose machine gun FN MAG. It can be carried by foot soldiers and employed as a light machine gun. It is used mainly by para and marines these days.</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_l7a2_gpmg0">
+        <Original>L7A2 GPMG</Original>
+        <English>L7A2 GPMG</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_l7a2_gpmg0_0">
+        <Original>Medium machine gun &lt;br/&gt;Caliber: 7.62x51 mm NATO</Original>
+        <English>Medium machine gun &lt;br/&gt;Caliber: 7.62x51 mm NATO</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_l85a2_ris_acog_library0">
+        <Original>The L85A2 is a standard weapon of the British Armed Forces, which replaced the previous weapon, the L85A1 (SA80). The new version has many improvements, and it no longer jams easily. On other hand, A2 is slightly heavier that A1.&lt;br/&gt;This rifle features the ACOG, the RIS (rail interface system) and the AN/PEQ-2 laser sights.</Original>
+        <English>The L85A2 is a standard weapon of the British Armed Forces, which replaced the previous weapon, the L85A1 (SA80). The new version has many improvements, and it no longer jams easily. On other hand, A2 is slightly heavier that A1.&lt;br/&gt;This rifle features the ACOG, the RIS (rail interface system) and the AN/PEQ-2 laser sights.</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_l85a2_ris_acog0">
+        <Original>L85A2 ACOG</Original>
+        <English>L85A2 ACOG</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_l85a2_ris_cws_library0">
+        <Original>The L85A2 is a standard weapon of the British Armed Forces, which replaced the previous weapon, the L85A1 (SA80). The new version has many improvements, and it no longer jams easily. On other hand, A2 is slightly heavier that A1.&lt;br/&gt;This rifle features AWS fourth generation sights and the AN/PEQ-2 laser sights.</Original>
+        <English>The L85A2 is a standard weapon of the British Armed Forces, which replaced the previous weapon, the L85A1 (SA80). The new version has many improvements, and it no longer jams easily. On other hand, A2 is slightly heavier that A1.&lt;br/&gt;This rifle features AWS fourth generation sights and the AN/PEQ-2 laser sights.</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_l85a2_ris_cws0">
+        <Original>L85A2 AWS</Original>
+        <English>L85A2 AWS</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_l85a2_ris_holo_library0">
+        <Original>The L85A2 is a standard weapon of the British Armed Forces, which replaced the previous weapon, the L85A1 (SA80). The new version has many improvements, and it no longer jams easily. On other hand, A2 is slightly heavier that A1.&lt;br/&gt;This rifle features the EOTech holographic sights, the RIS (rail interface system) and the AN/PEQ-2 laser sights.</Original>
+        <English>The L85A2 is a standard weapon of the British Armed Forces, which replaced the previous weapon, the L85A1 (SA80). The new version has many improvements, and it no longer jams easily. On other hand, A2 is slightly heavier that A1.&lt;br/&gt;This rifle features the EOTech holographic sights, the RIS (rail interface system) and the AN/PEQ-2 laser sights.</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_l85a2_ris_holo0">
+        <Original>L85A2 Holo</Original>
+        <English>L85A2 Holo</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_l85a2_ris_susat_library0">
+        <Original>The L85A2 is a standard weapon of the British Armed Forces, which replaced the previous weapon, the L85A1 (SA80). The new version has many improvements, and it no longer jams easily. On other hand, A2 is slightly heavier that A1.&lt;br/&gt;This rifle features the SUSAT (4x optical sights), the RIS (rail interface system) and the AN/PEQ-2 laser sights.</Original>
+        <English>The L85A2 is a standard weapon of the British Armed Forces, which replaced the previous weapon, the L85A1 (SA80). The new version has many improvements, and it no longer jams easily. On other hand, A2 is slightly heavier that A1.&lt;br/&gt;This rifle features the SUSAT (4x optical sights), the RIS (rail interface system) and the AN/PEQ-2 laser sights.</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_l85a2_ris_susat0">
+        <Original>L85A2 SUSAT</Original>
+        <English>L85A2 SUSAT</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_l85a2_ugl_acog_library0">
+        <Original>The L85A2 is a standard weapon of the British Armed Forces, which replaced the previous weapon, the L85A1 (SA80). The new version has many improvements, and it no longer jams easily. On other hand, A2 is slightly heavier that A1.&lt;br/&gt;This rifle features the ACOG, the UGL (Under-slung Grenade Launcher) and the AN/PEQ-2 laser sights.</Original>
+        <English>The L85A2 is a standard weapon of the British Armed Forces, which replaced the previous weapon, the L85A1 (SA80). The new version has many improvements, and it no longer jams easily. On other hand, A2 is slightly heavier that A1.&lt;br/&gt;This rifle features the ACOG, the UGL (Under-slung Grenade Launcher) and the AN/PEQ-2 laser sights.</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_l85a2_ugl_acog0">
+        <Original>L85A2 ACOG GL</Original>
+        <English>L85A2 ACOG GL</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_l85a2_ugl_acog0_0">
+        <Original>Assault rifle with grenade launcher &lt;br/&gt;Caliber: 5.56x45 mm NATO</Original>
+        <English>Assault rifle with grenade launcher &lt;br/&gt;Caliber: 5.56x45 mm NATO</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_l85a2_ugl_holo_library0">
+        <Original>The L85A2 is a standard weapon of the British Armed Forces, which replaced the previous weapon, the L85A1 (SA80). The new version has many improvements, and it no longer jams easily. On other hand, A2 is slightly heavier that A1.&lt;br/&gt;This rifle features the EOTech holographic sights, the UGL (Under-slung Grenade Launcher) and the AN/PEQ-2 laser sights.</Original>
+        <English>The L85A2 is a standard weapon of the British Armed Forces, which replaced the previous weapon, the L85A1 (SA80). The new version has many improvements, and it no longer jams easily. On other hand, A2 is slightly heavier that A1.&lt;br/&gt;This rifle features the EOTech holographic sights, the UGL (Under-slung Grenade Launcher) and the AN/PEQ-2 laser sights.</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_l85a2_ugl_holo0">
+        <Original>L85A2 Holo GL</Original>
+        <English>L85A2 Holo GL</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_l85a2_ugl_holo0_0">
+        <Original>Assault rifle with grenade launcher &lt;br/&gt;Caliber: 5.56x45 mm NATO</Original>
+        <English>Assault rifle with grenade launcher &lt;br/&gt;Caliber: 5.56x45 mm NATO</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_l85a2_ugl_susat_library0">
+        <Original>The L85A2 is a standard weapon of the British Armed Forces, which replaced the previous weapon, the L85A1 (SA80). The new version has many improvements, and it no longer jams easily. On other hand, A2 is slightly heavier that A1.&lt;br/&gt;This rifle features the SUSAT (4x optical sights), the UGL (Under-slung Grenade Launcher) and the AN/PEQ-2 laser sights.</Original>
+        <English>The L85A2 is a standard weapon of the British Armed Forces, which replaced the previous weapon, the L85A1 (SA80). The new version has many improvements, and it no longer jams easily. On other hand, A2 is slightly heavier that A1.&lt;br/&gt;This rifle features the SUSAT (4x optical sights), the UGL (Under-slung Grenade Launcher) and the AN/PEQ-2 laser sights.</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_l85a2_ugl_susat0">
+        <Original>L85A2 SUSAT GL</Original>
+        <English>L85A2 SUSAT GL</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_l85a2_ugl_susat0_0">
+        <Original>Assault rifle with grenade launcher &lt;br/&gt;Caliber: 5.56x45 mm NATO</Original>
+        <English>Assault rifle with grenade launcher &lt;br/&gt;Caliber: 5.56x45 mm NATO</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_l86a2_acog_library0">
+        <Original>The L86A1 LSW is the variant of the L85 rifle, but features longer barrel than the L85A1 rifle, which gives it a greater effective range. This rifle was intended to provide fire support at a fireteam level. &lt;br/&gt;This rifle features the ACOG (Advancet Combat Optical Gunsight).</Original>
+        <English>The L86A1 LSW is the variant of the L85 rifle, but features longer barrel than the L85A1 rifle, which gives it a greater effective range. This rifle was intended to provide fire support at a fireteam level. &lt;br/&gt;This rifle features the ACOG (Advancet Combat Optical Gunsight).</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_l86a2_acog0">
+        <Original>L86A2 LSW</Original>
+        <English>L86A2 LSW</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_l86a2_acog0_0">
+        <Original>Assault rifle  &lt;br/&gt;Caliber: 5.56x45 mm NATO</Original>
+        <English>Assault rifle  &lt;br/&gt;Caliber: 5.56x45 mm NATO</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_lrr_scoped_library0">
+        <Original>The L115A1 Long Range Rifle (LRR) is a British designation for a AWSM (Arctic Warfare Super Magnum) sniper rifle. It is highly prized as a dedicated long range sniper rifle that combines the manoeuvrability with the great power and range.&lt;br/&gt;This rifle features the red-dot Aimpoint gunsight and the AN/PEQ-2 laser sights.</Original>
+        <English>The L115A1 Long Range Rifle (LRR) is a British designation for a AWSM (Arctic Warfare Super Magnum) sniper rifle. It is highly prized as a dedicated long range sniper rifle that combines the manoeuvrability with the great power and range.&lt;br/&gt;This rifle features the red-dot Aimpoint gunsight and the AN/PEQ-2 laser sights.</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_lrr_scoped_w0">
+        <Original>L115A2 LRR</Original>
+        <English>L115A2 LRR</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_lrr_scoped0">
+        <Original>L115A3 LRR</Original>
+        <English>L115A3 LRR</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_lrr_scoped0_0">
+        <Original>Sniper rifle   &lt;br/&gt;Caliber: .338 Lapua Magnum</Original>
+        <English>Sniper rifle   &lt;br/&gt;Caliber: .338 Lapua Magnum</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_nlaw_launcher_library0">
+        <Original>The NLAW (Next Generation Light Armor Weapon) is the portable, short range, fire-and-forget anti-tank guided missile system. It features a soft-launch system, allowing it to be used from within an enclosed room.</Original>
+        <English>The NLAW (Next Generation Light Armor Weapon) is the portable, short range, fire-and-forget anti-tank guided missile system. It features a soft-launch system, allowing it to be used from within an enclosed room.</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_nlaw_launcher0">
+        <Original>NLAW</Original>
+        <English>NLAW</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_nlaw_launcher0_0">
+        <Original>Anti-tank missile launcher  &lt;br/&gt;Guided</Original>
+        <English>Anti-tank missile launcher  &lt;br/&gt;Guided</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_putied_v10">
+        <Original>Put IED (garbage)</Original>
+        <English>Put IED (garbage)</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_putied_v20">
+        <Original>Put IED (garbage large)</Original>
+        <English>Put IED (garbage large)</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_putied_v30">
+        <Original>Put IED (ground large)</Original>
+        <English>Put IED (ground large)</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_baf_putied_v40">
+        <Original>Put IED (ground large)</Original>
+        <English>Put IED (ground large)</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_l85a2_base_baf0">
+        <Original>Assault rifle  &lt;br/&gt;Caliber: 5.56x45 mm NATO</Original>
+        <English>Assault rifle  &lt;br/&gt;Caliber: 5.56x45 mm NATO</English>
+      </Key>
+      <Key ID="str_baf_cfgweapons_put_baf_ied_v1_muzzle0">
+        <Original>Fire IED</Original>
+        <English>Fire IED</English>
+      </Key>
+      <Key ID="str_baf_crv7_pg_burst0">
+        <Original>CRV7-PG</Original>
+        <English>CRV7-PG</English>
+      </Key>
+      <Key ID="str_baf_crv7_pg_far_ai0">
+        <Original>CRV7-PG</Original>
+        <English>CRV7-PG</English>
+      </Key>
+      <Key ID="str_baf_crv70">
+        <Original>CRV7</Original>
+        <English>CRV7</English>
+      </Key>
+      <Key ID="str_baf_ctws0">
+        <Original>CTWS</Original>
+        <English>CTWS</English>
+      </Key>
+      <Key ID="str_baf_m621_manual0">
+        <Original>M621</Original>
+        <English>M621</English>
+      </Key>
+      <Key ID="str_baf_tripod_bag0">
+        <Original>Tripod Bag</Original>
+        <English>Tripod Bag</English>
+      </Key>
+    </Container>
+    <Container name="wheeled_d_baf">
+      <Key ID="str_baf_cfgvehicles_baf_jackal2_base_d0">
+        <Original>Jackal 2 - base</Original>
+        <English>Jackal 2 - base</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_jackal2_gmg_d_library0">
+        <Original>The Jackal or MWMIK (Mobility Weapon-Mounted Installation Kit) is a combat vehicle used by the British Army. The primary role of ths vehicle is deep battlespace reconnaissance, rapid assault and fire support. &lt;br /&gt;Jackal 2 is an updated version with increased survivability. This one is armed with the L134A1 grenade machine gun.</Original>
+        <English>The Jackal or MWMIK (Mobility Weapon-Mounted Installation Kit) is a combat vehicle used by the British Army. The primary role of ths vehicle is deep battlespace reconnaissance, rapid assault and fire support. &lt;br /&gt;Jackal 2 is an updated version with increased survivability. This one is armed with the L134A1 grenade machine gun.</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_jackal2_gmg_d0">
+        <Original>Jackal 2 MWMIK (GMG)</Original>
+        <English>Jackal 2 MWMIK (GMG)</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_jackal2_l2a1_d_library0">
+        <Original>The Jackal or MWMIK (Mobility Weapon-Mounted Installation Kit) is a combat vehicle used by the British Army. The primary role of ths vehicle is deep battlespace reconnaissance, rapid assault and fire support. &lt;br /&gt;Jackal 2 is an updated version with increased survivability. This one is armed with the L111A1 .50 caliber machine gun.</Original>
+        <English>The Jackal or MWMIK (Mobility Weapon-Mounted Installation Kit) is a combat vehicle used by the British Army. The primary role of ths vehicle is deep battlespace reconnaissance, rapid assault and fire support. &lt;br /&gt;Jackal 2 is an updated version with increased survivability. This one is armed with the L111A1 .50 caliber machine gun.</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_jackal2_l2a1_d0">
+        <Original>Jackal 2 MWMIK (HMG)</Original>
+        <English>Jackal 2 MWMIK (HMG)</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_offroad_d_library0">
+        <Original>The offrodads where pioneering the civilian all-terrain utility vehicles, which where introduced in 1948; but later, the mark was adopted as a general brand for many four-wheel drive all-terrain vehicles.</Original>
+        <English>The offrodads where pioneering the civilian all-terrain utility vehicles, which where introduced in 1948; but later, the mark was adopted as a general brand for many four-wheel drive all-terrain vehicles.</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_baf_offroad_d0">
+        <Original>Offroad</Original>
+        <English>Offroad</English>
+      </Key>
+      <Key ID="str_baf_cfgvehicles_pmc_suv0">
+        <Original>PMC SUV</Original>
+        <English>PMC SUV</English>
+      </Key>
+    </Container>
+  </Package>
+</Project>

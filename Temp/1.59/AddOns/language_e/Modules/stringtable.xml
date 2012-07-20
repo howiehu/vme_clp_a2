@@ -1,0 +1,1251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project name="Arma2-OA">
+  <Package name="Modules">
+    <Container name="MPArmory">
+      <Container name="Broadcasts">
+        <Key ID="STR_EP1_MPA_Broadcast1">
+          <Original>Unfortunately, there are no suitable challenges for the selected items.</Original>
+          <English>Unfortunately, there are no suitable challenges for the selected items.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Broadcast2">
+          <Original>Operation will commence shortly. We are waiting for meta-challenges to finish.</Original>
+          <English>Operation will commence shortly. We are waiting for meta-challenges to finish.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Broadcast3">
+          <Original>We are now starting Operation.</Original>
+          <English>We are now starting Operation.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Broadcast4">
+          <Original>To ensure the safety of all our visitors, ARMEX is off-limits during Operation. Please leave immediately!</Original>
+          <English>To ensure the safety of all our visitors, ARMEX is off-limits during Operation. Please leave immediately!</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Broadcast5">
+          <Original>has selected item</Original>
+          <English>has selected item</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Broadcast6">
+          <Original>An item was randomly selected for</Original>
+          <English>An item was randomly selected for</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Broadcast7">
+          <Original>The active challenge was aborted.</Original>
+          <English>The active challenge was aborted.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Broadcast8">
+          <Original>Operation is being halted. We are returning to ARMEX.</Original>
+          <English>Operation is being halted. We are returning to ARMEX.</English>
+        </Key>
+      </Container>
+      <Container name="Challenges">
+        <Key ID="STR_EP1_MPA_Chal_Aborted">
+          <Original>The challenge was aborted.</Original>
+          <English>The challenge was aborted.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_AttackLocation_textDebriefing1">
+          <Original>The enemy position is now under our control.</Original>
+          <English>The enemy position is now under our control.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_AttackLocation_textLog">
+          <Original>Enemy forces are holed up in a defended position. Your team is tasked with assaulting and securing the position.&lt;br /&gt;&lt;br /&gt;You need to physically be at the target location, so just eliminating the defenders from afar is not enough. Once you've had control over the area for a little while, the challenge is deemed a success.&lt;br /&gt;
+&lt;br /&gt;There may be several patrols between you and your target, so plan your assault well. Study the terrain and use its features to your advantage.</Original>
+          <English>Enemy forces are holed up in a defended position. Your team is tasked with assaulting and securing the position.&lt;br /&gt;&lt;br /&gt;You need to physically be at the target location, so just eliminating the defenders from afar is not enough. Once you've had control over the area for a little while, the challenge is deemed a success.&lt;br /&gt;
+&lt;br /&gt;There may be several patrols between you and your target, so plan your assault well. Study the terrain and use its features to your advantage.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_AttackLocation_textTask1">
+          <Original>Move to the position and clear the enemy presence.</Original>
+          <English>Move to the position and clear the enemy presence.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_CheckpointRace_textLog">
+          <Original>You're all in the same type of vehicle, so compete to see who has the best driving skills and can cross the finish line first. You are not allowed to skip any of the checkpoints, so study the route on the map well.</Original>
+          <English>You're all in the same type of vehicle, so compete to see who has the best driving skills and can cross the finish line first. You are not allowed to skip any of the checkpoints, so study the route on the map well.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_CheckpointRace_textTask1">
+          <Original>Beat the other players to the finish line.</Original>
+          <English>Beat the other players to the finish line.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_Completion">
+          <Original>Completion:</Original>
+          <English>Completion:</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_ConvoyAmbush">
+          <Original>Convoy Ambush</Original>
+          <English>Convoy Ambush</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_ConvoyAmbush_textDebriefing1">
+          <Original>Your team was able to take out all vehicles in the convoy.</Original>
+          <English>Your team was able to take out all vehicles in the convoy.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_ConvoyAmbush_textDebriefing2">
+          <Original>Unfortunately, you've let some vehicles get through.</Original>
+          <English>Unfortunately, you've let some vehicles get through.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_ConvoyAmbush_textDebriefing3">
+          <Original>All vehicles reached their intended destination.</Original>
+          <English>All vehicles reached their intended destination.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_ConvoyAmbush_textLog">
+          <Original>An enemy ground convoy has been seen moving near our lines. Your team will be sent in to halt it. Take out the vehicle crews or disable the vehicles themselves.&lt;br /&gt;&lt;br /&gt;You can also take an offensive stance and intercept the enemy elsewhere along the route. Be aware of enemy security vehicles and personnel traveling along with the convoy.</Original>
+          <English>An enemy ground convoy has been seen moving near our lines. Your team will be sent in to halt it. Take out the vehicle crews or disable the vehicles themselves.&lt;br /&gt;&lt;br /&gt;You can also take an offensive stance and intercept the enemy elsewhere along the route. Be aware of enemy security vehicles and personnel traveling along with the convoy.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_ConvoyAmbush_textTask1">
+          <Original>Ambush the vehicle convoy.</Original>
+          <English>Ambush the vehicle convoy.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_DeathMatch_textDebriefing1">
+          <Original>You're the winner!</Original>
+          <English>You're the winner!</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_DeathMatch_textDebriefing2">
+          <Original>You've lost!</Original>
+          <English>You've lost!</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_DeathMatch_textLog">
+          <Original>Fight for your life and rack up as many points as you can by killing the other players. If you're using vehicles, you'll be the only crew member - so you need to man all stations by yourself.&lt;br /&gt;&lt;br /&gt;Only the player with the most points wins, so there's no point in hiding or leaving the area.</Original>
+          <English>Fight for your life and rack up as many points as you can by killing the other players. If you're using vehicles, you'll be the only crew member - so you need to man all stations by yourself.&lt;br /&gt;&lt;br /&gt;Only the player with the most points wins, so there's no point in hiding or leaving the area.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_DeathMatch_textTask1">
+          <Original>Kill the other players 10 times before time runs out.</Original>
+          <English>Kill the other players 10 times before time runs out.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_DeathMatch_textTask2">
+          <Original>Kill the other players %1 times before time runs out.</Original>
+          <English>Kill the other players %1 times before time runs out.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_DefendLocation_textDebriefing1">
+          <Original>You've fended off a formidable force.</Original>
+          <English>You've fended off a formidable force.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_DefendLocation_textDebriefing2">
+          <Original>You've allowed your enemy to take control of the area and you were unable to quickly reclaim it.</Original>
+          <English>You've allowed your enemy to take control of the area and you were unable to quickly reclaim it.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_DefendLocation_textLog">
+          <Original>Several enemy units are advancing on a friendly position. Your team is to make sure the position does not get overrun.&lt;br /&gt;&lt;br /&gt;Either take out all enemy forces or send them into retreat. Should the enemy take control of the position, quickly take it back.</Original>
+          <English>Several enemy units are advancing on a friendly position. Your team is to make sure the position does not get overrun.&lt;br /&gt;&lt;br /&gt;Either take out all enemy forces or send them into retreat. Should the enemy take control of the position, quickly take it back.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_DefendLocation_textTask1">
+          <Original>Defend the position against enemy attack.</Original>
+          <English>Defend the position against enemy attack.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_FastTraveled">
+          <Original>You've used Fast-Travel.</Original>
+          <English>You've used Fast-Travel.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_ItemsUsed">
+          <Original>Item(s) used:</Original>
+          <English>Item(s) used:</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_LastManStanding">
+          <Original>Last Man Standing</Original>
+          <English>Last Man Standing</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_LastManStanding_textLog">
+          <Original>Be the last one to survive a battle to the death. If you're using vehicles, you'll be the only crew member, so you'll need to man all stations by yourself.</Original>
+          <English>Be the last one to survive a battle to the death. If you're using vehicles, you'll be the only crew member, so you'll need to man all stations by yourself.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_LastManStanding_textTask1">
+          <Original>Kill the other players before time runs out.</Original>
+          <English>Kill the other players before time runs out.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_PlayersDisconnected">
+          <Original>Too many players disconnected.</Original>
+          <English>Too many players disconnected.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_PlayersFastTraveled">
+          <Original>Too many players used Fast-Travel.</Original>
+          <English>Too many players used Fast-Travel.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_Points">
+          <Original>Points:</Original>
+          <English>Points:</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_Survival_textDebriefing1">
+          <Original>You've survived the onslaught.</Original>
+          <English>You've survived the onslaught.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_Survival_textDebriefing2">
+          <Original>You did not survive.</Original>
+          <English>You did not survive.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_Survival_textLog">
+          <Original>Your team is continuously assaulted by waves of enemies. Survive as long as you can. Remember that you're not forced to stay in one location, so either move around or find a good defensive position.</Original>
+          <English>Your team is continuously assaulted by waves of enemies. Survive as long as you can. Remember that you're not forced to stay in one location, so either move around or find a good defensive position.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_Survival_textTask1">
+          <Original>Survive the enemy attacks.</Original>
+          <English>Survive the enemy attacks.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_Total">
+          <Original>Total:</Original>
+          <English>Total:</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_Triathlon">
+          <Original>Triathlon</Original>
+          <English>Triathlon</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_Triathlon_Checkpoint">
+          <Original>Checkpoint #%1 (Vehicle Change)</Original>
+          <English>Checkpoint #%1 (Vehicle Change)</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Chal_Triathlon_textLog">
+          <Original>During this race you will be using three different vehicles. Swap to a new vehicle at each checkpoint, where the vehicles are parked. You're not allowed to skip any of the checkpoints, so study the route on the map well.</Original>
+          <English>During this race you will be using three different vehicles. Swap to a new vehicle at each checkpoint, where the vehicles are parked. You're not allowed to skip any of the checkpoints, so study the route on the map well.</English>
+        </Key>
+      </Container>
+      <Container name="Hints">
+        <Key ID="STR_EP1_MPA_Hint_Challenge">
+          <Original>Challenge starting in %1</Original>
+          <English>Challenge starting in %1</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint_FastTravel">
+          <Original>Fast-Traveling</Original>
+          <English>Fast-Traveling</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint_Preparing">
+          <Original>Waiting for ARMEX to open its gates</Original>
+          <English>Waiting for ARMEX to open its gates</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint_Respawn">
+          <Original>Respawning in %1</Original>
+          <English>Respawning in %1</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint1">
+          <Original>Feel free to use any item you encounter at ARMEX. Try not to harm the other visitors in your experimentation.</Original>
+          <English>Feel free to use any item you encounter at ARMEX. Try not to harm the other visitors in your experimentation.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint10">
+          <Original>Most wheeled vehicles drive faster on roads.</Original>
+          <English>Most wheeled vehicles drive faster on roads.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint11">
+          <Original>To avoid stalling and crashing, keep an eye on your airplane's speed. </Original>
+          <English>To avoid stalling and crashing, keep an eye on your airplane's speed.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint12">
+          <Original>Machineguns require you to stabilize your firing position by going prone.</Original>
+          <English>Machineguns require you to stabilize your firing position by going prone.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint13">
+          <Original>Many tracked vehicles (and other armored vehicles) allow you to open the hatches of crew positions and turn out. You are less well protected, but your environmental awareness is increased.</Original>
+          <English>Many tracked vehicles (and other armored vehicles) allow you to open the hatches of crew positions and turn out. You are less well protected, but your environmental awareness is increased.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint14">
+          <Original>Tracked vehicles are maneuverable on any surface and allow for quick cross-country transport. They can also turn on the spot.</Original>
+          <English>Tracked vehicles are maneuverable on any surface and allow for quick cross-country transport. They can also turn on the spot.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint15">
+          <Original>Some tracked vehicles are amphibious, enabling movement across both land and water. However, the maximum speed in water is usually severely limited.</Original>
+          <English>Some tracked vehicles are amphibious, enabling movement across both land and water. However, the maximum speed in water is usually severely limited.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint16">
+          <Original>Since tracked vehicles are usually big and powerful, they also tend to be loud. Employ them carefully, as your enemy will usually hear you coming from afar.</Original>
+          <English>Since tracked vehicles are usually big and powerful, they also tend to be loud. Employ them carefully, as your enemy will usually hear you coming from afar.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint17">
+          <Original>Always be on the lookout for anti-armor weaponry, such as man-portable launchers. Their armor-penetrating munitions can quickly disable or destroy your vehicle.</Original>
+          <English>Always be on the lookout for anti-armor weaponry, such as man-portable launchers. Their armor-penetrating munitions can quickly disable or destroy your vehicle.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint18">
+          <Original>It is usually wise to steer clear of urban areas in tracked vehicles. There are many hiding places for IEDs, anti-armor infantry and it's much harder to manoeuvre.</Original>
+          <English>It is usually wise to steer clear of urban areas in tracked vehicles. There are many hiding places for IEDs, anti-armor infantry and it's much harder to manoeuvre.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint19">
+          <Original>Heavy tracked vehicles can be used to breach compounds and structures by ramming into walls and fences, thus clearing the way for infantry.</Original>
+          <English>Heavy tracked vehicles can be used to breach compounds and structures by ramming into walls and fences, thus clearing the way for infantry.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint2">
+          <Original>You can Fast-Travel to another part of ARMEX at the information kiosks.</Original>
+          <English>You can Fast-Travel to another part of ARMEX at the information kiosks.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint20">
+          <Original>In combined operations, be mindful of infantry operating around your vehicle. You lack environmental awareness and can easily miss people in your vicinity, particularly when 'turned in'.</Original>
+          <English>In combined operations, be mindful of infantry operating around your vehicle. You lack environmental awareness and can easily miss people in your vicinity, particularly when 'turned in'.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint21">
+          <Original>Many tracked vehicles carry sabot and high-explosive ammunition. Sabot is armor-piercing and good to use against other armored vehicles. High-explosive rounds are very effective against soft targets, such as groups of infantry.</Original>
+          <English>Many tracked vehicles carry sabot and high-explosive ammunition. Sabot is armor-piercing and good to use against other armored vehicles. High-explosive rounds are very effective against soft targets, such as groups of infantry.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint22">
+          <Original>Advanced tracked vehicles use a ballistic computer to make the gunner's life a bit easier. After locking onto a target, the weapon automatically zeroes and it tracks the target.</Original>
+          <English>Advanced tracked vehicles use a ballistic computer to make the gunner's life a bit easier. After locking onto a target, the weapon automatically zeroes and it tracks the target.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint23">
+          <Original>As a tracked vehicle commander, you'll often have access to countermeasures. Deploy smoke screens to obscure your enemy's vision.</Original>
+          <English>As a tracked vehicle commander, you'll often have access to countermeasures. Deploy smoke screens to obscure your enemy's vision.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint24">
+          <Original>Learn about the Multiplayer Armory by checking out the ARMEX brochure available from the information kiosks, or by checking your diary notes.</Original>
+          <English>Learn about the Multiplayer Armory by checking out the ARMEX brochure available from the information kiosks, or by checking your diary notes.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint25">
+          <Original>Curious about the actual player rankings and who selected which item? Access the rankings from the Quick Menu.</Original>
+          <English>Curious about the actual player rankings and who selected which item? Access the rankings from the Quick Menu.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint26">
+          <Original>If you don't want to see these hints and other forms of assistance, you can disable them from the Quick Menu. You can always enable the system again later.</Original>
+          <English>If you don't want to see these hints and other forms of assistance, you can disable them from the Quick Menu. You can always enable the system again later.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint27">
+          <Original>A wheeled vehicle's obvious weak points are its tyres. One or more flat tyres seriously affects your steering. Only engineers can change tyres in the field.</Original>
+          <English>A wheeled vehicle's obvious weak points are its tyres. One or more flat tyres seriously affects your steering. Only engineers can change tyres in the field.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint28">
+          <Original>Actively monitor your fuel level, since you don't want to be stuck in a combat zone without fuel. Damage can cause fuel leaks which rapidly drain your tanks. You can refuel at fuel trucks or fuel tanks.</Original>
+          <English>Actively monitor your fuel level, since you don't want to be stuck in a combat zone without fuel. Damage can cause fuel leaks which rapidly drain your tanks. You can refuel at fuel trucks or fuel tanks.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint29">
+          <Original>Individual components in your vehicle, such as engines, tracks, rotors and turrets, can be damaged or destroyed. Component status is visualized in your HUD, showing green for no damage and moving to red for critical damage.</Original>
+          <English>Individual components in your vehicle, such as engines, tracks, rotors and turrets, can be damaged or destroyed. Component status is visualized in your HUD, showing green for no damage and moving to red for critical damage.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint3">
+          <Original>Use the "Quick Menu" in the Action Menu to access voting, quick item selection and other options.</Original>
+          <English>Use the "Quick Menu" in the Action Menu to access voting, quick item selection and other options.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint30">
+          <Original>In vehicles with dedicated gunners, only they can fire weapons. Switch to manual fire to take over control of the primary weapon system as a driver or pilot.</Original>
+          <English>In vehicles with dedicated gunners, only they can fire weapons. Switch to manual fire to take over control of the primary weapon system as a driver or pilot.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint31">
+          <Original>When your vehicle is away from repair trucks or repair stations, only engineers are able to perform maintenance. However, note that they can only repair up to 60% of a vehicle's undamaged state.</Original>
+          <English>When your vehicle is away from repair trucks or repair stations, only engineers are able to perform maintenance. However, note that they can only repair up to 60% of a vehicle's undamaged state.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint32">
+          <Original>Many modern vehicles come equipped with a radar. It shows a top-down view of your surroundings with square icons representing ground vehicles and triangles indicating aircraft. Red icons are enemy targets, whereas green icons are friendly.</Original>
+          <English>Many modern vehicles come equipped with a radar. It shows a top-down view of your surroundings with square icons representing ground vehicles and triangles indicating aircraft. Red icons are enemy targets, whereas green icons are friendly.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint33">
+          <Original>Thermal Imagery helps vehicle crews to spot threats both during the day and at night. Any heat source is clearly distinguishable, so vehicle engines, weapon muzzles and even humans stand out. You're even able to look through smoke.</Original>
+          <English>Thermal Imagery helps vehicle crews to spot threats both during the day and at night. Any heat source is clearly distinguishable, so vehicle engines, weapon muzzles and even humans stand out. You're even able to look through smoke.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint34">
+          <Original>Keep clear of destroyed vehicles. As fire and heat reach fuel and ammunition, dangerous secondary explosions may be triggered.</Original>
+          <English>Keep clear of destroyed vehicles. As fire and heat reach fuel and ammunition, dangerous secondary explosions may be triggered.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint35">
+          <Original>While inside a vehicle you can switch to other positions which are accessible from the compartment you are currently in. To move to inaccessible positions, you'll first have to get out.</Original>
+          <English>While inside a vehicle you can switch to other positions which are accessible from the compartment you are currently in. To move to inaccessible positions, you'll first have to get out.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint36">
+          <Original>When vehicle weapons support various types of ammunition, you can load different types from the Action Menu.</Original>
+          <English>When vehicle weapons support various types of ammunition, you can load different types from the Action Menu.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint37">
+          <Original>To compensate for bullets dropping as they fly, some weapon sights can be zeroed to specific ranges.</Original>
+          <English>To compensate for bullets dropping as they fly, some weapon sights can be zeroed to specific ranges.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint38">
+          <Original>A lot of weapons have several types of sights and optics. Some are better for close quarters combat, while others can be zoomed for targets at long ranges. Many optics also support night vision modes.</Original>
+          <English>A lot of weapons have several types of sights and optics. Some are better for close quarters combat, while others can be zoomed for targets at long ranges. Many optics also support night vision modes.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint39">
+          <Original>When you require better accuracy, try holding your breath to steady your aim.</Original>
+          <English>When you require better accuracy, try holding your breath to steady your aim.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint4">
+          <Original>Once you are ready to start doing challenges on Operation, vote to do so in the Quick Menu.</Original>
+          <English>Once you are ready to start doing challenges on Operation, vote to do so in the Quick Menu.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint40">
+          <Original>Try not to move too much while you fire your weapon. Firing from a fixed position will dramatically improve your aim.</Original>
+          <English>Try not to move too much while you fire your weapon. Firing from a fixed position will dramatically improve your aim.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint41">
+          <Original>Reloading weapons is best done from cover, since you are unable to return fire while you reload.</Original>
+          <English>Reloading weapons is best done from cover, since you are unable to return fire while you reload.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint42">
+          <Original>Always lead (aim in advance of) moving targets to compensate for its movement and your munition's travel time..</Original>
+          <English>Always lead (aim in advance of) moving targets to compensate for its movement and your munition's travel time.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint43">
+          <Original>Weapons will often have several fire modes to select from, such as semi-automatic, burst and full-automatic.</Original>
+          <English>Weapons will often have several fire modes to select from, such as semi-automatic, burst and full-automatic.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint44">
+          <Original>Since static weapons cannot move, sometimes you will be forced to get out and fend off enemy flank or rear attacks.</Original>
+          <English>Since static weapons cannot move, sometimes you will be forced to get out and fend off enemy flank or rear attacks.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint45">
+          <Original>Indirect fire weapons can be more easily targeted using the Artillery Computer available in the Action Menu.</Original>
+          <English>Indirect fire weapons can be more easily targeted using the Artillery Computer available in the Action Menu.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint46">
+          <Original>Their high rate of fire makes machine guns ideal candidates for suppressing groups of infantry.</Original>
+          <English>Their high rate of fire makes machine guns ideal candidates for suppressing groups of infantry.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint47">
+          <Original>Sidearms are primarily back-up and personal defense weapons. They are meant to be used on short-range targets.</Original>
+          <English>Sidearms are primarily back-up and personal defense weapons. They are meant to be used on short-range targets.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint48">
+          <Original>Launchers and their projectiles are heavy and bulky, so you are usually not able to carry a lot of ammunition for them. Only fire when you have a good lock on your target.</Original>
+          <English>Launchers and their projectiles are heavy and bulky, so you are usually not able to carry a lot of ammunition for them. Only fire when you have a good lock on your target.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint49">
+          <Original>It may take a while before a launcher acquires a full lock onto a target. Wait for the audio cues that indicate a successful lock before firing.</Original>
+          <English>It may take a while before a launcher acquires a full lock onto a target. Wait for the audio cues that indicate a successful lock before firing.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint5">
+          <Original>The items you select at ARMEX are used to dynamically create your challenges on Operation.</Original>
+          <English>The items you select at ARMEX are used to dynamically create your challenges on Operation.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint50">
+          <Original>In helicopters, you can enable auto-hovering, which will automatically stabilize the aircraft and make it hover in one spot.</Original>
+          <English>In helicopters, you can enable auto-hovering, which will automatically stabilize the aircraft and make it hover in one spot.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint51">
+          <Original>Flying in a helicopter makes you an excellent target for a wide range of anti-air weapons. Try to fly fast and low and to mask your aircraft using terrain features.</Original>
+          <English>Flying in a helicopter makes you an excellent target for a wide range of anti-air weapons. Try to fly fast and low and to mask your aircraft using terrain features.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint52">
+          <Original>When you lose your tail rotor, your helicopter will become very hard to fly and it may spin out of control. Find a safe area to land as quickly as you can.</Original>
+          <English>When you lose your tail rotor, your helicopter will become very hard to fly and it may spin out of control. Find a safe area to land as quickly as you can.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint53">
+          <Original>Advanced helicopters can have so-called Radar Warning Receivers, which will alert you to an enemy weapons locks, thus allowing you to respond appropriately.</Original>
+          <English>Advanced helicopters can have so-called Radar Warning Receivers, which will alert you to an enemy weapons locks, thus allowing you to respond appropriately.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint54">
+          <Original>Losing your engine means you'll have to use auto-rotation in order to land safely. Immediately descend to keep your rotors spinning, but limit forward speed. At the last moment flare up the aircraft and increase thrust. Timing this correctly is essential.</Original>
+          <English>Losing your engine means you'll have to use auto-rotation in order to land safely. Immediately descend to keep your rotors spinning, but limit forward speed. At the last moment flare up the aircraft and increase thrust. Timing this correctly is essential.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint55">
+          <Original>A good Landing Zone is clear of objects which may damage your helicopter. Preferably, you should land on level terrain.</Original>
+          <English>A good Landing Zone is clear of objects which may damage your helicopter. Preferably, you should land on level terrain.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint56">
+          <Original>Aircraft may have been equipped with countermeasures, such as flares and chaff, to confuse incoming missiles.</Original>
+          <English>Aircraft may have been equipped with countermeasures, such as flares and chaff, to confuse incoming missiles.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint57">
+          <Original>A number of airplanes are capable of Vertical Take-Off and Landing (VTOL), either fully or they can take off from short runways and land vertically. These airplanes can transition to and from forward flight in mid-air.</Original>
+          <English>A number of airplanes are capable of Vertical Take-Off and Landing (VTOL), either fully or they can take off from short runways and land vertically. These airplanes can transition to and from forward flight in mid-air.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint58">
+          <Original>Enabling the autopilot in airplanes will cause them to land on the nearest runway.</Original>
+          <English>Enabling the autopilot in airplanes will cause them to land on the nearest runway.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint59">
+          <Original>When you feel there is nothing you can do to avert crashing your airplane, try to move away from locations which would cause a lot of casualties and eject.</Original>
+          <English>When you feel there is nothing you can do to avert crashing your airplane, try to move away from locations which would cause a lot of casualties and eject.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint6">
+          <Original>Point at the item information signs to read descriptions and view statistics.</Original>
+          <English>Point at the item information signs to read descriptions and view statistics.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint60">
+          <Original>Various airplanes carry laser-guided munitions. Cooperate with ground forces who can laser-designate targets, allowing you to perform precision strikes.</Original>
+          <English>Various airplanes carry laser-guided munitions. Cooperate with ground forces who can laser-designate targets, allowing you to perform precision strikes.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint61">
+          <Original>The use of an airplane's flaps can provide you improved lift at low speeds.</Original>
+          <English>The use of an airplane's flaps can provide you improved lift at low speeds.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint62">
+          <Original>Infra-Red strobes can only be seen using night vision equipment and allow gunners to precisely target marked locations.</Original>
+          <English>Infra-Red strobes can only be seen using night vision equipment and allow gunners to precisely target marked locations.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint63">
+          <Original>Throwable explosives are good for engaging targets behind cover, or those which are grouped together.</Original>
+          <English>Throwable explosives are good for engaging targets behind cover, or those which are grouped together.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint64">
+          <Original>Explosives placed on the ground can often be deactivated and picked back up.</Original>
+          <English>Explosives placed on the ground can often be deactivated and picked back up.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint65">
+          <Original>There is a maximum range from which you can detonate explosives using a trigger.</Original>
+          <English>There is a maximum range from which you can detonate explosives using a trigger.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint66">
+          <Original>The longer you wait to release a throw, the more power you use and thus the further you throw.</Original>
+          <English>The longer you wait to release a throw, the more power you use and thus the further you throw.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint67">
+          <Original>At longer ranges, it is often wise to use a semi-automatic fire mode. This way, you can recover from the rifle's recoil effect before your next shot.</Original>
+          <English>At longer ranges, it is often wise to use a semi-automatic fire mode. This way, you can recover from the rifle's recoil effect before your next shot.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint68">
+          <Original>Some rifles have laser pointer attachments that are only visible using night vision equipment. They can be used to aim and to point out things on the battlefield to forces equipped with night vision equipment.</Original>
+          <English>Some rifles have laser pointer attachments that are only visible using night vision equipment. They can be used to aim and to point out things on the battlefield to forces equipped with night vision equipment.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint69">
+          <Original>Flashlights mounted to rifles can obviously be used to navigate dark environments, but also to temporarily blind enemies.</Original>
+          <English>Flashlights mounted to rifles can obviously be used to navigate dark environments, but also to temporarily blind enemies.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint7">
+          <Original>The item you selected is not always what you will use on Operation. In some challenges the item is used by your enemies, while in others it is not used at all.</Original>
+          <English>The item you selected is not always what you will use on Operation. In some challenges the item is used by your enemies, while in others it is not used at all.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint8">
+          <Original>Coming under fire in a vehicle, it may be wise to do a combat dismount and take cover behind the vehicle. This way you can return fire more effectively. Not all vehicles provide good cover however, so also use your surroundings.</Original>
+          <English>Coming under fire in a vehicle, it may be wise to do a combat dismount and take cover behind the vehicle. This way you can return fire more effectively. Not all vehicles provide good cover however, so also use your surroundings.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Hint9">
+          <Original>Always keep an eye on your remaining weapon ammunition. If you are running low and there is no ammunition for your current weapon, consider using the weapon of a fallen soldier.</Original>
+          <English>Always keep an eye on your remaining weapon ammunition. If you are running low and there is no ammunition for your current weapon, consider using the weapon of a fallen soldier.</English>
+        </Key>
+      </Container>
+      <Container name="Log">
+        <Key ID="STR_EP1_MPA_Log_Chal">
+          <Original>Challenges</Original>
+          <English>Challenges</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Log_Chal_diary1">
+          <Original>This diary section will list descriptions of all challenges as they become activated.</Original>
+          <English>This diary section will list descriptions of all challenges as they become activated.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Log_Chal_diaryShort1">
+          <Original>Introduction</Original>
+          <English>Introduction</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Log_diary1">
+          <Original>You can vote on a number of things, such as going on Operation, returning to ARMEX, or starting a specific challenge. Once a majority vote is reached, the corresponding action is performed.&lt;br /&gt;&lt;br /&gt;Voting is accessed through the Quick Menu, which, in turn, is opened in the Action Menu (or Communications Menu from inside vehicles).</Original>
+          <English>You can vote on a number of things, such as going on Operation, returning to ARMEX, or starting a specific challenge. Once a majority vote is reached, the corresponding action is performed.&lt;br /&gt;&lt;br /&gt;Voting is accessed through the Quick Menu, which, in turn, is opened in the Action Menu (or Communications Menu from inside vehicles).</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Log_diary2">
+          <Original>Operation is a series of challenges outside of ARMEX. These challenges are generated dynamically, based upon the items selected by all players.&lt;br /&gt;&lt;br /&gt;Challenges can be different each time and, depending on the type of challenge, not all items will be used. Sometimes a challenge will give everyone the same randomly selected item. To see which items are used by a challenge, check its task description.&lt;br /&gt;&lt;br /&gt;In case you are unsure what you are expected to do, refer to your diary and look over your tasks and the special %1 section.</Original>
+          <English>Operation is a series of challenges outside of ARMEX. These challenges are generated dynamically, based upon the items selected by all players.&lt;br /&gt;&lt;br /&gt;Challenges can be different each time and, depending on the type of challenge, not all items will be used. Sometimes a challenge will give everyone the same randomly selected item. To see which items are used by a challenge, check its task description.&lt;br /&gt;&lt;br /&gt;In case you are unsure what you are expected to do, refer to your diary and look over your tasks and the special %1 section.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Log_diary3">
+          <Original>Meta-challenges are simple, dynamic challenges which are adjusted to the item you are using. Completing them is optional, but it will earn you and / or the team points. Note, most meta-challenges will not allow the use of Fast-Travel.&lt;br /&gt;&lt;br /&gt;Please refer to section %1 in your diary for more information on specific meta-challenges.</Original>
+          <English>Meta-challenges are simple, dynamic challenges which are adjusted to the item you are using. Completing them is optional, but it will earn you and / or the team points. Note, most meta-challenges will not allow the use of Fast-Travel.&lt;br /&gt;&lt;br /&gt;Please refer to section %1 in your diary for more information on specific meta-challenges.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Log_diary4">
+          <Original>ARMEX (ARMory EXhibition) is a military tradeshow showcasing all types of in-game items. Each time you visit ARMEX, you may find different items.&lt;br /&gt;&lt;br /&gt;At ARMEX, you are free to do what you like. Each item has an information sign next to it, which displays a text description and statistics of that item. You are also free to try out any item and complete meta-challenges with it.</Original>
+          <English>ARMEX (ARMory EXhibition) is a military tradeshow showcasing all types of in-game items. Each time you visit ARMEX, you may find different items.&lt;br /&gt;&lt;br /&gt;At ARMEX, you are free to do what you like. Each item has an information sign next to it, which displays a text description and statistics of that item. You are also free to try out any item and complete meta-challenges with it.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Log_diary5">
+          <Original>Welcome to the Multiplayer Armory and ARMEX!&lt;br /&gt;&lt;br /&gt;This dynamic and interactive game mode offers you the chance to explore all of the game's content together. You can simply play around with anything you find at ARMEX or go complete dynamic challenges with or against other players.&lt;br /&gt;&lt;br /&gt;Have fun!</Original>
+          <English>Welcome to the Multiplayer Armory and ARMEX!&lt;br /&gt;&lt;br /&gt;This dynamic and interactive game mode offers you the chance to explore all of the game's content together. You can simply play around with anything you find at ARMEX or go complete dynamic challenges with or against other players.&lt;br /&gt;&lt;br /&gt;Have fun!</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Log_diaryShort1">
+          <Original>Voting</Original>
+          <English>Voting</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Log_diaryShort2">
+          <Original>Operation</Original>
+          <English>Operation</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Log_Meta">
+          <Original>Meta-Challenges</Original>
+          <English>Meta-Challenges</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Log_Meta_diary1">
+          <Original>This diary section will list descriptions of all %1 as they become activated.</Original>
+          <English>This diary section will list descriptions of all %1 as they become activated.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Log_Meta1">
+          <Original>meta-challenges</Original>
+          <English>meta-challenges</English>
+        </Key>
+      </Container>
+      <Container name="MetaChallenges">
+        <Key ID="STR_EP1_MPA_Meta_Airtime">
+          <Original>Airtime</Original>
+          <English>Airtime</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_Airtime_Current">
+          <Original>Current Airtime:</Original>
+          <English>Current Airtime:</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_Airtime_textDebriefing1">
+          <Original>You've racked up sufficient airtime.</Original>
+          <English>You've racked up sufficient airtime.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_Airtime_textLog">
+          <Original>There are plenty of jumps at ARMEX, such as ramps and mounts, which you can use to get your vehicle temporarily airborne.</Original>
+          <English>There are plenty of jumps at ARMEX, such as ramps and mounts, which you can use to get your vehicle temporarily airborne.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_Airtime_textTask1">
+          <Original>Get at least %1 seconds of airtime.</Original>
+          <English>Get at least %1 seconds of airtime.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_AllAboard">
+          <Original>All Aboard</Original>
+          <English>All Aboard</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_AllAboard_textDebriefing1">
+          <Original>You've boarded the vehicle.</Original>
+          <English>You've boarded the vehicle.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_AllAboard_textDebriefing2">
+          <Original>The vehicle was disabled.</Original>
+          <English>The vehicle was disabled.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_AllAboard_textLog">
+          <Original>Using the same vehicle together can be very beneficial for your team. You can man all important crew positions and transport others.</Original>
+          <English>Using the same vehicle together can be very beneficial for your team. You can man all important crew positions and transport others.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_AllAboard_textTask1">
+          <Original>Get into the %1.</Original>
+          <English>Get into the %1.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_AllAboard_textTask2">
+          <Original>Wait for the others to board the vehicle.</Original>
+          <English>Wait for the others to board the vehicle.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_Ceiling_textDebriefing1">
+          <Original>You managed to stay below the set ceiling.</Original>
+          <English>You managed to stay below the set ceiling.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_Ceiling_textLog">
+          <Original>Flying low and fast tests your agility, but radars and anti-aircraft weapons will have more difficulty tracking you.</Original>
+          <English>Flying low and fast tests your agility, but radars and anti-aircraft weapons will have more difficulty tracking you.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_Ceiling_textTask1">
+          <Original>Start flying below %1 meters.</Original>
+          <English>Start flying below %1 meters.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_Ceiling_textTask2">
+          <Original>Keep flying below %1 meters.</Original>
+          <English>Keep flying below %1 meters.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_Completed">
+          <Original>Meta-Challenge completed.</Original>
+          <English>Meta-Challenge completed.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_Failed">
+          <Original>Meta-Challenge failed.</Original>
+          <English>Meta-Challenge failed.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_Gather">
+          <Original>Gather</Original>
+          <English>Gather</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_Gather_textDebriefing1">
+          <Original>You've met up with the others on time.</Original>
+          <English>You've met up with the others on time.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_Gather_textLog">
+          <Original>The %1 contains many different areas. This challenge brings you all together at one of them. Exploring %1 together can be a lot of fun!</Original>
+          <English>The %1 contains many different areas. This challenge brings you all together at one of them. Exploring %1 together can be a lot of fun!</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_Gather_textTask1">
+          <Original>Meet the other players at area: %1.</Original>
+          <English>Meet the other players at area: %1.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_Gather_textTask2">
+          <Original>Meet the other players at area: &lt;marker name='BIS_MPA_marker_area_%2'&gt;%1&lt;/marker&gt;.</Original>
+          <English>Meet the other players at area: &lt;marker name='BIS_MPA_marker_area_%2'&gt;%1&lt;/marker&gt;.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_Gather_textTask3">
+          <Original>Wait for the others to arrive.</Original>
+          <English>Wait for the others to arrive.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_GetAway_textDebriefing1">
+          <Original>You got away in time.</Original>
+          <English>You got away in time.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_GetAway_textLog">
+          <Original>Being able to retreat from a position quickly and efficiently is a vital combat skill. Always scan your surroundings for escape routes, bearing in mind terrain, obstacles and enemies.</Original>
+          <English>Being able to retreat from a position quickly and efficiently is a vital combat skill. Always scan your surroundings for escape routes, bearing in mind terrain, obstacles and enemies.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_GetAway_textTask1">
+          <Original>Get %1 meters away from your position.</Original>
+          <English>Get %1 meters away from your position.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_HighSpeed_textDebriefing1">
+          <Original>You managed to reach the desired speed.</Original>
+          <English>You managed to reach the desired speed.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_HighSpeed_textLog">
+          <Original>It's a good idea to know how fast your vehicle can get you out of a dangerous situation.</Original>
+          <English>It's a good idea to know how fast your vehicle can get you out of a dangerous situation.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_HighSpeed_textTask1">
+          <Original>Reach %1 kmph.</Original>
+          <English>Reach %1 kmph.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_Land_textDebriefing1">
+          <Original>You landed your aircraft.</Original>
+          <English>You landed your aircraft.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_Land_textLog">
+          <Original>The inevitable result of flying an aircraft is having to land it again at some point. Sometimes you'll have to land in an emergency or a combat zone, so it's wise to practise landing on many different types of location.</Original>
+          <English>The inevitable result of flying an aircraft is having to land it again at some point. Sometimes you'll have to land in an emergency or a combat zone, so it's wise to practise landing on many different types of location.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_Land_textTask1">
+          <Original>Land your aircraft and stop it completely.</Original>
+          <English>Land your aircraft and stop it completely.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_MinimumSpeed_textDebriefing1">
+          <Original>You managed to maintain the speed.</Original>
+          <English>You managed to maintain the speed.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_MinimumSpeed_textLog">
+          <Original>There are many situations where you don't want to slow down your vehicle, such as while driving a convoy through an enemy area. A moving target is a harder target.</Original>
+          <English>There are many situations where you don't want to slow down your vehicle, such as while driving a convoy through an enemy area. A moving target is a harder target.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_MinimumSpeed_textTask1">
+          <Original>Maintain %1 kmph.</Original>
+          <English>Maintain %1 kmph.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_Night">
+          <Original>Night</Original>
+          <English>Night</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_Night_textDebriefing1">
+          <Original>You've completed the challenge at night.</Original>
+          <English>You've completed the challenge at night.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_Night_textDebriefing2">
+          <Original>You did not complete the challenge.</Original>
+          <English>You did not complete the challenge.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_Night_textLog">
+          <Original>Any task which may be assigned to you can become harder to complete at night. This is a bonus for completing a challenge in those limiting conditions.</Original>
+          <English>Any task which may be assigned to you can become harder to complete at night. This is a bonus for completing a challenge in those limiting conditions.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_Night_textTask1">
+          <Original>Complete your current challenge at night.</Original>
+          <English>Complete your current challenge at night.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_OneEighty_textDebriefing1">
+          <Original>You've performed a one-eighty.</Original>
+          <English>You've performed a one-eighty.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_OneEighty_textLog">
+          <Original>Since most vehicles go faster moving forward, sometimes executing a 180 degree turn is a smart move.</Original>
+          <English>Since most vehicles go faster moving forward, sometimes executing a 180 degree turn is a smart move.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_OneEighty_textTask1">
+          <Original>Completely turn your vehicle around.</Original>
+          <English>Completely turn your vehicle around.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_ProtectPlayer">
+          <Original>Protect Player</Original>
+          <English>Protect Player</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_ProtectPlayer_textDebriefing1">
+          <Original>You managed to successfully protect your assigned player.</Original>
+          <English>You managed to successfully protect your assigned player.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_ProtectPlayer_textDebriefing2">
+          <Original>The player assigned to you was injured and / or killed too often.</Original>
+          <English>The player assigned to you was injured and / or killed too often.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_ProtectPlayer_textLog">
+          <Original>Teamwork is very important and rewarding. When you stay with team members you can protect them from dangers they may have missed.</Original>
+          <English>Teamwork is very important and rewarding. When you stay with team members you can protect them from dangers they may have missed.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_ProtectPlayer_textTask1">
+          <Original>Protect your assigned player (%1).</Original>
+          <English>Protect your assigned player (%1).</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_RaceToPosition">
+          <Original>Race to Position</Original>
+          <English>Race to Position</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_RaceToPosition_textDebriefing1">
+          <Original>You finished first.</Original>
+          <English>You finished first.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_RaceToPosition_textDebriefing2">
+          <Original>You've lost the race.</Original>
+          <English>You've lost the race.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_RaceToPosition_textLog">
+          <Original>Getting to a position as quickly as possible can be important in many situations, such as when having to extract injured personnel or defend a friendly position.</Original>
+          <English>Getting to a position as quickly as possible can be important in many situations, such as when having to extract injured personnel or defend a friendly position.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_RaceToPosition_textTask1">
+          <Original>Race the other players to the marked position.</Original>
+          <English>Race the other players to the marked position.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_Rush">
+          <Original>Rush</Original>
+          <English>Rush</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_Rush_textDebriefing1">
+          <Original>Your completion time for the challenge was not fast enough.</Original>
+          <English>Your completion time for the challenge was not fast enough.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_Rush_textDebriefing2">
+          <Original>You've completed the challenge quickly.</Original>
+          <English>You've completed the challenge quickly.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_Rush_textLog">
+          <Original>Sometimes it is beneficial to complete a challenge quickly and this is a bonus for doing so.</Original>
+          <English>Sometimes it is beneficial to complete a challenge quickly and this is a bonus for doing so.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_Rush_textTask1">
+          <Original>Complete your current challenge quickly.</Original>
+          <English>Complete your current challenge quickly.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_SkyHigh_textDebriefing1">
+          <Original>You've reached the desired altitude.</Original>
+          <English>You've reached the desired altitude.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_SkyHigh_textLog">
+          <Original>Getting your aircraft to fly high is not as easy as it seems. You have to be wary of stalling.</Original>
+          <English>Getting your aircraft to fly high is not as easy as it seems. You have to be wary of stalling.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_SkyHigh_textTask1">
+          <Original>Ascend to %1 meters.</Original>
+          <English>Ascend to %1 meters.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_Stop_textDebriefing1">
+          <Original>You've fully stopped your vehicle.</Original>
+          <English>You've fully stopped your vehicle.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_Stop_textLog">
+          <Original>Sometimes you need to suddenly halt your vehicle's movement. Finding ways to do so quickly may save your life.
+</Original>
+          <English>Sometimes you need to suddenly halt your vehicle's movement. Finding ways to do so quickly may save your life.
+</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_Stop_textTask1">
+          <Original>Stop your vehicle completely.</Original>
+          <English>Stop your vehicle completely.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Meta_YourMetaChal">
+          <Original>Your Meta-Challenge(s):</Original>
+          <English>Your Meta-Challenge(s):</English>
+        </Key>
+      </Container>
+      <Container name="Misc">
+        <Key ID="STR_EP1_MPA_Misc_ConcreteWall">
+          <Original>Concrete Wall</Original>
+          <English>Concrete Wall</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Misc_Direction">
+          <Original>Direction</Original>
+          <English>Direction</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Misc_EntranceGate">
+          <Original>Entrance Gate (ARMEX)</Original>
+          <English>Entrance Gate (ARMEX)</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Misc_FlagCarrierARMEX">
+          <Original>Flag (ARMEX)</Original>
+          <English>Flag (ARMEX)</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Misc_InfoBoard">
+          <Original>Info Board</Original>
+          <English>Info Board</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Misc_Laptop">
+          <Original>Laptop</Original>
+          <English>Laptop</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Misc_Loudspeakers">
+          <Original>Loudspeakers</Original>
+          <English>Loudspeakers</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Misc_PlasticPole">
+          <Original>Plastic Pole</Original>
+          <English>Plastic Pole</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Misc_RedLight">
+          <Original>Red Light</Original>
+          <English>Red Light</English>
+        </Key>
+      </Container>
+      <Container name="Params">
+        <Key ID="STR_EP1_MPA_Params_PointLimit">
+          <Original>Point limit:</Original>
+          <English>Point limit:</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Params_PointLimitAppliedTo">
+          <Original>Point limit applied to:</Original>
+          <English>Point limit applied to:</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Params_PointLimitAppliedTo_Individuals">
+          <Original>Individuals</Original>
+          <English>Individuals</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Params_PointLimitAppliedTo_Team">
+          <Original>Team</Original>
+          <English>Team</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Params_TimeLimit">
+          <Original>Time limit:</Original>
+          <English>Time limit:</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Params_TimeLimit_120">
+          <Original>2 hours</Original>
+          <English>2 hours</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Params_TimeLimit_150">
+          <Original>2.5 hours</Original>
+          <English>2.5 hours</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Params_TimeLimit_30">
+          <Original>30 min.</Original>
+          <English>30 min.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Params_TimeLimit_60">
+          <Original>1 hour</Original>
+          <English>1 hour</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Params_TimeLimit_90">
+          <Original>1.5 hours</Original>
+          <English>1.5 hours</English>
+        </Key>
+      </Container>
+      <Container name="Tutorial">
+        <Key ID="STR_EP1_MPA_Tutorial_hint1">
+          <Original>&lt;t color='#e6b448' shadow='1' shadowColor='#312100'&gt;Welcome to ARMEX!&lt;/t&gt;&lt;br /&gt;&lt;br /&gt;&lt;t align='left'&gt;&lt;img image='ca\modules_e\functions\hints\img\img_info_ca' color='#e6b448' shadow='1' shadowColor='#312100' align='left' /&gt; Since you are quite new to ARMEX, you can become familiar with it by following a short series of tasks (available in your diary).&lt;/t&gt;</Original>
+          <English>&lt;t color='#e6b448' shadow='1' shadowColor='#312100'&gt;Welcome to ARMEX!&lt;/t&gt;&lt;br /&gt;&lt;br /&gt;&lt;t align='left'&gt;&lt;img image='ca\modules_e\functions\hints\img\img_info_ca' color='#e6b448' shadow='1' shadowColor='#312100' align='left' /&gt; Since you are quite new to ARMEX, you can become familiar with it by following a short series of tasks (available in your diary).&lt;/t&gt;</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Tutorial_hint2">
+          <Original>&lt;t align='left'&gt;&lt;img image='ca\modules_e\functions\hints\img\img_info_ca' color='#e6b448' shadow='1' shadowColor='#312100' align='left' /&gt; Now start using this item or any other and do with it what you like.&lt;br /&gt;&lt;br /&gt;You have familiarized yourself with the basics of the Multiplayer Armory. Have fun exploring ARMEX and going on Operation!&lt;/t&gt;</Original>
+          <English>&lt;t align='left'&gt;&lt;img image='ca\modules_e\functions\hints\img\img_info_ca' color='#e6b448' shadow='1' shadowColor='#312100' align='left' /&gt; Now start using this item or any other and do with it what you like.&lt;br /&gt;&lt;br /&gt;You have familiarized yourself with the basics of the Multiplayer Armory. Have fun exploring ARMEX and going on Operation!&lt;/t&gt;</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Tutorial_task1">
+          <Original>Visit any information kiosk and view the info brochure. Take as much time as you need to read through the available information.&lt;br /&gt;</Original>
+          <English>Visit any information kiosk and view the info brochure. Take as much time as you need to read through the available information.&lt;br /&gt;</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Tutorial_task2">
+          <Original>Go to the marked item and look at its information sign. If you like, you can use the vehicles parked near the entrance to get there.&lt;br /&gt;</Original>
+          <English>Go to the marked item and look at its information sign. If you like, you can use the vehicles parked near the entrance to get there.&lt;br /&gt;</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Tutorial_task3">
+          <Original>Use the Action Menu to select the item in front of you. In the Operation phase, this item will be used whenever possible.&lt;br /&gt;</Original>
+          <English>Use the Action Menu to select the item in front of you. In the Operation phase, this item will be used whenever possible.&lt;br /&gt;</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Tutorial_taskShort1">
+          <Original>Visit Information Kiosk</Original>
+          <English>Visit Information Kiosk</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Tutorial_taskShort2">
+          <Original>View Item</Original>
+          <English>View Item</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Tutorial_taskShort3">
+          <Original>Select Item</Original>
+          <English>Select Item</English>
+        </Key>
+      </Container>
+      <Container name="UI">
+        <Key ID="STR_EP1_MPA_UI_Action_FastTravel">
+          <Original>Use Fast-Travel</Original>
+          <English>Use Fast-Travel</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_Action_QuickMenu">
+          <Original>Quick Menu</Original>
+          <English>Quick Menu</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_Action_Select">
+          <Original>Select:</Original>
+          <English>Select:</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_Action_ViewInfo">
+          <Original>View Info Brochure</Original>
+          <English>View Info Brochure</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_Brochure">
+          <Original>ARMEX Brochure</Original>
+          <English>ARMEX Brochure</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_Brochure_long1">
+          <Original>&lt;t color='#e6b448' shadow='1' shadowColor='#312100'&gt;What is ARMEX?&lt;/t&gt;&lt;br /&gt;&lt;br /&gt;&lt;t align='left'&gt;&lt;img image='ca\modules_e\functions\hints\img\img_info_ca' color='#e6b448' shadow='1' shadowColor='#312100' align='left' /&gt; ARMEX is the military expo you are currently visiting. It has a selection of the game's equipment on display.&lt;br/&gt;&lt;br /&gt;You can view information on each item and try them out immediately. Find and explore the special testing grounds and complete meta-challenges for points.&lt;/t&gt;</Original>
+          <English>&lt;t color='#e6b448' shadow='1' shadowColor='#312100'&gt;What is ARMEX?&lt;/t&gt;&lt;br /&gt;&lt;br /&gt;&lt;t align='left'&gt;&lt;img image='ca\modules_e\functions\hints\img\img_info_ca' color='#e6b448' shadow='1' shadowColor='#312100' align='left' /&gt; ARMEX is the military expo you are currently visiting. It has a selection of the game's equipment on display.&lt;br/&gt;&lt;br /&gt;You can view information on each item and try them out immediately. Find and explore the special testing grounds and complete meta-challenges for points.&lt;/t&gt;</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_Brochure_long2">
+          <Original>&lt;t color='#e6b448' shadow='1' shadowColor='#312100'&gt;Meta-Challenges?&lt;/t&gt;&lt;br /&gt;&lt;br /&gt;&lt;t align='left'&gt;&lt;img image='ca\modules_e\functions\hints\img\img_info_ca' color='#e6b448' shadow='1' shadowColor='#312100' align='left' /&gt; Meta-challenges are little challenges you can complete for points, but don't have to. Some meta-challenges are completed together and some are individual. Depending on the session parameters, either your individual points or the points gathered by all players determine the session outcome.&lt;br /&gt;&lt;br /&gt;Many meta-challenges are based on the items you use, so try to use some and see what happens.&lt;/t&gt;</Original>
+          <English>&lt;t color='#e6b448' shadow='1' shadowColor='#312100'&gt;Meta-Challenges?&lt;/t&gt;&lt;br /&gt;&lt;br /&gt;&lt;t align='left'&gt;&lt;img image='ca\modules_e\functions\hints\img\img_info_ca' color='#e6b448' shadow='1' shadowColor='#312100' align='left' /&gt; Meta-challenges are little challenges you can complete for points, but don't have to. Some meta-challenges are completed together and some are individual. Depending on the session parameters, either your individual points or the points gathered by all players determine the session outcome.&lt;br /&gt;&lt;br /&gt;Many meta-challenges are based on the items you use, so try to use some and see what happens.&lt;/t&gt;</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_Brochure_long3">
+          <Original>&lt;t color='#e6b448' shadow='1' shadowColor='#312100'&gt;Why select items?&lt;/t&gt;&lt;br /&gt;&lt;br /&gt;&lt;t align='left'&gt;&lt;img image='ca\modules_e\functions\hints\img\img_info_ca' color='#e6b448' shadow='1' shadowColor='#312100' align='left' /&gt; Selecting items determines which items will be used for you in the next major phase of the Multiplayer Armory: Operation. Please note, some challenges will not use all items selected by all players; rather, a selection is used, based on the type of challenge.&lt;br /&gt;&lt;br /&gt;You can manually select items at their physical location at ARMEX or by quick-selecting in the Quick Menu. This is not possible during Operation, so you'll have to return to ARMEX to make changes. Check the rankings to find out which item you and the other players have selected at any time.&lt;/t&gt;</Original>
+          <English>&lt;t color='#e6b448' shadow='1' shadowColor='#312100'&gt;Why select items?&lt;/t&gt;&lt;br /&gt;&lt;br /&gt;&lt;t align='left'&gt;&lt;img image='ca\modules_e\functions\hints\img\img_info_ca' color='#e6b448' shadow='1' shadowColor='#312100' align='left' /&gt; Selecting items determines which items will be used for you in the next major phase of the Multiplayer Armory: Operation. Please note, some challenges will not use all items selected by all players; rather, a selection is used, based on the type of challenge.&lt;br /&gt;&lt;br /&gt;You can manually select items at their physical location at ARMEX or by quick-selecting in the Quick Menu. This is not possible during Operation, so you'll have to return to ARMEX to make changes. Check the rankings to find out which item you and the other players have selected at any time.&lt;/t&gt;</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_Brochure_long4">
+          <Original>&lt;t color='#e6b448' shadow='1' shadowColor='#312100'&gt;What is Operation?&lt;/t&gt;&lt;br /&gt;&lt;br /&gt;&lt;t align='left'&gt;&lt;img image='ca\modules_e\functions\hints\img\img_info_ca' color='#e6b448' shadow='1' shadowColor='#312100' align='left' /&gt; Operation is a series of bigger challenges to complete. The contents and types of challenges are based on the items selected by all participating players.&lt;br /&gt;&lt;br /&gt;Operation is started when the majority of players at ARMEX vote to do so. Likewise, you can return to ARMEX by voting for it.&lt;/t&gt;</Original>
+          <English>&lt;t color='#e6b448' shadow='1' shadowColor='#312100'&gt;What is Operation?&lt;/t&gt;&lt;br /&gt;&lt;br /&gt;&lt;t align='left'&gt;&lt;img image='ca\modules_e\functions\hints\img\img_info_ca' color='#e6b448' shadow='1' shadowColor='#312100' align='left' /&gt; Operation is a series of bigger challenges to complete. The contents and types of challenges are based on the items selected by all participating players.&lt;br /&gt;&lt;br /&gt;Operation is started when the majority of players at ARMEX vote to do so. Likewise, you can return to ARMEX by voting for it.&lt;/t&gt;</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_Brochure_long5">
+          <Original>&lt;t color='#e6b448' shadow='1' shadowColor='#312100'&gt;Quick Menu?&lt;/t&gt;&lt;br /&gt;&lt;br /&gt;&lt;t align='left'&gt;&lt;img image='ca\modules_e\functions\hints\img\img_info_ca' color='#e6b448' shadow='1' shadowColor='#312100' align='left' /&gt; The Quick Menu is where you can vote, open the quick-select interface and do several other things.&lt;br /&gt;&lt;br /&gt;The Quick Menu can be accessed from the Action Menu, or the Communications Menu (inside vehicles).&lt;/t&gt;</Original>
+          <English>&lt;t color='#e6b448' shadow='1' shadowColor='#312100'&gt;Quick Menu?&lt;/t&gt;&lt;br /&gt;&lt;br /&gt;&lt;t align='left'&gt;&lt;img image='ca\modules_e\functions\hints\img\img_info_ca' color='#e6b448' shadow='1' shadowColor='#312100' align='left' /&gt; The Quick Menu is where you can vote, open the quick-select interface and do several other things.&lt;br /&gt;&lt;br /&gt;The Quick Menu can be accessed from the Action Menu, or the Communications Menu (inside vehicles).&lt;/t&gt;</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_Brochure_long6">
+          <Original>&lt;t color='#e6b448' shadow='1' shadowColor='#312100'&gt;Why Vote?&lt;/t&gt;&lt;br /&gt;&lt;br /&gt;&lt;t align='left'&gt;&lt;img image='ca\modules_e\functions\hints\img\img_info_ca' color='#e6b448' shadow='1' shadowColor='#312100' align='left' /&gt; By voting in the Quick Menu, you can control a number of things. You can start Operation, return to ARMEX or abort an active challenge. It is also possible to vote for a specific challenge to be started.&lt;/t&gt;</Original>
+          <English>&lt;t color='#e6b448' shadow='1' shadowColor='#312100'&gt;Why Vote?&lt;/t&gt;&lt;br /&gt;&lt;br /&gt;&lt;t align='left'&gt;&lt;img image='ca\modules_e\functions\hints\img\img_info_ca' color='#e6b448' shadow='1' shadowColor='#312100' align='left' /&gt; By voting in the Quick Menu, you can control a number of things. You can start Operation, return to ARMEX or abort an active challenge. It is also possible to vote for a specific challenge to be started.&lt;/t&gt;</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_Brochure_short1">
+          <Original>What is ARMEX?</Original>
+          <English>What is ARMEX?</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_Brochure_short2">
+          <Original>Meta-Challenges?</Original>
+          <English>Meta-Challenges?</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_Brochure_short3">
+          <Original>Why Select Items?</Original>
+          <English>Why Select Items?</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_Brochure_short4">
+          <Original>What is Operation?</Original>
+          <English>What is Operation?</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_Brochure_short5">
+          <Original>Quick Menu?</Original>
+          <English>Quick Menu?</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_Brochure_short6">
+          <Original>Why Vote?</Original>
+          <English>Why Vote?</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_DebriefingGUI">
+          <Original>MPA - Debriefing</Original>
+          <English>MPA - Debriefing</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_DebriefingGUI_Rankings_Item">
+          <Original>Item:</Original>
+          <English>Item:</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_DebriefingGUI_Rankings_Name">
+          <Original>Name:</Original>
+          <English>Name:</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_DebriefingGUI_Title">
+          <Original>Session Completed</Original>
+          <English>Session Completed</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_DebriefingGUI_TitleGoal">
+          <Original>Goal:</Original>
+          <English>Goal:</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_DebriefingGUI_TitlePlayers">
+          <Original>Players:</Original>
+          <English>Players:</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_DebriefingGUI_TitleTeam">
+          <Original>Team:</Original>
+          <English>Team:</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_FastTravel">
+          <Original>Fast-Travel</Original>
+          <English>Fast-Travel</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_ItemInfoGUI">
+          <Original>MPA - Item Information</Original>
+          <English>MPA - Item Information</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_ItemInfoGUI_Loading">
+          <Original>Loading</Original>
+          <English>Loading</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_ItemInfoGUI_Selected">
+          <Original>Currently Selected</Original>
+          <English>Currently Selected</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_QuickMenu1">
+          <Original>Voting Menu</Original>
+          <English>Voting Menu</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_QuickMenu2">
+          <Original>Quick-Select Item Menu</Original>
+          <English>Quick-Select Item Menu</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_QuickMenu3">
+          <Original>Disable Assistance</Original>
+          <English>Disable Assistance</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_QuickMenu4">
+          <Original>Enable Assistance</Original>
+          <English>Enable Assistance</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_QuickMenu5">
+          <Original>Show Rankings</Original>
+          <English>Show Rankings</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_QuickMenu6">
+          <Original>Show Time Remaining</Original>
+          <English>Show Time Remaining</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_QuickSelectItemGUI_CancelButton_toolTip">
+          <Original>Cancel Item Selection</Original>
+          <English>Cancel Item Selection</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_QuickSelectItemGUI_FilterFaction">
+          <Original>All Factions</Original>
+          <English>All Factions</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_QuickSelectItemGUI_FilterFaction_toolTip">
+          <Original>Filter for a specific faction</Original>
+          <English>Filter for a specific faction</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_QuickSelectItemGUI_FilterSet_toolTip">
+          <Original>Filter for a specific set</Original>
+          <English>Filter for a specific set</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_QuickSelectItemGUI_FilterType_toolTip">
+          <Original>Filter for a specific type</Original>
+          <English>Filter for a specific type</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_QuickSelectItemGUI_SelectButton">
+          <Original>Select</Original>
+          <English>Select</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_QuickSelectItemGUI_Title">
+          <Original>Quick-Select Item</Original>
+          <English>Quick-Select Item</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_ShowRankingsGUI_CloseButton">
+          <Original>Close</Original>
+          <English>Close</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_ShowRankingsGUI_CloseButton_toolTip">
+          <Original>Close the rankings</Original>
+          <English>Close the rankings</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_ShowRankingsGUI_Title">
+          <Original>Rankings</Original>
+          <English>Rankings</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_SpectateGUI">
+          <Original>MPA - Spectate</Original>
+          <English>MPA - Spectate</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_SpectateGUI_Title">
+          <Original>Spectating</Original>
+          <English>Spectating</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_VoteMenu1">
+          <Original>Start Operation</Original>
+          <English>Start Operation</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_VoteMenu2">
+          <Original>Return to ARMEX</Original>
+          <English>Return to ARMEX</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_VoteMenu3">
+          <Original>Abort Challenge</Original>
+          <English>Abort Challenge</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_UI_VoteMenu4">
+          <Original>Challenge Menu</Original>
+          <English>Challenge Menu</English>
+        </Key>
+      </Container>
+      <Container name="Votes">
+        <Key ID="STR_EP1_MPA_Votes_Broadcast1">
+          <Original>voted to start Operation.</Original>
+          <English>voted to start Operation.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Votes_Broadcast2">
+          <Original>voted to return to ARMEX.</Original>
+          <English>voted to return to ARMEX.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Votes_Broadcast3">
+          <Original>voted to abort the challenge.</Original>
+          <English>voted to abort the challenge.</English>
+        </Key>
+        <Key ID="STR_EP1_MPA_Votes_Broadcast4">
+          <Original>voted for challenge "%1".</Original>
+          <English>voted for challenge "%1".</English>
+        </Key>
+      </Container>
+      <Key ID="STR_EP1_MPA_Area_Entrance">
+        <Original>Entrance / Exit</Original>
+        <English>Entrance / Exit</English>
+      </Key>
+      <Key ID="STR_EP1_MPA_Area_Static">
+        <Original>Static Weapons</Original>
+        <English>Static Weapons</English>
+      </Key>
+      <Key ID="STR_EP1_MPA_Area_Tracked">
+        <Original>Tracked Vehicles</Original>
+        <English>Tracked Vehicles</English>
+      </Key>
+      <Key ID="STR_EP1_MPA_Area_Wheeled">
+        <Original>Wheeled Vehicles</Original>
+        <English>Wheeled Vehicles</English>
+      </Key>
+      <Key ID="STR_EP1_MPA_ARMEX_task">
+        <Original>Have fun exploring all of the %1 areas and items.&lt;br /&gt;</Original>
+        <English>Have fun exploring all of the %1 areas and items.&lt;br /&gt;</English>
+      </Key>
+      <Key ID="STR_EP1_MPA_ARMEX_taskShort">
+        <Original>Explore ARMEX</Original>
+        <English>Explore ARMEX</English>
+      </Key>
+      <Key ID="STR_EP1_MPA_ArmoryManager">
+        <Original>Armory Manager</Original>
+        <English>Armory Manager</English>
+      </Key>
+      <Key ID="STR_EP1_MPA_ArmoryMPManager">
+        <Original>Armory MP Manager</Original>
+        <English>Armory MP Manager</English>
+      </Key>
+      <Key ID="STR_EP1_MPA_Briefing_End1">
+        <Original>Your team has achieved the target amount of points.</Original>
+        <English>Your team has achieved the target amount of points.</English>
+      </Key>
+      <Key ID="STR_EP1_MPA_Briefing_End2">
+        <Original>Your team was not able to achieve the target amount of points.</Original>
+        <English>Your team was not able to achieve the target amount of points.</English>
+      </Key>
+      <Key ID="STR_EP1_MPA_Briefing_End3">
+        <Original>You did not achieve the highest amount of points this time.</Original>
+        <English>You did not achieve the highest amount of points this time.</English>
+      </Key>
+      <Key ID="STR_EP1_MPA_Briefing_End4">
+        <Original>You achieved the highest amount of points.</Original>
+        <English>You achieved the highest amount of points.</English>
+      </Key>
+      <Key ID="STR_EP1_MPA_Briefing_Failure">
+        <Original>Failure</Original>
+        <English>Failure</English>
+      </Key>
+      <Key ID="STR_EP1_MPA_Briefing_Success">
+        <Original>Success</Original>
+        <English>Success</English>
+      </Key>
+      <Key ID="STR_EP1_MPA_briefingDescription">
+        <Original>have fun using all equipment together!</Original>
+        <English>have fun using all equipment together!</English>
+      </Key>
+      <Key ID="STR_EP1_MPA_briefingName">
+        <Original>COOP 08 Armory</Original>
+        <English>COOP 08 Armory</English>
+      </Key>
+      <Key ID="STR_EP1_MPA_Type_Tracked">
+        <Original>Tracked</Original>
+        <English>Tracked</English>
+      </Key>
+      <Key ID="STR_EP1_MPA_Type_Wheeled">
+        <Original>Wheeled</Original>
+        <English>Wheeled</English>
+      </Key>
+    </Container>
+    <Container name="SSM">
+      <Key ID="str_ep1_airstrike">
+        <Original>Request Airstrike</Original>
+        <English>Request Airstrike</English>
+      </Key>
+      <Key ID="str_ep1_ammo_drop">
+        <Original>Request Ammo Drop</Original>
+        <English>Request Ammo Drop</English>
+      </Key>
+      <Key ID="str_ep1_artillery">
+        <Original>Request Artillery Support</Original>
+        <English>Request Artillery Support</English>
+      </Key>
+      <Key ID="str_ep1_cancel_support">
+        <Original>Cancel support(s)</Original>
+        <English>Cancel support(s)</English>
+      </Key>
+      <Key ID="str_ep1_menu_title">
+        <Original>Support menu</Original>
+        <English>Support menu</English>
+      </Key>
+      <Key ID="str_ep1_mortar">
+        <Original>Request Mortar Support</Original>
+        <English>Request Mortar Support</English>
+      </Key>
+      <Key ID="str_ep1_paradrop">
+        <Original>Request Units</Original>
+        <English>Request Units</English>
+      </Key>
+    </Container>
+    <Container name="ULB">
+      <Key ID="STR_EP1_ULB_actionX">
+        <Original>ULB</Original>
+        <English>ULB</English>
+      </Key>
+    </Container>
+  </Package>
+</Project>

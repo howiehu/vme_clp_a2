@@ -1,0 +1,12 @@
+binpbo.exe D:\SVN\VMECLPBuild\vmeclp\AddOns\vme_clp_f D:\SVN\VMECLPBuild\Build\@vme_clp\AddOns -BINARIZE -clear -temp D:\SVN\VMECLPBuild\Temp -debug -prefix vme_clp_f -sign D:\SVN\VMECLPBuild\vmeclp\Keys\vme_clp.biprivatekey
+binpbo.exe D:\SVN\VMECLPBuild\vmeclp\AddOns\vme_clp_l D:\SVN\VMECLPBuild\Build\@vme_clp\AddOns -pack -clear -temp D:\SVN\VMECLPBuild\Temp -debug -prefix ca\language -sign D:\SVN\VMECLPBuild\vmeclp\Keys\vme_clp.biprivatekey
+binpbo.exe D:\SVN\VMECLPBuild\vmeclp\AddOns\vme_clp_l_e D:\SVN\VMECLPBuild\Build\@vme_clp\AddOns -pack -clear -temp D:\SVN\VMECLPBuild\Temp -debug -prefix ca\language_e -sign D:\SVN\VMECLPBuild\vmeclp\Keys\vme_clp.biprivatekey
+binpbo.exe D:\SVN\VMECLPBuild\vmeclp\AddOns\vme_clp_l_m D:\SVN\VMECLPBuild\Build\@vme_clp\AddOns -pack -clear -temp D:\SVN\VMECLPBuild\Temp -debug -prefix ca\languagemissions -sign D:\SVN\VMECLPBuild\vmeclp\Keys\vme_clp.biprivatekey
+binpbo.exe D:\SVN\VMECLPBuild\vmeclp\AddOns\vme_clp_l_m_e D:\SVN\VMECLPBuild\Build\@vme_clp\AddOns -pack -clear -temp D:\SVN\VMECLPBuild\Temp -debug -prefix ca\languagemissions_e -sign D:\SVN\VMECLPBuild\vmeclp\Keys\vme_clp.biprivatekey
+
+binpbo.exe D:\SVN\VMECLPBuild\vmeclp\AddOns\vme_clp_l_b D:\SVN\VMECLPBuild\Build\@vme_clp\AddOns -pack -clear -temp D:\SVN\VMECLPBuild\Temp -debug -prefix ca\language_baf -sign D:\SVN\VMECLPBuild\vmeclp\Keys\vme_clp.biprivatekey
+binpbo.exe D:\SVN\VMECLPBuild\vmeclp\AddOns\vme_clp_l_p D:\SVN\VMECLPBuild\Build\@vme_clp\AddOns -pack -clear -temp D:\SVN\VMECLPBuild\Temp -debug -prefix ca\language_pmc -sign D:\SVN\VMECLPBuild\vmeclp\Keys\vme_clp.biprivatekey
+binpbo.exe D:\SVN\VMECLPBuild\vmeclp\AddOns\vme_clp_l_m_b D:\SVN\VMECLPBuild\Build\@vme_clp\AddOns -pack -clear -temp D:\SVN\VMECLPBuild\Temp -debug -prefix ca\languagemissions_baf -sign D:\SVN\VMECLPBuild\vmeclp\Keys\vme_clp.biprivatekey
+binpbo.exe D:\SVN\VMECLPBuild\vmeclp\AddOns\vme_clp_l_m_p D:\SVN\VMECLPBuild\Build\@vme_clp\AddOns -pack -clear -temp D:\SVN\VMECLPBuild\Temp -debug -prefix ca\languagemissions_pmc -sign D:\SVN\VMECLPBuild\vmeclp\Keys\vme_clp.biprivatekey
+
+binpbo.exe D:\SVN\VMECLPBuild\vmeclp\Dta\vme_clp_l_c D:\SVN\VMECLPBuild\Build\@vme_clp\Dta -pack -clear -temp D:\SVN\VMECLPBuild\Temp -debug -prefix languagecore -sign D:\SVN\VMECLPBuild\vmeclp\Keys\vme_clp.biprivatekey
